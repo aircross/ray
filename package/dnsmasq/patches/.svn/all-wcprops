@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ezp/!svn/ver/4544/branches/ray/package/dnsmasq/patches
+END
+101-ipv6.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ezp/!svn/ver/2941/branches/ray/package/dnsmasq/patches/101-ipv6.patch
+END
+200-dns-specify.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/2941/branches/ray/package/dnsmasq/patches/200-dns-specify.patch
+END
+202-special-for-apple.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/4544/branches/ray/package/dnsmasq/patches/202-special-for-apple.patch
+END
+201-dhcp-timeshift.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/package/dnsmasq/patches/201-dhcp-timeshift.patch
+END
+102-sequential_ipassignment.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2941/branches/ray/package/dnsmasq/patches/102-sequential_ipassignment.patch
+END

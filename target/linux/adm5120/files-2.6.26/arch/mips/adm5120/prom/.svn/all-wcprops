@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/arch/mips/adm5120/prom
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/arch/mips/adm5120/prom/Makefile
+END
+generic.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/arch/mips/adm5120/prom/generic.c
+END
+myloader.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/arch/mips/adm5120/prom/myloader.c
+END
+cfe.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/arch/mips/adm5120/prom/cfe.c
+END
+prom_read.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/arch/mips/adm5120/prom/prom_read.h
+END
+bootbase.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/arch/mips/adm5120/prom/bootbase.c
+END
+routerboot.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/arch/mips/adm5120/prom/routerboot.c
+END
+admboot.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/arch/mips/adm5120/prom/admboot.c
+END

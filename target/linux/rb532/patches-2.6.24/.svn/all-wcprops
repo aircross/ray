@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rb532/patches-2.6.24
+END
+220-serial_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rb532/patches-2.6.24/220-serial_fix.patch
+END
+520-rc32434_wdt.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rb532/patches-2.6.24/520-rc32434_wdt.patch
+END
+120-cf.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rb532/patches-2.6.24/120-cf.patch
+END
+200-bridge_resource_hack.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rb532/patches-2.6.24/200-bridge_resource_hack.patch
+END
+240-via_rhine_performance.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rb532/patches-2.6.24/240-via_rhine_performance.patch
+END
+530-no_panic_pci_iomap.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rb532/patches-2.6.24/530-no_panic_pci_iomap.patch
+END
+510-rb500_led.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rb532/patches-2.6.24/510-rb500_led.patch
+END
+110-korina_ethernet.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rb532/patches-2.6.24/110-korina_ethernet.patch
+END
+100-rb5xx_support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rb532/patches-2.6.24/100-rb5xx_support.patch
+END
+140-cmdline_hack.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rb532/patches-2.6.24/140-cmdline_hack.patch
+END

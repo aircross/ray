@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/patches-2.6.26
+END
+110-flash.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/patches-2.6.26/110-flash.patch
+END
+500-serial_kludge.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/patches-2.6.26/500-serial_kludge.patch
+END
+100-board_support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/patches-2.6.26/100-board_support.patch
+END
+200-mtd_fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/patches-2.6.26/200-mtd_fixes.patch
+END
+150-cpmac_not_broken.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/patches-2.6.26/150-cpmac_not_broken.patch
+END
+900-cpmac_multiqueue.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/patches-2.6.26/900-cpmac_multiqueue.patch
+END
+120-gpio_chrdev.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/patches-2.6.26/120-gpio_chrdev.patch
+END
+130-vlynq.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/patches-2.6.26/130-vlynq.patch
+END
+900-temporary_cpmac_hack.diff
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/patches-2.6.26/900-temporary_cpmac_hack.diff
+END

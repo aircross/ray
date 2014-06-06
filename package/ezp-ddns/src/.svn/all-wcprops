@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ezp/!svn/ver/3874/branches/ray/package/ezp-ddns/src
+END
+ddns.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ezp/!svn/ver/3874/branches/ray/package/ezp-ddns/src/ddns.c
+END
+md5c.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ezp/!svn/ver/3814/branches/ray/package/ezp-ddns/src/md5c.c
+END
+nas_hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/3814/branches/ray/package/ezp-ddns/src/nas_hash.h
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ezp/!svn/ver/3814/branches/ray/package/ezp-ddns/src/md5.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/3814/branches/ray/package/ezp-ddns/src/Makefile
+END
+ddns.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ezp/!svn/ver/3874/branches/ray/package/ezp-ddns/src/ddns.h
+END
+nas_hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/3814/branches/ray/package/ezp-ddns/src/nas_hash.c
+END

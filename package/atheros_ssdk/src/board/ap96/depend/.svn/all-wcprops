@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/depend
+END
+ip_conntrack_tftp.ko
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/depend/ip_conntrack_tftp.ko
+END
+ip_nat_tftp.ko
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/depend/ip_nat_tftp.ko
+END
+ip_conntrack_pptp.ko
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/depend/ip_conntrack_pptp.ko
+END
+ip_nat_pptp.ko
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/depend/ip_nat_pptp.ko
+END
+ip_conntrack_ftp.ko
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/depend/ip_conntrack_ftp.ko
+END
+ip_nat_ftp.ko
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/depend/ip_nat_ftp.ko
+END

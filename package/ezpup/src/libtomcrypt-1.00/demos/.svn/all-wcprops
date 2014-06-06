@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/libtomcrypt-1.00/demos
+END
+multi.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/libtomcrypt-1.00/demos/multi.c
+END
+x86_prof.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/libtomcrypt-1.00/demos/x86_prof.c
+END
+tv_gen.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/libtomcrypt-1.00/demos/tv_gen.c
+END
+encrypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/libtomcrypt-1.00/demos/encrypt.c
+END
+hashsum.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/libtomcrypt-1.00/demos/hashsum.c
+END
+small.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/libtomcrypt-1.00/demos/small.c
+END

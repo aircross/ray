@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rdc/files/arch/i386/mach-rdc
+END
+gpio.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rdc/files/arch/i386/mach-rdc/gpio.c
+END
+wdt.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rdc/files/arch/i386/mach-rdc/wdt.c
+END
+setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rdc/files/arch/i386/mach-rdc/setup.c
+END
+platform.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rdc/files/arch/i386/mach-rdc/platform.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rdc/files/arch/i386/mach-rdc/Makefile
+END

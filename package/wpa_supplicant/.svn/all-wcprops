@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ezp/!svn/ver/2941/branches/ray/package/wpa_supplicant
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/2941/branches/ray/package/wpa_supplicant/Makefile
+END
+config
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/2941/branches/ray/package/wpa_supplicant/config
+END
+Config.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/2941/branches/ray/package/wpa_supplicant/Config.in
+END

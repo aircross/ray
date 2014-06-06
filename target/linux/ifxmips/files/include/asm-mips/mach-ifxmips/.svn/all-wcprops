@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ifxmips/files/include/asm-mips/mach-ifxmips
+END
+gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ifxmips/files/include/asm-mips/mach-ifxmips/gpio.h
+END
+war.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ifxmips/files/include/asm-mips/mach-ifxmips/war.h
+END
+irq.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ifxmips/files/include/asm-mips/mach-ifxmips/irq.h
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/patches-2.6.26
+END
+900-mips_multi_machine_support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/patches-2.6.26/900-mips_multi_machine_support.patch
+END
+902-mips_clocksource_init_war.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/patches-2.6.26/902-mips_clocksource_init_war.patch
+END
+004-ar71xx_spi_controller.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/patches-2.6.26/004-ar71xx_spi_controller.patch
+END
+140-redboot_partition_scan.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/patches-2.6.26/140-redboot_partition_scan.patch
+END
+101-ksz8041_phy_driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/patches-2.6.26/101-ksz8041_phy_driver.patch
+END
+901-get_c0_compare_irq_function.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/patches-2.6.26/901-get_c0_compare_irq_function.patch
+END
+001-ar71xx_core.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/patches-2.6.26/001-ar71xx_core.patch
+END
+003-ar71xx_usb_host.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/patches-2.6.26/003-ar71xx_usb_host.patch
+END
+100-mtd_pm25lv_flash_support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/patches-2.6.26/100-mtd_pm25lv_flash_support.patch
+END
+300-mips_fw_myloader.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/patches-2.6.26/300-mips_fw_myloader.patch
+END
+200-rb4xx_nand_driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/patches-2.6.26/200-rb4xx_nand_driver.patch
+END
+002-ar71xx_pci.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/patches-2.6.26/002-ar71xx_pci.patch
+END
+006-ar71xx_wdt_driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/patches-2.6.26/006-ar71xx_wdt_driver.patch
+END
+005-ar71xx_mac_driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/patches-2.6.26/005-ar71xx_mac_driver.patch
+END

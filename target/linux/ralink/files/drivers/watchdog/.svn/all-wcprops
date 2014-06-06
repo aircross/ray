@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/watchdog
+END
+ralink_wdt.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/watchdog/ralink_wdt.c
+END
+ralink_period.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/watchdog/ralink_period.c
+END
+ralink_wdt.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/watchdog/ralink_wdt.h
+END

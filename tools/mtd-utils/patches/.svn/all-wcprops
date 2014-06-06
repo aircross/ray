@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ezp/!svn/ver/2941/branches/ray/tools/mtd-utils/patches
+END
+100-gcc4_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/2941/branches/ray/tools/mtd-utils/patches/100-gcc4_fix.patch
+END
+110-portability_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/tools/mtd-utils/patches/110-portability_fix.patch
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/x86/generic/profiles
+END
+Soekris.mk
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/x86/generic/profiles/Soekris.mk
+END
+000-Generic.mk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/x86/generic/profiles/000-Generic.mk
+END
+Pcengines.mk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/x86/generic/profiles/Pcengines.mk
+END
+Alix.mk
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/x86/generic/profiles/Alix.mk
+END

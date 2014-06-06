@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ezp/!svn/ver/3473/branches/ray/package/ezp-nconfig/files
+END
+nconfig.awk
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ezp/!svn/ver/3153/branches/ray/package/ezp-nconfig/files/nconfig.awk
+END
+set_fac_nvram
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezp-nconfig/files/set_fac_nvram
+END
+upgrade
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/3473/branches/ray/package/ezp-nconfig/files/upgrade
+END
+inittab
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezp-nconfig/files/inittab
+END
+set_mode
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezp-nconfig/files/set_mode
+END
+nconfig
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/3473/branches/ray/package/ezp-nconfig/files/nconfig
+END

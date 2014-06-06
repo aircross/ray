@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files/drivers/net/phy
+END
+adm6996.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files/drivers/net/phy/adm6996.c
+END
+adm6996.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files/drivers/net/phy/adm6996.h
+END
+mvswitch.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files/drivers/net/phy/mvswitch.c
+END
+mvswitch.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files/drivers/net/phy/mvswitch.h
+END

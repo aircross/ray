@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/files/www.GARMIN/ext/js/jqPlot/plugins
+END
+jqplot.dateAxisRenderer.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/files/www.GARMIN/ext/js/jqPlot/plugins/jqplot.dateAxisRenderer.min.js
+END
+jqplot.cursor.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/files/www.GARMIN/ext/js/jqPlot/plugins/jqplot.cursor.min.js
+END
+jqplot.highlighter.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/files/www.GARMIN/ext/js/jqPlot/plugins/jqplot.highlighter.min.js
+END

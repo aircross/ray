@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ezp/!svn/ver/2941/branches/ray/package/libtool/patches
+END
+120-libdir_search.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/package/libtool/patches/120-libdir_search.patch
+END
+001-force_dlopen_deplibs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/package/libtool/patches/001-force_dlopen_deplibs.patch
+END
+100-libdir_path.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/2941/branches/ray/package/libtool/patches/100-libdir_path.patch
+END
+110-no_rpath.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/2941/branches/ray/package/libtool/patches/110-no_rpath.patch
+END

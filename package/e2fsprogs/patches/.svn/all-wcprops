@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ezp/!svn/ver/3896/branches/ray/package/e2fsprogs/patches
+END
+002-quick_format.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/package/e2fsprogs/patches/002-quick_format.patch
+END
+001-fix_abs_shlibs_symlinks.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/2941/branches/ray/package/e2fsprogs/patches/001-fix_abs_shlibs_symlinks.patch
+END
+003-exfat-verify.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/3896/branches/ray/package/e2fsprogs/patches/003-exfat-verify.patch
+END

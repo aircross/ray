@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ezp/!svn/ver/4550/branches/ray/package/ezp-cli/src
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezp-cli/src/Makefile
+END
+cli.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ezp/!svn/ver/4550/branches/ray/package/ezp-cli/src/cli.c
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/4449/branches/ray/target/linux/generic-2.6/files-2.6.26/drivers/usb/serial
+END
+sierra.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ezp/!svn/ver/3110/branches/ray/target/linux/generic-2.6/files-2.6.26/drivers/usb/serial/sierra.c
+END
+option.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ezp/!svn/ver/4449/branches/ray/target/linux/generic-2.6/files-2.6.26/drivers/usb/serial/option.c
+END
+hso.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files-2.6.26/drivers/usb/serial/hso.c
+END

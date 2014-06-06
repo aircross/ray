@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ezp/!svn/ver/2941/branches/ray/package/net-snmp/patches
+END
+100-debian-statistics.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/package/net-snmp/patches/100-debian-statistics.patch
+END
+140-debian-docfiles.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/package/net-snmp/patches/140-debian-docfiles.patch
+END
+150-debian-defaultconfig.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2941/branches/ray/package/net-snmp/patches/150-debian-defaultconfig.patch
+END
+110-debian-makefiles.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/package/net-snmp/patches/110-debian-makefiles.patch
+END
+130-debian-extramibs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/package/net-snmp/patches/130-debian-extramibs.patch
+END
+170-ldflags.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/2941/branches/ray/package/net-snmp/patches/170-ldflags.patch
+END
+750-ieee802dot11.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/package/net-snmp/patches/750-ieee802dot11.patch
+END
+160-no_ldconfig.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/package/net-snmp/patches/160-no_ldconfig.patch
+END
+120-debian-searchdirs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/package/net-snmp/patches/120-debian-searchdirs.patch
+END

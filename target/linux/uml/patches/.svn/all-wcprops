@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/uml/patches
+END
+001-gcc4_unit_at_a_time_i386_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/uml/patches/001-gcc4_unit_at_a_time_i386_fix.patch
+END

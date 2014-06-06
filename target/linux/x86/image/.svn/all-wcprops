@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/x86/image
+END
+menu.lst
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/x86/image/menu.lst
+END
+Config.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/x86/image/Config.in
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/x86/image/Makefile
+END
+gen_image.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/x86/image/gen_image.sh
+END

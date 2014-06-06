@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ezp/!svn/ver/4401/branches/ray/tools/lzma_new/patches
+END
+002-lzmp.patch
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ezp/!svn/ver/4401/branches/ray/tools/lzma_new/patches/002-lzmp.patch
+END
+003-compile_fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/4401/branches/ray/tools/lzma_new/patches/003-compile_fixes.patch
+END
+100-static_library.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/4401/branches/ray/tools/lzma_new/patches/100-static_library.patch
+END
+001-large_files.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/4401/branches/ray/tools/lzma_new/patches/001-large_files.patch
+END

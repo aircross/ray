@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ezp/!svn/ver/2941/branches/ray/package/broadcom-wl/src/wlc
+END
+ioctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ezp/!svn/ver/2941/branches/ray/package/broadcom-wl/src/wlc/ioctl.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ezp/!svn/ver/2941/branches/ray/package/broadcom-wl/src/wlc/Makefile
+END
+wlc.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/2941/branches/ray/package/broadcom-wl/src/wlc/wlc.c
+END

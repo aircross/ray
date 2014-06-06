@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ezp/!svn/ver/2941/branches/ray/package/libupnp/patches
+END
+003-ezp-ralink_upnp.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/package/libupnp/patches/003-ezp-ralink_upnp.patch
+END
+002-ezp-ralink_threadutil.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2941/branches/ray/package/libupnp/patches/002-ezp-ralink_threadutil.patch
+END
+001-ezp-ralink_ixml.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/package/libupnp/patches/001-ezp-ralink_ixml.patch
+END

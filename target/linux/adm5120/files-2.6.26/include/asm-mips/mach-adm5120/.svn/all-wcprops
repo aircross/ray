@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/include/asm-mips/mach-adm5120
+END
+adm5120_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/include/asm-mips/mach-adm5120/adm5120_info.h
+END
+adm5120_uart.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/include/asm-mips/mach-adm5120/adm5120_uart.h
+END
+adm5120_mpmc.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/include/asm-mips/mach-adm5120/adm5120_mpmc.h
+END
+adm5120_intc.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/include/asm-mips/mach-adm5120/adm5120_intc.h
+END
+adm5120_nand.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/include/asm-mips/mach-adm5120/adm5120_nand.h
+END
+war.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/include/asm-mips/mach-adm5120/war.h
+END
+adm5120_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/include/asm-mips/mach-adm5120/adm5120_defs.h
+END
+adm5120_switch.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/include/asm-mips/mach-adm5120/adm5120_switch.h
+END
+irq.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/include/asm-mips/mach-adm5120/irq.h
+END
+adm5120_platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/include/asm-mips/mach-adm5120/adm5120_platform.h
+END
+gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/include/asm-mips/mach-adm5120/gpio.h
+END
+adm5120_board.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/include/asm-mips/mach-adm5120/adm5120_board.h
+END
+cpu-feature-overrides.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/include/asm-mips/mach-adm5120/cpu-feature-overrides.h
+END

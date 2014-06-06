@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ezp/!svn/ver/4430/branches/ray/package/snort/files
+END
+snort.init
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/4430/branches/ray/package/snort/files/snort.init
+END
+snort.local.rules
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ezp/!svn/ver/4430/branches/ray/package/snort/files/snort.local.rules
+END
+snort.default
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/4430/branches/ray/package/snort/files/snort.default
+END
+snort.bin
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/4430/branches/ray/package/snort/files/snort.bin
+END

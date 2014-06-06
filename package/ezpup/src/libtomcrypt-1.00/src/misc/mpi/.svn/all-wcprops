@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/libtomcrypt-1.00/src/misc/mpi
+END
+mpi_to_ltc_error.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/libtomcrypt-1.00/src/misc/mpi/mpi_to_ltc_error.c
+END
+mpi.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/libtomcrypt-1.00/src/misc/mpi/mpi.c
+END
+is_prime.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/libtomcrypt-1.00/src/misc/mpi/is_prime.c
+END
+rand_prime.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/libtomcrypt-1.00/src/misc/mpi/rand_prime.c
+END

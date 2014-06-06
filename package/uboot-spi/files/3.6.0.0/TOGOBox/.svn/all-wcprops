@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/3663/branches/ray/package/uboot-spi/files/3.6.0.0/TOGOBox
+END
+System.map
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/3663/branches/ray/package/uboot-spi/files/3.6.0.0/TOGOBox/System.map
+END
+autoconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/3663/branches/ray/package/uboot-spi/files/3.6.0.0/TOGOBox/autoconf.h
+END
+config
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/3663/branches/ray/package/uboot-spi/files/3.6.0.0/TOGOBox/config
+END

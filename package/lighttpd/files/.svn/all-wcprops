@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ezp/!svn/ver/4515/branches/ray/package/lighttpd/files
+END
+lighttpd.conf.qfile.fcgi
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/4515/branches/ray/package/lighttpd/files/lighttpd.conf.qfile.fcgi
+END
+lighttpd.init
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ezp/!svn/ver/3596/branches/ray/package/lighttpd/files/lighttpd.init
+END
+lighttpd.conf.qfile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/4409/branches/ray/package/lighttpd/files/lighttpd.conf.qfile
+END
+lighttpd.conf
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ezp/!svn/ver/3546/branches/ray/package/lighttpd/files/lighttpd.conf
+END
+lighttpd.conf.qfile.cgi
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/4515/branches/ray/package/lighttpd/files/lighttpd.conf.qfile.cgi
+END

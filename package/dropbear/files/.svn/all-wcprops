@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ezp/!svn/ver/4429/branches/ray/package/dropbear/files
+END
+dropbear.config
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ezp/!svn/ver/2941/branches/ray/package/dropbear/files/dropbear.config
+END
+dropbear_rsa_host_key
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/2941/branches/ray/package/dropbear/files/dropbear_rsa_host_key
+END
+dropbear_dss_host_key
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/2941/branches/ray/package/dropbear/files/dropbear_dss_host_key
+END
+dropbear.init
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ezp/!svn/ver/4429/branches/ray/package/dropbear/files/dropbear.init
+END

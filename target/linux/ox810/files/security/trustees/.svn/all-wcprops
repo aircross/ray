@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/security/trustees
+END
+security.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/security/trustees/security.c
+END
+fs.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/security/trustees/fs.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/security/trustees/Makefile
+END
+funcs.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/security/trustees/funcs.c
+END
+internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/security/trustees/internal.h
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/security/trustees/init.c
+END

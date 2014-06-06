@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/atheros/files/drivers/net/ar2313
+END
+ar2313.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/atheros/files/drivers/net/ar2313/ar2313.h
+END
+dma.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/atheros/files/drivers/net/ar2313/dma.h
+END
+ar2313.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/atheros/files/drivers/net/ar2313/ar2313.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/atheros/files/drivers/net/ar2313/Makefile
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/libtomcrypt-1.00/src/modes/cbc
+END
+cbc_decrypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/libtomcrypt-1.00/src/modes/cbc/cbc_decrypt.c
+END
+cbc_setiv.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/libtomcrypt-1.00/src/modes/cbc/cbc_setiv.c
+END
+cbc_start.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/libtomcrypt-1.00/src/modes/cbc/cbc_start.c
+END
+cbc_getiv.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/libtomcrypt-1.00/src/modes/cbc/cbc_getiv.c
+END
+cbc_encrypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/libtomcrypt-1.00/src/modes/cbc/cbc_encrypt.c
+END

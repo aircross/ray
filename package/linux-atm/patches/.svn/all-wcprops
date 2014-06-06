@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ezp/!svn/ver/2941/branches/ray/package/linux-atm/patches
+END
+600-arpd_includes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/package/linux-atm/patches/600-arpd_includes.patch
+END
+700-libtoolize.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/package/linux-atm/patches/700-libtoolize.patch
+END
+200-no_libfl.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/2941/branches/ray/package/linux-atm/patches/200-no_libfl.patch
+END
+000-debian_16.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/2941/branches/ray/package/linux-atm/patches/000-debian_16.patch
+END
+300-no_autotools.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/package/linux-atm/patches/300-no_autotools.patch
+END
+500-reenable_arpd.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/package/linux-atm/patches/500-reenable_arpd.patch
+END
+400-stdint_local_instead_of_host.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/2941/branches/ray/package/linux-atm/patches/400-stdint_local_instead_of_host.patch
+END
+100-subdirs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/2941/branches/ray/package/linux-atm/patches/100-subdirs.patch
+END

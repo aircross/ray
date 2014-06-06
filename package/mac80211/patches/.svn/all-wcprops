@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ezp/!svn/ver/2941/branches/ray/package/mac80211/patches
+END
+001-disable_drivers.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/package/mac80211/patches/001-disable_drivers.patch
+END
+004-allow-ap-vlan-modes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/package/mac80211/patches/004-allow-ap-vlan-modes.patch
+END

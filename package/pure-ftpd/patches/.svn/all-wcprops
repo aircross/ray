@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ezp/!svn/ver/2941/branches/ray/package/pure-ftpd/patches
+END
+002-ezp-purepw.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/package/pure-ftpd/patches/002-ezp-purepw.patch
+END
+001-cross_compile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/package/pure-ftpd/patches/001-cross_compile.patch
+END

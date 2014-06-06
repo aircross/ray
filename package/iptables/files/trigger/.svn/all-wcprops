@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/2941/branches/ray/package/iptables/files/trigger
+END
+ezp-ipt-trigger
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/package/iptables/files/trigger/ezp-ipt-trigger
+END
+ipt-trigger.init
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/package/iptables/files/trigger/ipt-trigger.init
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ezp/!svn/ver/2941/branches/ray/package/rp-pppoe/files
+END
+pppoe-relay.init
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/2941/branches/ray/package/rp-pppoe/files/pppoe-relay.init
+END
+pppoe-relay.default
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/2941/branches/ray/package/rp-pppoe/files/pppoe-relay.default
+END
+pppoe-client.init
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/2941/branches/ray/package/rp-pppoe/files/pppoe-client.init
+END
+pppoe-server.init
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/2941/branches/ray/package/rp-pppoe/files/pppoe-server.init
+END
+pppoe-server.default
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/2941/branches/ray/package/rp-pppoe/files/pppoe-server.default
+END

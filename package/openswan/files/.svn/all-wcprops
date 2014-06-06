@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ezp/!svn/ver/3712/branches/ray/package/openswan/files
+END
+no_oe.conf
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/2941/branches/ray/package/openswan/files/no_oe.conf
+END
+ipsec.init
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/3712/branches/ray/package/openswan/files/ipsec.init
+END
+setup
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ezp/!svn/ver/2999/branches/ray/package/openswan/files/setup
+END

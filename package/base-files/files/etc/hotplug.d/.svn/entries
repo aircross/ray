@@ -1,0 +1,43 @@
+10
+
+dir
+4555
+http://10.1.1.220/svn/ezp/branches/ray/package/base-files/files/etc/hotplug.d
+http://10.1.1.220/svn/ezp
+
+
+
+2014-06-04T00:45:02.993373Z
+4553
+chenhj
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4064d987-9b4f-47e4-b477-b414e01e45b4
+
+net
+dir
+
+iface
+dir
+
+usb
+dir
+
+usb_endpoint
+dir
+
+block
+dir
+

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/2941/branches/ray/package/strace/patches-4.5.16
+END
+003-avr32_support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2941/branches/ray/package/strace/patches-4.5.16/003-avr32_support.patch
+END
+001-arm_eabi_syscalls.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2941/branches/ray/package/strace/patches-4.5.16/001-arm_eabi_syscalls.patch
+END
+010-cris_support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/package/strace/patches-4.5.16/010-cris_support.patch
+END
+002-arm_bad_syscall.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2941/branches/ray/package/strace/patches-4.5.16/002-arm_bad_syscall.patch
+END
+004-no_cacheflush.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2941/branches/ray/package/strace/patches-4.5.16/004-no_cacheflush.patch
+END

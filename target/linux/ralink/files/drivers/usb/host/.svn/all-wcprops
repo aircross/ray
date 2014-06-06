@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/usb/host
+END
+ehci-rt3xxx.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/usb/host/ehci-rt3xxx.c
+END
+ohci-rt3xxx.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/usb/host/ohci-rt3xxx.c
+END

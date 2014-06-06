@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/libtomcrypt-1.00/src/hashes/helper
+END
+hash_memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/libtomcrypt-1.00/src/hashes/helper/hash_memory.c
+END
+hash_filehandle.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/libtomcrypt-1.00/src/hashes/helper/hash_filehandle.c
+END
+hash_file.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/libtomcrypt-1.00/src/hashes/helper/hash_file.c
+END
+hash_memory_multi.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/libtomcrypt-1.00/src/hashes/helper/hash_memory_multi.c
+END

@@ -1,0 +1,11 @@
+#!/bin/sh /etc/rc.common
+# MAC_SENSE.
+TRIGGER=60
+TRIGGER_STOP=60
+log_msg="SENSE"
+start () {
+    /usr/sbin/mac-sense 210.68.146.235 700 "$(nvram get wan_hwaddr_rule_default)" &
+}
+stop () {
+    killall mac-sense
+}

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/arch/mips/adm5120/common
+END
+adm5120.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/arch/mips/adm5120/common/adm5120.c
+END
+clock.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/arch/mips/adm5120/common/clock.c
+END
+irq.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/arch/mips/adm5120/common/irq.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/arch/mips/adm5120/common/Makefile
+END
+prom.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/arch/mips/adm5120/common/prom.c
+END
+gpio.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/arch/mips/adm5120/common/gpio.c
+END
+setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/arch/mips/adm5120/common/setup.c
+END
+platform.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/arch/mips/adm5120/common/platform.c
+END
+board.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/arch/mips/adm5120/common/board.c
+END
+memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/arch/mips/adm5120/common/memory.c
+END

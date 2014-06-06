@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ezp/!svn/ver/3728/branches/ray/target/linux/ralink/f8d32-2t2r-ar8316
+END
+target.mk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/f8d32-2t2r-ar8316/target.mk
+END
+config-2.6.26
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/3728/branches/ray/target/linux/ralink/f8d32-2t2r-ar8316/config-2.6.26
+END

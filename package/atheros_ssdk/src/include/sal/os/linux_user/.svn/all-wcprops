@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/include/sal/os/linux_user
+END
+aos_types_pvt.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/include/sal/os/linux_user/aos_types_pvt.h
+END
+aos_lock_pvt.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/include/sal/os/linux_user/aos_lock_pvt.h
+END
+aos_mem_pvt.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/include/sal/os/linux_user/aos_mem_pvt.h
+END
+aos_timer_pvt.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/include/sal/os/linux_user/aos_timer_pvt.h
+END

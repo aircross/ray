@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ezp/!svn/ver/2941/branches/ray/package/6scripts/files
+END
+6tunnel.init
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ezp/!svn/ver/2941/branches/ray/package/6scripts/files/6tunnel.init
+END
+he-tun.ppp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/2941/branches/ray/package/6scripts/files/he-tun.ppp
+END
+6tunnel.conf
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ezp/!svn/ver/2941/branches/ray/package/6scripts/files/6tunnel.conf
+END
+6bridge.init
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ezp/!svn/ver/2941/branches/ray/package/6scripts/files/6bridge.init
+END
+6bridge.conf
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ezp/!svn/ver/2941/branches/ray/package/6scripts/files/6bridge.conf
+END

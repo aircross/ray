@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3883/include/chip
+END
+rt2880.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3883/include/chip/rt2880.h
+END
+rt2883.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3883/include/chip/rt2883.h
+END
+mac_pci.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3883/include/chip/mac_pci.h
+END
+rt3883.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3883/include/chip/rt3883.h
+END
+chip_id.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3883/include/chip/chip_id.h
+END
+rt28xx.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3883/include/chip/rt28xx.h
+END
+rt3352.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3883/include/chip/rt3352.h
+END
+rtmp_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3883/include/chip/rtmp_mac.h
+END
+rtmp_phy.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3883/include/chip/rtmp_phy.h
+END
+rt2860.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3883/include/chip/rt2860.h
+END
+rt305x.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3883/include/chip/rt305x.h
+END

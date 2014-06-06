@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/3728/branches/ray/target/linux/ralink/rt3352-f8d32-2t2r-1l1w
+END
+target.mk
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/3601/branches/ray/target/linux/ralink/rt3352-f8d32-2t2r-1l1w/target.mk
+END
+config-2.6.26
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/3728/branches/ray/target/linux/ralink/rt3352-f8d32-2t2r-1l1w/config-2.6.26
+END

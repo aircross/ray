@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/files/include/asm-mips/mach-bcm947xx
+END
+gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/files/include/asm-mips/mach-bcm947xx/gpio.h
+END
+kernel-entry-init.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/files/include/asm-mips/mach-bcm947xx/kernel-entry-init.h
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ezp/!svn/ver/2941/branches/ray/package/pcmcia-cs/patches
+END
+001-config-novatel_merlin_u630.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezp/!svn/ver/2941/branches/ray/package/pcmcia-cs/patches/001-config-novatel_merlin_u630.patch
+END
+003-cardmgr_c.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/2941/branches/ray/package/pcmcia-cs/patches/003-cardmgr_c.patch
+END
+002-serial-cardctl_path.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2941/branches/ray/package/pcmcia-cs/patches/002-serial-cardctl_path.patch
+END
+004-pcmcia_resources.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/package/pcmcia-cs/patches/004-pcmcia_resources.patch
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/libtomcrypt-1.00/notes
+END
+hmac_tv.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/libtomcrypt-1.00/notes/hmac_tv.txt
+END
+cipher_tv.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/libtomcrypt-1.00/notes/cipher_tv.txt
+END
+tech0001.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/libtomcrypt-1.00/notes/tech0001.txt
+END
+tech0002.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/libtomcrypt-1.00/notes/tech0002.txt
+END
+eax_tv.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/libtomcrypt-1.00/notes/eax_tv.txt
+END
+tech0003.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/libtomcrypt-1.00/notes/tech0003.txt
+END
+tech0004.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/libtomcrypt-1.00/notes/tech0004.txt
+END
+omac_tv.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/libtomcrypt-1.00/notes/omac_tv.txt
+END
+pmac_tv.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/libtomcrypt-1.00/notes/pmac_tv.txt
+END
+hash_tv.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/libtomcrypt-1.00/notes/hash_tv.txt
+END
+ocb_tv.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/libtomcrypt-1.00/notes/ocb_tv.txt
+END
+base64_tv.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/libtomcrypt-1.00/notes/base64_tv.txt
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ezp/!svn/ver/2941/branches/ray/package/rp-l2tp/files
+END
+l2tp.conf.template
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/2941/branches/ray/package/rp-l2tp/files/l2tp.conf.template
+END
+chap-secrets
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/2941/branches/ray/package/rp-l2tp/files/chap-secrets
+END
+ifup.l2tp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/2941/branches/ray/package/rp-l2tp/files/ifup.l2tp
+END
+options.l2tp.template
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/2941/branches/ray/package/rp-l2tp/files/options.l2tp.template
+END
+pap-secrets
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/2941/branches/ray/package/rp-l2tp/files/pap-secrets
+END
+rp-l2tpd.init
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ezp/!svn/ver/2941/branches/ray/package/rp-l2tp/files/rp-l2tpd.init
+END

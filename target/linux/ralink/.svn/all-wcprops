@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ezp/!svn/ver/4541/branches/ray/target/linux/ralink
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ezp/!svn/ver/3682/branches/ray/target/linux/ralink/Makefile
+END
+config-2.6.26
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/4541/branches/ray/target/linux/ralink/config-2.6.26
+END
+modules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/3707/branches/ray/target/linux/ralink/modules.mk
+END

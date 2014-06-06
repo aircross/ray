@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ezp/!svn/ver/2941/branches/ray/package/libnl/patches
+END
+140-fix-linking-libnl-genl.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/package/libnl/patches/140-fix-linking-libnl-genl.patch
+END
+100-static.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ezp/!svn/ver/2941/branches/ray/package/libnl/patches/100-static.patch
+END
+110-offsetof.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/2941/branches/ray/package/libnl/patches/110-offsetof.patch
+END
+150-fix-libnl-pc-config.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/package/libnl/patches/150-fix-libnl-pc-config.patch
+END
+120-add_if_vlan.h.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/2941/branches/ray/package/libnl/patches/120-add_if_vlan.h.patch
+END
+130-fix_minor_memleaks_on_exit.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/2941/branches/ray/package/libnl/patches/130-fix_minor_memleaks_on_exit.patch
+END

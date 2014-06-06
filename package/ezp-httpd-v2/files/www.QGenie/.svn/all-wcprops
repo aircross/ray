@@ -1,0 +1,743 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ezp/!svn/ver/4548/branches/ray/package/ezp-httpd-v2/files/www.QGenie
+END
+wan_detect_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/wan_detect_setting.asp
+END
+resp_upgrade_fail.asp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/resp_upgrade_fail.asp
+END
+wan_vpnc.asp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/wan_vpnc.asp
+END
+landing.asp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/4538/branches/ray/package/ezp-httpd-v2/files/www.QGenie/landing.asp
+END
+snmp.asp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/snmp.asp
+END
+st_lan_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/st_lan_setting.asp
+END
+wf_basic.asp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/wf_basic.asp
+END
+dhcp.asp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/dhcp.asp
+END
+usbled.asp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/usbled.asp
+END
+st_ether_wan_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/st_ether_wan_setting.asp
+END
+wan_wwan.asp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/wan_wwan.asp
+END
+wan_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/wan_setting.asp
+END
+st_user_dhcp.asp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/st_user_dhcp.asp
+END
+opmode.asp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/opmode.asp
+END
+wl_basic.asp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/wl_basic.asp
+END
+st_wl_priv_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/st_wl_priv_setting.asp
+END
+vpn_ipsec.asp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/vpn_ipsec.asp
+END
+st_basic.asp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/st_basic.asp
+END
+st_wan_priv_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/st_wan_priv_setting.asp
+END
+st_wisp_wan_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/st_wisp_wan_setting.asp
+END
+wl_apcli.asp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/wl_apcli.asp
+END
+empty.asp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/empty.asp
+END
+clone.asp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/clone.asp
+END
+vlan.asp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/vlan.asp
+END
+st_thp.asp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/st_thp.asp
+END
+wlv_sec_psk2.asp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/wlv_sec_psk2.asp
+END
+itunes_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/itunes_setting.asp
+END
+iepngfix.htc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/iepngfix.htc
+END
+verify.asp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/verify.asp
+END
+bt.asp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/bt.asp
+END
+factory.asp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/factory.asp
+END
+login.asp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/4538/branches/ray/package/ezp-httpd-v2/files/www.QGenie/login.asp
+END
+wl_adv_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/wl_adv_setting.asp
+END
+wwan_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/wwan_setting.asp
+END
+resp_nochange.asp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/resp_nochange.asp
+END
+fr_vnc.asp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/fr_vnc.asp
+END
+PWS_System_Software_License-Japanese.asp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/PWS_System_Software_License-Japanese.asp
+END
+wan_detect.asp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/wan_detect.asp
+END
+PWS_System_Software_License-English.asp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/PWS_System_Software_License-English.asp
+END
+smb.asp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/smb.asp
+END
+wan_barry.asp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/wan_barry.asp
+END
+guest_land.asp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/guest_land.asp
+END
+st_wl_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/st_wl_setting.asp
+END
+wan.asp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/wan.asp
+END
+wan_beceem.asp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/wan_beceem.asp
+END
+ad_basic.asp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/ad_basic.asp
+END
+wlv_wds_basic.asp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/wlv_wds_basic.asp
+END
+z83dk4.asp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/z83dk4.asp
+END
+wan_iphone.asp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/wan_iphone.asp
+END
+lb_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/lb_setting.asp
+END
+wlv_sec_wpa2.asp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/wlv_sec_wpa2.asp
+END
+wl_wds_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/wl_wds_setting.asp
+END
+power.asp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/power.asp
+END
+turbonat.asp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/turbonat.asp
+END
+resp_success.asp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/resp_success.asp
+END
+exp_wan.asp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/exp_wan.asp
+END
+st_usb_wan_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/st_usb_wan_setting.asp
+END
+exp_internet.asp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/4548/branches/ray/package/ezp-httpd-v2/files/www.QGenie/exp_internet.asp
+END
+lb_routing.asp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/lb_routing.asp
+END
+webdav_landing.asp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/4491/branches/ray/package/ezp-httpd-v2/files/www.QGenie/webdav_landing.asp
+END
+lan_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/lan_setting.asp
+END
+resp_reboot_wait.asp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/resp_reboot_wait.asp
+END
+itunes.asp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/itunes.asp
+END
+vpn_l2tpd.asp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/vpn_l2tpd.asp
+END
+wlv_sec_wpa.asp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/wlv_sec_wpa.asp
+END
+vpn_pptpd.asp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/vpn_pptpd.asp
+END
+st_wlv_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/st_wlv_setting.asp
+END
+st_ct.asp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/st_ct.asp
+END
+wl_adv.asp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/wl_adv.asp
+END
+resp_restart.asp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/resp_restart.asp
+END
+base64.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/base64.js
+END
+common.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/4525/branches/ray/package/ezp-httpd-v2/files/www.QGenie/common.js
+END
+license.asp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/license.asp
+END
+wan_dhcp.asp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/wan_dhcp.asp
+END
+static_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/static_setting.asp
+END
+st_user_arp.asp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/st_user_arp.asp
+END
+csshover.htc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/csshover.htc
+END
+st_wan_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/st_wan_setting.asp
+END
+fl_hwaddr.asp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/fl_hwaddr.asp
+END
+wan_wimax.asp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/wan_wimax.asp
+END
+map
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/4525/branches/ray/package/ezp-httpd-v2/files/www.QGenie/map
+END
+lb_basic.asp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/lb_basic.asp
+END
+wl_wds.asp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/wl_wds.asp
+END
+st_info.asp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/st_info.asp
+END
+ntp.asp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/ntp.asp
+END
+resp_upgrade_success.asp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/resp_upgrade_success.asp
+END
+wan_directip.asp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/wan_directip.asp
+END
+fr_upnp.asp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/fr_upnp.asp
+END
+drive.asp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/drive.asp
+END
+lan.asp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/lan.asp
+END
+log.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/log.js
+END
+iscsi.asp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/iscsi.asp
+END
+dhcp_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/dhcp_setting.asp
+END
+wl_wps.asp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/wl_wps.asp
+END
+wlv_sec_wep.asp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/wlv_sec_wep.asp
+END
+resp_upgrade_low_power.asp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/resp_upgrade_low_power.asp
+END
+st_lan_priv_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/st_lan_priv_setting.asp
+END
+guest_lan_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/guest_lan_setting.asp
+END
+svg-common.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/svg-common.js
+END
+wlv_sec_psk.asp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/wlv_sec_psk.asp
+END
+pppoe_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/pppoe_setting.asp
+END
+table.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/table.js
+END
+wl_basic_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/wl_basic_setting.asp
+END
+wan_htc.asp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/wan_htc.asp
+END
+exp_lan.asp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/4525/branches/ray/package/ezp-httpd-v2/files/www.QGenie/exp_lan.asp
+END
+st_log.asp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/st_log.asp
+END
+wl_apcli_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/wl_apcli_setting.asp
+END
+wan_pppoe.asp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/wan_pppoe.asp
+END
+exp_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/4525/branches/ray/package/ezp-httpd-v2/files/www.QGenie/exp_setting.asp
+END
+vs_basic.asp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/vs_basic.asp
+END
+wlv_wds_sec_wep.asp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/wlv_wds_sec_wep.asp
+END
+wan_static.asp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/wan_static.asp
+END
+wlv_wds_sec_psk.asp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/wlv_wds_sec_psk.asp
+END
+clone_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/clone_setting.asp
+END
+fr_nat_pass.asp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/fr_nat_pass.asp
+END
+togo_wan_proto.asp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/togo_wan_proto.asp
+END
+exp_net.asp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/exp_net.asp
+END
+exp_dashboard.asp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/4548/branches/ray/package/ezp-httpd-v2/files/www.QGenie/exp_dashboard.asp
+END
+resp_fail.asp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/resp_fail.asp
+END
+ad_tools.asp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/ad_tools.asp
+END
+togo_value.asp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/4508/branches/ray/package/ezp-httpd-v2/files/www.QGenie/togo_value.asp
+END
+wlv_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/wlv_setting.asp
+END
+ad_storage.asp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/4414/branches/ray/package/ezp-httpd-v2/files/www.QGenie/ad_storage.asp
+END

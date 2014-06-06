@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ifxmips/profiles
+END
+200-Ralink.mk
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ifxmips/profiles/200-Ralink.mk
+END
+100-Atheros.mk
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ifxmips/profiles/100-Atheros.mk
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/libtomcrypt-1.00/src/ciphers/safer
+END
+safer_tab.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/libtomcrypt-1.00/src/ciphers/safer/safer_tab.c
+END
+safer.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/libtomcrypt-1.00/src/ciphers/safer/safer.c
+END
+saferp.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/libtomcrypt-1.00/src/ciphers/safer/saferp.c
+END

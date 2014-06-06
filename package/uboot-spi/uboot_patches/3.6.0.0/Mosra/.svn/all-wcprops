@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/3663/branches/ray/package/uboot-spi/uboot_patches/3.6.0.0/Mosra
+END
+0002-add-release-version-definition.patch
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/ezp/!svn/ver/3663/branches/ray/package/uboot-spi/uboot_patches/3.6.0.0/Mosra/0002-add-release-version-definition.patch
+END
+0001-fix-static-declaration-for-gcc424.patch
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/ezp/!svn/ver/3663/branches/ray/package/uboot-spi/uboot_patches/3.6.0.0/Mosra/0001-fix-static-declaration-for-gcc424.patch
+END
+0003-add-buildroot-cflags.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ezp/!svn/ver/3663/branches/ray/package/uboot-spi/uboot_patches/3.6.0.0/Mosra/0003-add-buildroot-cflags.patch
+END
+0004-ignore-load-fs-and-checksum.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ezp/!svn/ver/3663/branches/ray/package/uboot-spi/uboot_patches/3.6.0.0/Mosra/0004-ignore-load-fs-and-checksum.patch
+END

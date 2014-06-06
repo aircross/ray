@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ezp/!svn/ver/2941/branches/ray/package/xl2tpd/files
+END
+xl2tpd.init
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/2941/branches/ray/package/xl2tpd/files/xl2tpd.init
+END
+xl2tpd.conf
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/2941/branches/ray/package/xl2tpd/files/xl2tpd.conf
+END
+options.xl2tpd
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ezp/!svn/ver/2941/branches/ray/package/xl2tpd/files/options.xl2tpd
+END

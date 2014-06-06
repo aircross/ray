@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ezp/!svn/ver/3541/branches/ray/package/howl/files
+END
+nifd.init
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ezp/!svn/ver/2941/branches/ray/package/howl/files/nifd.init
+END
+mDNSResponder.init
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ezp/!svn/ver/3541/branches/ray/package/howl/files/mDNSResponder.init
+END
+autoipd.init
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/2941/branches/ray/package/howl/files/autoipd.init
+END
+mDNSResponder.conf
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ezp/!svn/ver/2941/branches/ray/package/howl/files/mDNSResponder.conf
+END

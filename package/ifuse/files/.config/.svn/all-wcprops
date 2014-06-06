@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ezp/!svn/ver/2941/branches/ray/package/ifuse/files/.config
+END
+HostPrivateKey.pem
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/package/ifuse/files/.config/HostPrivateKey.pem
+END
+RootCertificate.pem
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/package/ifuse/files/.config/RootCertificate.pem
+END
+RootPrivateKey.pem
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/package/ifuse/files/.config/RootPrivateKey.pem
+END
+libimobiledevicerc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/package/ifuse/files/.config/libimobiledevicerc
+END
+HostCertificate.pem
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/package/ifuse/files/.config/HostCertificate.pem
+END

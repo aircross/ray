@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/drivers/leds
+END
+ledtrig-adm5120-switch.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/drivers/leds/ledtrig-adm5120-switch.c
+END

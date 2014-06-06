@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/3972/branches/ray/package/atheros_ssdk/src/make
+END
+defs.mk
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/make/defs.mk
+END
+linux_opt.mk
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/make/linux_opt.mk
+END
+components.mk
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/make/components.mk
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/3972/branches/ray/package/atheros_ssdk/src/make/config.mk
+END
+target.mk
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/make/target.mk
+END
+.build_number
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/make/.build_number
+END
+tools.mk
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/make/tools.mk
+END

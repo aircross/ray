@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3883/rate_ctrl
+END
+ra_ctrl.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3883/rate_ctrl/ra_ctrl.c
+END
+alg_legacy.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3883/rate_ctrl/alg_legacy.c
+END
+alg_grp.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3883/rate_ctrl/alg_grp.c
+END
+alg_ags.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3883/rate_ctrl/alg_ags.c
+END

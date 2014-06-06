@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ezp/!svn/ver/3707/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_305x/include/chip
+END
+mac_pci.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ezp/!svn/ver/3707/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_305x/include/chip/mac_pci.h
+END
+rt3883.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_305x/include/chip/rt3883.h
+END
+chip_id.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ezp/!svn/ver/3707/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_305x/include/chip/chip_id.h
+END
+rt28xx.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ezp/!svn/ver/3707/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_305x/include/chip/rt28xx.h
+END
+rtmp_mac.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ezp/!svn/ver/3707/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_305x/include/chip/rtmp_mac.h
+END
+rtmp_phy.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ezp/!svn/ver/3707/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_305x/include/chip/rtmp_phy.h
+END
+rt2860.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ezp/!svn/ver/3707/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_305x/include/chip/rt2860.h
+END
+rt305x.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ezp/!svn/ver/3707/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_305x/include/chip/rt305x.h
+END
+rt2880.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ezp/!svn/ver/3707/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_305x/include/chip/rt2880.h
+END

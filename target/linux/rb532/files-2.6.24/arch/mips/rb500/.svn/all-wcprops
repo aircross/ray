@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rb532/files-2.6.24/arch/mips/rb500
+END
+prom.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rb532/files-2.6.24/arch/mips/rb500/prom.c
+END
+gpio.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rb532/files-2.6.24/arch/mips/rb500/gpio.c
+END
+time.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rb532/files-2.6.24/arch/mips/rb500/time.c
+END
+serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rb532/files-2.6.24/arch/mips/rb500/serial.c
+END
+setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rb532/files-2.6.24/arch/mips/rb500/setup.c
+END
+devices.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rb532/files-2.6.24/arch/mips/rb500/devices.c
+END
+irq.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rb532/files-2.6.24/arch/mips/rb500/irq.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rb532/files-2.6.24/arch/mips/rb500/Makefile
+END

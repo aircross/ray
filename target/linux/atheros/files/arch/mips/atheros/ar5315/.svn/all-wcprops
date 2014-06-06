@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/atheros/files/arch/mips/atheros/ar5315
+END
+board.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/atheros/files/arch/mips/atheros/ar5315/board.c
+END
+irq.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/atheros/files/arch/mips/atheros/ar5315/irq.c
+END
+pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/atheros/files/arch/mips/atheros/ar5315/pci.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/atheros/files/arch/mips/atheros/ar5315/Makefile
+END

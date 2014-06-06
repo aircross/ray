@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ezp/!svn/ver/3299/branches/ray/package/motion/patches
+END
+002-honor_cppflags.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/3299/branches/ray/package/motion/patches/002-honor_cppflags.patch
+END

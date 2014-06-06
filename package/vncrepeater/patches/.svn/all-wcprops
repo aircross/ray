@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ezp/!svn/ver/2941/branches/ray/package/vncrepeater/patches
+END
+002-ezp-bool.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/package/vncrepeater/patches/002-ezp-bool.patch
+END
+001-ezp-Makefile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/package/vncrepeater/patches/001-ezp-Makefile.patch
+END

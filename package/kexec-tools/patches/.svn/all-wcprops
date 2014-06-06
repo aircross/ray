@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ezp/!svn/ver/2941/branches/ray/package/kexec-tools/patches
+END
+0004-mips_regdefs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/package/kexec-tools/patches/0004-mips_regdefs.patch
+END
+0003-Give-installed-files-user-writable-permission.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ezp/!svn/ver/2941/branches/ray/package/kexec-tools/patches/0003-Give-installed-files-user-writable-permission.patch
+END
+0001-Use-separate-CPPFLAGS-and-LDFLAGS-for-purgatory.patch
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/ezp/!svn/ver/2941/branches/ray/package/kexec-tools/patches/0001-Use-separate-CPPFLAGS-and-LDFLAGS-for-purgatory.patch
+END
+0002-Use-separate-LDFLAGS-for-bin-to-hex.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ezp/!svn/ver/2941/branches/ray/package/kexec-tools/patches/0002-Use-separate-LDFLAGS-for-bin-to-hex.patch
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ezp/!svn/ver/4246/branches/ray/package/apache/patches
+END
+005-httpd_conf.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/4246/branches/ray/package/apache/patches/005-httpd_conf.patch
+END
+001-Makefile_in.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/4246/branches/ray/package/apache/patches/001-Makefile_in.patch
+END
+002-test_char_h.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/4246/branches/ray/package/apache/patches/002-test_char_h.patch
+END
+004-pidfile_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/4246/branches/ray/package/apache/patches/004-pidfile_fix.patch
+END
+003-logdir_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/4246/branches/ray/package/apache/patches/003-logdir_fix.patch
+END

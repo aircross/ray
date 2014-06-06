@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-ifxmips/files/board/danube
+END
+ddr_settings_111.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-ifxmips/files/board/danube/ddr_settings_111.h
+END
+u-boot-bootstrap.lds
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-ifxmips/files/board/danube/u-boot-bootstrap.lds
+END
+ddr_settings_e111.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-ifxmips/files/board/danube/ddr_settings_e111.h
+END
+ddr_settings_Samsung_166.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-ifxmips/files/board/danube/ddr_settings_Samsung_166.h
+END
+pmuenable.S
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-ifxmips/files/board/danube/pmuenable.S
+END
+ddr_settings_166.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-ifxmips/files/board/danube/ddr_settings_166.h
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-ifxmips/files/board/danube/config.mk
+END
+lowlevel_init.S
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-ifxmips/files/board/danube/lowlevel_init.S
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-ifxmips/files/board/danube/Makefile
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-ifxmips/files/board/danube/flash.c
+END
+ddr_settings.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-ifxmips/files/board/danube/ddr_settings.h
+END
+danube.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-ifxmips/files/board/danube/danube.c
+END
+ddr_settings_psc_166.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-ifxmips/files/board/danube/ddr_settings_psc_166.h
+END
+ddr_settings_e166.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-ifxmips/files/board/danube/ddr_settings_e166.h
+END
+ddr_settings_r111.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-ifxmips/files/board/danube/ddr_settings_r111.h
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-ifxmips/files/board/danube/u-boot.lds
+END
+ddr_settings_PROMOSDDR400.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-ifxmips/files/board/danube/ddr_settings_PROMOSDDR400.h
+END
+ddr_settings_r166.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-ifxmips/files/board/danube/ddr_settings_r166.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-ifxmips/files/board/danube/README
+END

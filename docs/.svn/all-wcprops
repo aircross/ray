@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/ezp/!svn/ver/2941/branches/ray/docs
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ezp/!svn/ver/2941/branches/ray/docs/.gitignore
+END
+adding.tex
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ezp/!svn/ver/2941/branches/ray/docs/adding.tex
+END
+init-scripts.tex
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ezp/!svn/ver/2941/branches/ray/docs/init-scripts.tex
+END
+network.tex
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ezp/!svn/ver/2941/branches/ray/docs/network.tex
+END
+submitting-patches.tex
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ezp/!svn/ver/2941/branches/ray/docs/submitting-patches.tex
+END
+openwrt.sty
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ezp/!svn/ver/2941/branches/ray/docs/openwrt.sty
+END
+wireless.tex
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ezp/!svn/ver/2941/branches/ray/docs/wireless.tex
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ezp/!svn/ver/2941/branches/ray/docs/Makefile
+END
+network-scripts.tex
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ezp/!svn/ver/2941/branches/ray/docs/network-scripts.tex
+END
+openwrt.tex
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ezp/!svn/ver/2941/branches/ray/docs/openwrt.tex
+END
+build.tex
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ezp/!svn/ver/2941/branches/ray/docs/build.tex
+END
+bugs.tex
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ezp/!svn/ver/2941/branches/ray/docs/bugs.tex
+END
+config.tex
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ezp/!svn/ver/2941/branches/ray/docs/config.tex
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-rt305x/patches
+END
+09-boot-keypress.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-rt305x/patches/09-boot-keypress.patch
+END
+10-boot-emg-ip.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-rt305x/patches/10-boot-emg-ip.patch
+END
+05-gigamii-definition.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-rt305x/patches/05-gigamii-definition.patch
+END
+01-emergency_mode.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-rt305x/patches/01-emergency_mode.patch
+END
+03-config.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-rt305x/patches/03-config.patch
+END
+07-emflash-mode.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-rt305x/patches/07-emflash-mode.patch
+END
+08-gpio-led-init.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-rt305x/patches/08-gpio-led-init.patch
+END
+02-net-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-rt305x/patches/02-net-fix.patch
+END
+04-gigaswitch.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-rt305x/patches/04-gigaswitch.patch
+END
+06-emergency-button.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-rt305x/patches/06-emergency-button.patch
+END

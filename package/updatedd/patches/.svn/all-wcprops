@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ezp/!svn/ver/3137/branches/ray/package/updatedd/patches
+END
+001-service_libname.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/package/updatedd/patches/001-service_libname.patch
+END
+003-zoneedit-url-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/package/updatedd/patches/003-zoneedit-url-fix.patch
+END
+002-ovh-dyndnshost.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/package/updatedd/patches/002-ovh-dyndnshost.patch
+END
+102-ezp-proxicast.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/3082/branches/ray/package/updatedd/patches/102-ezp-proxicast.patch
+END
+004-Makefile-zoneedit-typo-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ezp/!svn/ver/2941/branches/ray/package/updatedd/patches/004-Makefile-zoneedit-typo-fix.patch
+END
+100-ezp-ddns-customized-server
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2941/branches/ray/package/updatedd/patches/100-ezp-ddns-customized-server
+END
+103-ezp-ddns-customized-port
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/3137/branches/ray/package/updatedd/patches/103-ezp-ddns-customized-port
+END

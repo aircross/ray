@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ezp/!svn/ver/4069/branches/ray/package/logwrite/src
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/3829/branches/ray/package/logwrite/src/Makefile
+END
+logwrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/4069/branches/ray/package/logwrite/src/logwrite.c
+END

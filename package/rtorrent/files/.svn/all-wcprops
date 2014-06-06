@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ezp/!svn/ver/2941/branches/ray/package/rtorrent/files
+END
+rtorrent.rc.template
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/2941/branches/ray/package/rtorrent/files/rtorrent.rc.template
+END
+rtorrent.init
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ezp/!svn/ver/2941/branches/ray/package/rtorrent/files/rtorrent.init
+END

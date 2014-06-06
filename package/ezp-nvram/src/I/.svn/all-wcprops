@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ezp/!svn/ver/3726/branches/ray/package/ezp-nvram/src/I
+END
+nvram_ezpacket-app_I.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/3726/branches/ray/package/ezp-nvram/src/I/nvram_ezpacket-app_I.h
+END
+nvram_ezpacket_I.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezp-nvram/src/I/nvram_ezpacket_I.h
+END
+nvram_data_I.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ezp/!svn/ver/3718/branches/ray/package/ezp-nvram/src/I/nvram_data_I.h
+END
+nvram_ezpacket-rt305x_I.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezp-nvram/src/I/nvram_ezpacket-rt305x_I.h
+END

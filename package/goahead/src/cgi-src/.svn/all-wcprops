@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ezp/!svn/ver/2941/branches/ray/package/goahead/src/cgi-src
+END
+usb_upgrade.cgi.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/2941/branches/ray/package/goahead/src/cgi-src/usb_upgrade.cgi.c
+END
+upload_settings.cgi.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/package/goahead/src/cgi-src/upload_settings.cgi.c
+END
+zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/2941/branches/ray/package/goahead/src/cgi-src/zlib.h
+END
+rrdtool_cgiwrapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/package/goahead/src/cgi-src/rrdtool_cgiwrapper.c
+END
+cpu_mem_updater.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/2941/branches/ray/package/goahead/src/cgi-src/cpu_mem_updater.c
+END
+crc32.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ezp/!svn/ver/2941/branches/ray/package/goahead/src/cgi-src/crc32.c
+END
+network_updater.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/2941/branches/ray/package/goahead/src/cgi-src/network_updater.c
+END
+reboot.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ezp/!svn/ver/2941/branches/ray/package/goahead/src/cgi-src/reboot.sh
+END
+zconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ezp/!svn/ver/2941/branches/ray/package/goahead/src/cgi-src/zconf.h
+END
+upload.cgi.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/2941/branches/ray/package/goahead/src/cgi-src/upload.cgi.c
+END
+upload2.cgi
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/2941/branches/ray/package/goahead/src/cgi-src/upload2.cgi
+END
+upload3.cgi
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/2941/branches/ray/package/goahead/src/cgi-src/upload3.cgi
+END
+wifi_unload.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/2941/branches/ray/package/goahead/src/cgi-src/wifi_unload.sh
+END
+history.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ezp/!svn/ver/2941/branches/ray/package/goahead/src/cgi-src/history.sh
+END
+upload.cgi.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/2941/branches/ray/package/goahead/src/cgi-src/upload.cgi.h
+END
+ExportSettings.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/2941/branches/ray/package/goahead/src/cgi-src/ExportSettings.sh
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ezp/!svn/ver/2941/branches/ray/package/goahead/src/cgi-src/Makefile
+END
+IMPORTANT
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ezp/!svn/ver/2941/branches/ray/package/goahead/src/cgi-src/IMPORTANT
+END

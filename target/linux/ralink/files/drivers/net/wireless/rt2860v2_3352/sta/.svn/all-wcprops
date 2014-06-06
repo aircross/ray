@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/sta
+END
+rtmp_ckipmic.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/sta/rtmp_ckipmic.c
+END
+p2pcli_assoc.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/sta/p2pcli_assoc.c
+END
+dls.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/sta/dls.c
+END
+tdls_link_mng.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/sta/tdls_link_mng.c
+END
+p2pcli_sync.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/sta/p2pcli_sync.c
+END
+auth_rsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/sta/auth_rsp.c
+END
+wpa.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/sta/wpa.c
+END
+p2pcli.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/sta/p2pcli.c
+END
+connect.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/sta/connect.c
+END
+tdls_ctrl.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/sta/tdls_ctrl.c
+END
+tdls_tlv.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/sta/tdls_tlv.c
+END
+auth.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/sta/auth.c
+END
+sta_cfg.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/sta/sta_cfg.c
+END
+tdls.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/sta/tdls.c
+END
+sanity.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/sta/sanity.c
+END
+assoc.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/sta/assoc.c
+END
+p2pcli_auth.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/sta/p2pcli_auth.c
+END
+ags.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/sta/ags.c
+END
+rtmp_data.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/sta/rtmp_data.c
+END
+sync.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/sta/sync.c
+END
+p2pcli_ctrl.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/sta/p2pcli_ctrl.c
+END

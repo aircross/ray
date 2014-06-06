@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/ezp/!svn/ver/4401/branches/ray/scripts
+END
+getver.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ezp/!svn/ver/2941/branches/ray/scripts/getver.sh
+END
+flash.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ezp/!svn/ver/2941/branches/ray/scripts/flash.sh
+END
+arm-magic.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ezp/!svn/ver/2941/branches/ray/scripts/arm-magic.sh
+END
+adam2flash.pl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ezp/!svn/ver/2941/branches/ray/scripts/adam2flash.pl
+END
+timestamp.pl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ezp/!svn/ver/2941/branches/ray/scripts/timestamp.pl
+END
+download.pl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ezp/!svn/ver/2941/branches/ray/scripts/download.pl
+END
+adam2flash-fritzbox.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/2941/branches/ray/scripts/adam2flash-fritzbox.pl
+END
+ipkg-make-index.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ezp/!svn/ver/2941/branches/ray/scripts/ipkg-make-index.sh
+END
+feeds
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ezp/!svn/ver/2941/branches/ray/scripts/feeds
+END
+patch-kernel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ezp/!svn/ver/2941/branches/ray/scripts/patch-kernel.sh
+END
+slugimage.pl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ezp/!svn/ver/2941/branches/ray/scripts/slugimage.pl
+END
+env
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ezp/!svn/ver/2941/branches/ray/scripts/env
+END
+kconfig.pl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ezp/!svn/ver/2941/branches/ray/scripts/kconfig.pl
+END
+ipkg
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ezp/!svn/ver/2941/branches/ray/scripts/ipkg
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ezp/!svn/ver/2941/branches/ray/scripts/config.guess
+END
+make-ipkg-dir.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ezp/!svn/ver/2941/branches/ray/scripts/make-ipkg-dir.sh
+END
+metadata.pl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ezp/!svn/ver/4401/branches/ray/scripts/metadata.pl
+END
+metadata.pm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ezp/!svn/ver/2941/branches/ray/scripts/metadata.pm
+END
+rstrip.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ezp/!svn/ver/2941/branches/ray/scripts/rstrip.sh
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ezp/!svn/ver/2941/branches/ray/scripts/config.sub
+END
+adam2flash-502T.pl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ezp/!svn/ver/2941/branches/ray/scripts/adam2flash-502T.pl
+END
+abs2rel.pl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ezp/!svn/ver/2941/branches/ray/scripts/abs2rel.pl
+END

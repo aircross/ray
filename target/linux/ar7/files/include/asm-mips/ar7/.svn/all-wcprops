@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/files/include/asm-mips/ar7
+END
+ar7.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/files/include/asm-mips/ar7/ar7.h
+END
+war.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/files/include/asm-mips/ar7/war.h
+END
+irq.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/files/include/asm-mips/ar7/irq.h
+END
+prom.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/files/include/asm-mips/ar7/prom.h
+END
+gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/files/include/asm-mips/ar7/gpio.h
+END
+spaces.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/files/include/asm-mips/ar7/spaces.h
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ezp/!svn/ver/4452/branches/ray/package/ppp/files
+END
+ifup.wwan.debug
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/2941/branches/ray/package/ppp/files/ifup.wwan.debug
+END
+ifup.pppoe
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ezp/!svn/ver/2941/branches/ray/package/ppp/files/ifup.pppoe
+END
+ppp.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ezp/!svn/ver/2941/branches/ray/package/ppp/files/ppp.sh
+END
+pppoa.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ezp/!svn/ver/2941/branches/ray/package/ppp/files/pppoa.sh
+END
+pppoe.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ezp/!svn/ver/2941/branches/ray/package/ppp/files/pppoe.sh
+END
+ifup.wwan
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ezp/!svn/ver/4452/branches/ray/package/ppp/files/ifup.wwan
+END

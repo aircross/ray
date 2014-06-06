@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ifxmips/patches
+END
+170-dma_hack.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ifxmips/patches/170-dma_hack.patch
+END
+110-drivers.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ifxmips/patches/110-drivers.patch
+END
+160-cfi-swap.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ifxmips/patches/160-cfi-swap.patch
+END
+100-board.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ifxmips/patches/100-board.patch
+END

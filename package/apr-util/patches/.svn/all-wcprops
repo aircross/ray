@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ezp/!svn/ver/4246/branches/ray/package/apr-util/patches
+END
+001-automake-compat.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/4246/branches/ray/package/apr-util/patches/001-automake-compat.patch
+END

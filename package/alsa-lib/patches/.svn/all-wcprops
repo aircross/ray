@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ezp/!svn/ver/3328/branches/ray/package/alsa-lib/patches
+END
+003-mips-atomic-static-inline.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/3328/branches/ray/package/alsa-lib/patches/003-mips-atomic-static-inline.patch
+END
+alsa-lib-1.0.24.1-uclibc-missing-versionsort.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ezp/!svn/ver/3328/branches/ray/package/alsa-lib/patches/alsa-lib-1.0.24.1-uclibc-missing-versionsort.patch
+END
+001-link_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/3328/branches/ray/package/alsa-lib/patches/001-link_fix.patch
+END

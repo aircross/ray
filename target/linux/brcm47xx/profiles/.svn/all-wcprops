@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/profiles
+END
+106-Atheros-ath5k.mk
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/profiles/106-Atheros-ath5k.mk
+END
+WGT634U.mk
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/profiles/WGT634U.mk
+END
+105-Atheros.mk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/profiles/105-Atheros.mk
+END
+100-Broadcom-b43.mk
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/profiles/100-Broadcom-b43.mk
+END
+110-None.mk
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/profiles/110-None.mk
+END
+WRTSL54GS.mk
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/profiles/WRTSL54GS.mk
+END
+WL500GPv1-ATH.mk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/profiles/WL500GPv1-ATH.mk
+END

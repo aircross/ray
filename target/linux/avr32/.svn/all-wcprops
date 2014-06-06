@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/avr32
+END
+config-default
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/avr32/config-default
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/avr32/Makefile
+END

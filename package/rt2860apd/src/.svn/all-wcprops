@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ezp/!svn/ver/4521/branches/ray/package/rt2860apd/src
+END
+b64.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ezp/!svn/ver/4395/branches/ray/package/rt2860apd/src/b64.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/4509/branches/ray/package/rt2860apd/src/Makefile
+END
+encode_ssid.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ezp/!svn/ver/4509/branches/ray/package/rt2860apd/src/encode_ssid.c
+END
+site_survey.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ezp/!svn/ver/4521/branches/ray/package/rt2860apd/src/site_survey.c
+END

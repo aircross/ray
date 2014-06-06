@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/files/arch/mips/ar7
+END
+clock.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/files/arch/mips/ar7/clock.c
+END
+irq.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/files/arch/mips/ar7/irq.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/files/arch/mips/ar7/Makefile
+END
+prom.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/files/arch/mips/ar7/prom.c
+END
+gpio.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/files/arch/mips/ar7/gpio.c
+END
+time.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/files/arch/mips/ar7/time.c
+END
+setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/files/arch/mips/ar7/setup.c
+END
+platform.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/files/arch/mips/ar7/platform.c
+END
+memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/files/arch/mips/ar7/memory.c
+END

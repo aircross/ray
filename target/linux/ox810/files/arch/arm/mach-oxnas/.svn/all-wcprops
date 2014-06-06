@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/arch/arm/mach-oxnas
+END
+ThermCalc.xls
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/arch/arm/mach-oxnas/ThermCalc.xls
+END
+leds.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/arch/arm/mach-oxnas/leds.c
+END
+oxnas.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/arch/arm/mach-oxnas/oxnas.c
+END
+wdc-ledtrig-sata.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/arch/arm/mach-oxnas/wdc-ledtrig-sata.c
+END
+irq.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/arch/arm/mach-oxnas/irq.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/arch/arm/mach-oxnas/Makefile
+END
+time.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/arch/arm/mach-oxnas/time.c
+END
+gpioTest.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/arch/arm/mach-oxnas/gpioTest.c
+END
+Makefile.boot
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/arch/arm/mach-oxnas/Makefile.boot
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/arch/arm/mach-oxnas/Kconfig
+END
+wdc-leds.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/arch/arm/mach-oxnas/wdc-leds.c
+END
+ledtrig_sata.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/arch/arm/mach-oxnas/ledtrig_sata.c
+END
+pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/arch/arm/mach-oxnas/pci.c
+END
+oxnas-wd810-leds.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/arch/arm/mach-oxnas/oxnas-wd810-leds.c
+END
+wdc-fan.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/arch/arm/mach-oxnas/wdc-fan.c
+END

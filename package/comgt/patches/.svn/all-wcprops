@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ezp/!svn/ver/4449/branches/ray/package/comgt/patches
+END
+002-termbits.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/2941/branches/ray/package/comgt/patches/002-termbits.patch
+END
+003-comgt.c.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/2941/branches/ray/package/comgt/patches/003-comgt.c.patch
+END
+001-Makefile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/2941/branches/ray/package/comgt/patches/001-Makefile.patch
+END
+004-comgt.h.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/3144/branches/ray/package/comgt/patches/004-comgt.h.patch
+END
+005-comgt.h.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/4449/branches/ray/package/comgt/patches/005-comgt.h.patch
+END

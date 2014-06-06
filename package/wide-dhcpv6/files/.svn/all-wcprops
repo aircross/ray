@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ezp/!svn/ver/2941/branches/ray/package/wide-dhcpv6/files
+END
+dhcp6c-state
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ezp/!svn/ver/2941/branches/ray/package/wide-dhcpv6/files/dhcp6c-state
+END
+dhcp6c-radvd.hotplug
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/package/wide-dhcpv6/files/dhcp6c-radvd.hotplug
+END
+dhcp6c.hotplug
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/2941/branches/ray/package/wide-dhcpv6/files/dhcp6c.hotplug
+END
+dhcp6s.hotplug
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/2941/branches/ray/package/wide-dhcpv6/files/dhcp6s.hotplug
+END
+dhcp6c-script
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/2941/branches/ray/package/wide-dhcpv6/files/dhcp6c-script
+END
+dhcp6c.init
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ezp/!svn/ver/2941/branches/ray/package/wide-dhcpv6/files/dhcp6c.init
+END
+dhcp6s.init
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ezp/!svn/ver/2941/branches/ray/package/wide-dhcpv6/files/dhcp6s.init
+END
+dhcp6c.script
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/2941/branches/ray/package/wide-dhcpv6/files/dhcp6c.script
+END
+dhcp6s.script
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/2941/branches/ray/package/wide-dhcpv6/files/dhcp6s.script
+END
+dhcp6c.conf
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ezp/!svn/ver/2941/branches/ray/package/wide-dhcpv6/files/dhcp6c.conf
+END
+dhcp6s.conf
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ezp/!svn/ver/2941/branches/ray/package/wide-dhcpv6/files/dhcp6s.conf
+END
+dhcp6c-dnsmasq.hotplug
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/package/wide-dhcpv6/files/dhcp6c-dnsmasq.hotplug
+END

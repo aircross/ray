@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/f8d32-2t2r-baudtec
+END
+target.mk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/f8d32-2t2r-baudtec/target.mk
+END
+config-2.6.26
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/f8d32-2t2r-baudtec/config-2.6.26
+END

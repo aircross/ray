@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ezp/!svn/ver/2941/branches/ray/package/acx/patches
+END
+002-disable-usb.diff
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/2941/branches/ray/package/acx/patches/002-disable-usb.diff
+END
+003-encrypt-broadcast-traffic.diff
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/package/acx/patches/003-encrypt-broadcast-traffic.diff
+END

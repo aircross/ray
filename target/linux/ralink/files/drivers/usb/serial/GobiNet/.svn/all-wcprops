@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/4372/branches/ray/target/linux/ralink/files/drivers/usb/serial/GobiNet
+END
+QMI.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/4372/branches/ray/target/linux/ralink/files/drivers/usb/serial/GobiNet/QMI.h
+END
+QMIDevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/4372/branches/ray/target/linux/ralink/files/drivers/usb/serial/GobiNet/QMIDevice.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ezp/!svn/ver/4372/branches/ray/target/linux/ralink/files/drivers/usb/serial/GobiNet/Makefile
+END
+Structs.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezp/!svn/ver/4372/branches/ray/target/linux/ralink/files/drivers/usb/serial/GobiNet/Structs.h
+END
+GobiUSBNet.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ezp/!svn/ver/4372/branches/ray/target/linux/ralink/files/drivers/usb/serial/GobiNet/GobiUSBNet.c
+END
+GobiNet.mod.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ezp/!svn/ver/4372/branches/ray/target/linux/ralink/files/drivers/usb/serial/GobiNet/GobiNet.mod.c
+END
+QMI.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/4372/branches/ray/target/linux/ralink/files/drivers/usb/serial/GobiNet/QMI.c
+END
+QMIDevice.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/4372/branches/ray/target/linux/ralink/files/drivers/usb/serial/GobiNet/QMIDevice.c
+END

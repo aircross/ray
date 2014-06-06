@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ezp/!svn/ver/4430/branches/ray/package/libdnet/patches
+END
+010-gcc4.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ezp/!svn/ver/4430/branches/ray/package/libdnet/patches/010-gcc4.patch
+END
+002-fix_avr32_compile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/4430/branches/ray/package/libdnet/patches/002-fix_avr32_compile.patch
+END
+001-dnet_config.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/4430/branches/ray/package/libdnet/patches/001-dnet_config.patch
+END

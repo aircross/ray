@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files-2.6.26/drivers/usb/storage
+END
+unusual_devs.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files-2.6.26/drivers/usb/storage/unusual_devs.h
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/libtomcrypt-1.00/src/ciphers/twofish
+END
+twofish.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/libtomcrypt-1.00/src/ciphers/twofish/twofish.c
+END
+twofish_tab.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/libtomcrypt-1.00/src/ciphers/twofish/twofish_tab.c
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ezp/!svn/ver/3962/branches/ray/package/nodogsplash/patches
+END
+002-deprecated_iptables_syntax.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/3962/branches/ray/package/nodogsplash/patches/002-deprecated_iptables_syntax.patch
+END
+100-ezp_conf_h.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/3962/branches/ray/package/nodogsplash/patches/100-ezp_conf_h.patch
+END
+100-ezp_iptables.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/3962/branches/ray/package/nodogsplash/patches/100-ezp_iptables.patch
+END
+001-crash_on_missing_rdir_param.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ezp/!svn/ver/3962/branches/ray/package/nodogsplash/patches/001-crash_on_missing_rdir_param.patch
+END

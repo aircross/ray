@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files-2.6.26/drivers/leds
+END
+ledtrig-morse.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files-2.6.26/drivers/leds/ledtrig-morse.c
+END
+ledtrig-netdev.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files-2.6.26/drivers/leds/ledtrig-netdev.c
+END
+leds-alix.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files-2.6.26/drivers/leds/leds-alix.c
+END

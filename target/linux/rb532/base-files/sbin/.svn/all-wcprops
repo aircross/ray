@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rb532/base-files/sbin
+END
+wget2nand
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rb532/base-files/sbin/wget2nand
+END
+cf2nand
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rb532/base-files/sbin/cf2nand
+END

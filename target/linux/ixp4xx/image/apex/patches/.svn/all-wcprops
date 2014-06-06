@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ixp4xx/image/apex/patches
+END
+120-openwrt_nslu2_16mb_armeb_config.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ixp4xx/image/apex/patches/120-openwrt_nslu2_16mb_armeb_config.patch
+END
+130_fatslug_sdram_init.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ixp4xx/image/apex/patches/130_fatslug_sdram_init.patch
+END
+110-slugos_nslu2_16mb.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ixp4xx/image/apex/patches/110-slugos_nslu2_16mb.patch
+END
+100-openwrt_nslu2_armeb_config.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ixp4xx/image/apex/patches/100-openwrt_nslu2_armeb_config.patch
+END

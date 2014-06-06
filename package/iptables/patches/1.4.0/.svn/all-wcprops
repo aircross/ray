@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/2941/branches/ray/package/iptables/patches/1.4.0
+END
+003-layer7_2.17_pktmatch.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ezp/!svn/ver/2941/branches/ray/package/iptables/patches/1.4.0/003-layer7_2.17_pktmatch.patch
+END
+004-drop_multiport_v0_support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ezp/!svn/ver/2941/branches/ray/package/iptables/patches/1.4.0/004-drop_multiport_v0_support.patch
+END
+002-layer7_2.17.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/package/iptables/patches/1.4.0/002-layer7_2.17.patch
+END
+005-imq1.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/2941/branches/ray/package/iptables/patches/1.4.0/005-imq1.patch
+END
+011-ezp_ipt_match_webstr.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ezp/!svn/ver/2941/branches/ray/package/iptables/patches/1.4.0/011-ezp_ipt_match_webstr.patch
+END
+010-ezp_ipt_xt_MARK.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2941/branches/ray/package/iptables/patches/1.4.0/010-ezp_ipt_xt_MARK.patch
+END
+012-ipt_trigger.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/package/iptables/patches/1.4.0/012-ipt_trigger.patch
+END
+001-ipp2p-0.8.1rc1.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2941/branches/ray/package/iptables/patches/1.4.0/001-ipp2p-0.8.1rc1.patch
+END
+006-chaostables_0.8.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2941/branches/ray/package/iptables/patches/1.4.0/006-chaostables_0.8.patch
+END
+007-tarpit_support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2941/branches/ray/package/iptables/patches/1.4.0/007-tarpit_support.patch
+END
+008-route.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/package/iptables/patches/1.4.0/008-route.patch
+END

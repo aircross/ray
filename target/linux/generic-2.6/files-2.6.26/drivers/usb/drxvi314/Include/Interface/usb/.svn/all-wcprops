@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files-2.6.26/drivers/usb/drxvi314/Include/Interface/usb
+END
+InterfaceAdapter.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files-2.6.26/drivers/usb/drxvi314/Include/Interface/usb/InterfaceAdapter.h
+END
+InterfaceMacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files-2.6.26/drivers/usb/drxvi314/Include/Interface/usb/InterfaceMacros.h
+END
+Interfacemain.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files-2.6.26/drivers/usb/drxvi314/Include/Interface/usb/Interfacemain.h
+END
+InterfaceRx.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files-2.6.26/drivers/usb/drxvi314/Include/Interface/usb/InterfaceRx.h
+END
+InterfaceMisc.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files-2.6.26/drivers/usb/drxvi314/Include/Interface/usb/InterfaceMisc.h
+END
+InterfaceTx.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files-2.6.26/drivers/usb/drxvi314/Include/Interface/usb/InterfaceTx.h
+END
+InterfaceIsr.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files-2.6.26/drivers/usb/drxvi314/Include/Interface/usb/InterfaceIsr.h
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ifxmips/files/arch/mips/pci
+END
+pci-ifxmips.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ifxmips/files/arch/mips/pci/pci-ifxmips.c
+END
+ops-ifxmips.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ifxmips/files/arch/mips/pci/ops-ifxmips.c
+END

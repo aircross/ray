@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/arch/mips/adm5120/zyxel
+END
+p-33x.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/arch/mips/adm5120/zyxel/p-33x.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/arch/mips/adm5120/zyxel/Makefile
+END
+p-33x.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/arch/mips/adm5120/zyxel/p-33x.h
+END
+p-334wt.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/arch/mips/adm5120/zyxel/p-334wt.c
+END
+p-335.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/arch/mips/adm5120/zyxel/p-335.c
+END

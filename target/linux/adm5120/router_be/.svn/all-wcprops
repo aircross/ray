@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/router_be
+END
+config-2.6.26
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/router_be/config-2.6.26
+END
+target.mk
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/router_be/target.mk
+END

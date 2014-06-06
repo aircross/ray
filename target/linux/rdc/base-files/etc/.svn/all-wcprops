@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rdc/base-files/etc
+END
+inittab
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rdc/base-files/etc/inittab
+END
+diag.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rdc/base-files/etc/diag.sh
+END

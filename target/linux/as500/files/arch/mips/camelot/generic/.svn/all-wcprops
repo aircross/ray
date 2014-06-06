@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/as500/files/arch/mips/camelot/generic
+END
+wbflush.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/as500/files/arch/mips/camelot/generic/wbflush.c
+END
+cml_eth.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/as500/files/arch/mips/camelot/generic/cml_eth.c
+END
+prom.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/as500/files/arch/mips/camelot/generic/prom.c
+END
+nf_hnat.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/as500/files/arch/mips/camelot/generic/nf_hnat.c
+END
+ip175d.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/as500/files/arch/mips/camelot/generic/ip175d.h
+END
+serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/as500/files/arch/mips/camelot/generic/serial.c
+END
+cml_hnat.o.gz
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/as500/files/arch/mips/camelot/generic/cml_hnat.o.gz
+END
+175d.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/as500/files/arch/mips/camelot/generic/175d.c
+END
+reset.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/as500/files/arch/mips/camelot/generic/reset.c
+END
+cml_hnat_sdmz.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/as500/files/arch/mips/camelot/generic/cml_hnat_sdmz.c
+END
+serial_camelot.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/as500/files/arch/mips/camelot/generic/serial_camelot.h
+END
+int.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/as500/files/arch/mips/camelot/generic/int.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/as500/files/arch/mips/camelot/generic/Makefile
+END
+gpio.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/as500/files/arch/mips/camelot/generic/gpio.c
+END
+time.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/as500/files/arch/mips/camelot/generic/time.c
+END
+setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/as500/files/arch/mips/camelot/generic/setup.c
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/as500/files/arch/mips/camelot/generic/init.c
+END
+c-camelot.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/as500/files/arch/mips/camelot/generic/c-camelot.c
+END

@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/ag7100
+END
+adm_phy.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/ag7100/adm_phy.h
+END
+generic_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/ag7100/generic_spi.c
+END
+ipPhy.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/ag7100/ipPhy.c
+END
+vsc8601_phy.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/ag7100/vsc8601_phy.c
+END
+generic_spi.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/ag7100/generic_spi.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/ag7100/Makefile
+END
+ipPhy.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/ag7100/ipPhy.h
+END
+g5_Plus1_2_31_unmanaged_Atheros_v3.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/ag7100/g5_Plus1_2_31_unmanaged_Atheros_v3.c
+END
+ag7100.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/ag7100/ag7100.c
+END
+vsc8601_phy.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/ag7100/vsc8601_phy.h
+END
+g5_Plus1_2_31_unmanaged_Atheros_v4.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/ag7100/g5_Plus1_2_31_unmanaged_Atheros_v4.c
+END
+case_config_napt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/ag7100/case_config_napt
+END
+g5_Plus1_2_31_unmanaged_Atheros_v6.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/ag7100/g5_Plus1_2_31_unmanaged_Atheros_v6.c
+END
+ag7100.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/ag7100/ag7100.h
+END
+rtPhy.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/ag7100/rtPhy.c
+END
+isis_nat_helper.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/ag7100/isis_nat_helper.c
+END
+athrs26_phy.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/ag7100/athrs26_phy.c
+END
+g5_Plus1_2_29b_unmanaged_Atheros_v5.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/ag7100/g5_Plus1_2_29b_unmanaged_Atheros_v5.c
+END
+rtPhy.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/ag7100/rtPhy.h
+END
+ag7100_trc.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/ag7100/ag7100_trc.h
+END
+athrs26_phy.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/ag7100/athrs26_phy.h
+END
+athr_phy.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/ag7100/athr_phy.h
+END
+ag7100_phy.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/ag7100/ag7100_phy.h
+END
+vsc73xx.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/ag7100/vsc73xx.c
+END
+ag7100_mod.ko
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/ag7100/ag7100_mod.ko
+END
+vsc73xx.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/ag7100/vsc73xx.h
+END
+athrf1_phy.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/ag7100/athrf1_phy.c
+END
+athrs16_phy.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/ag7100/athrs16_phy.c
+END
+generic_i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/ag7100/generic_i2c.c
+END
+g5_Plus1_2_29a_unmanaged_Atheros_v5.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/ag7100/g5_Plus1_2_29a_unmanaged_Atheros_v5.c
+END
+vsc_phy.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/ag7100/vsc_phy.c
+END
+g5e_Plus1_2_29a_unmanaged_Atheros_v3.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/ag7100/g5e_Plus1_2_29a_unmanaged_Atheros_v3.c
+END
+ag7100_mod.mod.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/ag7100/ag7100_mod.mod.c
+END
+athrs16_phy.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/ag7100/athrs16_phy.h
+END
+generic_i2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/ag7100/generic_i2c.h
+END
+vsc_phy.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/ag7100/vsc_phy.h
+END
+adm_phy.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/ag7100/adm_phy.c
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ezp/!svn/ver/2941/branches/ray/package/udev
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ezp/!svn/ver/2941/branches/ray/package/udev/Makefile
+END
+udevextras-config.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/2941/branches/ray/package/udev/udevextras-config.in
+END

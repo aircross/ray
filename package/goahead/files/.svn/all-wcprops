@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ezp/!svn/ver/2941/branches/ray/package/goahead/files
+END
+cplange.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/2941/branches/ray/package/goahead/files/cplange.sh
+END
+get3G.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/2941/branches/ray/package/goahead/files/get3G.sh
+END
+getSSI.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/2941/branches/ray/package/goahead/files/getSSI.sh
+END
+goahead.init
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/2941/branches/ray/package/goahead/files/goahead.init
+END
+restart_web.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ezp/!svn/ver/2941/branches/ray/package/goahead/files/restart_web.sh
+END

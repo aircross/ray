@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/2941/branches/ray/package/broadcom-wl/src/include
+END
+bcmutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/2941/branches/ray/package/broadcom-wl/src/include/bcmutils.h
+END
+bcmdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/2941/branches/ray/package/broadcom-wl/src/include/bcmdefs.h
+END
+typedefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/2941/branches/ray/package/broadcom-wl/src/include/typedefs.h
+END
+wlutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/2941/branches/ray/package/broadcom-wl/src/include/wlutils.h
+END
+wlioctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/2941/branches/ray/package/broadcom-wl/src/include/wlioctl.h
+END

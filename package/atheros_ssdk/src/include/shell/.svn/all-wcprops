@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/include/shell
+END
+shell_io.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/include/shell/shell_io.h
+END
+shell_sw.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/include/shell/shell_sw.h
+END
+shell.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/include/shell/shell.h
+END
+shell_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/include/shell/shell_config.h
+END
+shell_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/include/shell/shell_lib.h
+END

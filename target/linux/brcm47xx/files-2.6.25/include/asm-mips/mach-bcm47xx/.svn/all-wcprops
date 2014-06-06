@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/files-2.6.25/include/asm-mips/mach-bcm47xx
+END
+kernel-entry-init.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/files-2.6.25/include/asm-mips/mach-bcm47xx/kernel-entry-init.h
+END

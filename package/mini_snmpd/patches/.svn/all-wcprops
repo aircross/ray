@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ezp/!svn/ver/3106/branches/ray/package/mini_snmpd/patches
+END
+104-ipv6-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/package/mini_snmpd/patches/104-ipv6-support.patch
+END
+200-ezp-mini_snmpd.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/3106/branches/ray/package/mini_snmpd/patches/200-ezp-mini_snmpd.patch
+END
+103-mib_encode_snmp_element_oid_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ezp/!svn/ver/2941/branches/ray/package/mini_snmpd/patches/103-mib_encode_snmp_element_oid_fix.patch
+END
+101-opt_flags.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/package/mini_snmpd/patches/101-opt_flags.patch
+END
+102-compile_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/package/mini_snmpd/patches/102-compile_fix.patch
+END

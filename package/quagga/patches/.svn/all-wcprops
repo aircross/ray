@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ezp/!svn/ver/2941/branches/ray/package/quagga/patches
+END
+100-confederation.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/package/quagga/patches/100-confederation.patch
+END
+140-holdtimer-set.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/package/quagga/patches/140-holdtimer-set.patch
+END
+120-confed_errorhandle.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/package/quagga/patches/120-confed_errorhandle.patch
+END
+130-netlink_ignore_wireless.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2941/branches/ray/package/quagga/patches/130-netlink_ignore_wireless.patch
+END
+001-quagga_readline.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/package/quagga/patches/001-quagga_readline.patch
+END
+150-no-cross-fs-link.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/package/quagga/patches/150-no-cross-fs-link.patch
+END
+002-quagga_manet.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/2941/branches/ray/package/quagga/patches/002-quagga_manet.patch
+END
+001-quagga_cross.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/2941/branches/ray/package/quagga/patches/001-quagga_cross.patch
+END

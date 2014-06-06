@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/4065/branches/ray/target/linux/ralink/patches-2.6.26
+END
+100-drivers.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/patches-2.6.26/100-drivers.patch
+END
+105-drivers_serial.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/patches-2.6.26/105-drivers_serial.patch
+END
+833-squask-inode-readfail-log-filename.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ezp/!svn/ver/4044/branches/ray/target/linux/ralink/patches-2.6.26/833-squask-inode-readfail-log-filename.patch
+END
+820-ezp-mosra-wifi-led.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ezp/!svn/ver/3496/branches/ray/target/linux/ralink/patches-2.6.26/820-ezp-mosra-wifi-led.patch
+END
+806-ezp-usbhub-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/3037/branches/ray/target/linux/ralink/patches-2.6.26/806-ezp-usbhub-fix.patch
+END
+103-drivers_mtd.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/patches-2.6.26/103-drivers_mtd.patch
+END
+812-usb-abate-scsi_sector_size.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ezp/!svn/ver/3742/branches/ray/target/linux/ralink/patches-2.6.26/812-usb-abate-scsi_sector_size.patch
+END
+830-ezp-site_survey.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/3493/branches/ray/target/linux/ralink/patches-2.6.26/830-ezp-site_survey.patch
+END
+104-drivers_net.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/3728/branches/ray/target/linux/ralink/patches-2.6.26/104-drivers_net.patch
+END
+001-include_asm-mips.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/patches-2.6.26/001-include_asm-mips.patch
+END
+102-drivers_block.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/patches-2.6.26/102-drivers_block.patch
+END
+832-mini_fo.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/3963/branches/ray/target/linux/ralink/patches-2.6.26/832-mini_fo.patch
+END
+106-drivers_usb.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/patches-2.6.26/106-drivers_usb.patch
+END
+811-scsi-not-ready-retry-10times.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ezp/!svn/ver/3742/branches/ray/target/linux/ralink/patches-2.6.26/811-scsi-not-ready-retry-10times.patch
+END
+090-net.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/3728/branches/ray/target/linux/ralink/patches-2.6.26/090-net.patch
+END
+110-drivers_watchdog.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/patches-2.6.26/110-drivers_watchdog.patch
+END
+802-ezppacket_wireless_rt305x.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ezp/!svn/ver/3708/branches/ray/target/linux/ralink/patches-2.6.26/802-ezppacket_wireless_rt305x.patch
+END
+104-drivers_net_usb.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/patches-2.6.26/104-drivers_net_usb.patch
+END
+000-arch_mips.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/patches-2.6.26/000-arch_mips.patch
+END
+200-hcd-timer-justify.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezp/!svn/ver/3037/branches/ray/target/linux/ralink/patches-2.6.26/200-hcd-timer-justify.patch
+END
+831-squashfs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/3963/branches/ray/target/linux/ralink/patches-2.6.26/831-squashfs.patch
+END
+801-ezppacket_wireless.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ezp/!svn/ver/4065/branches/ray/target/linux/ralink/patches-2.6.26/801-ezppacket_wireless.patch
+END
+810-usb-storage-autosuspend.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ezp/!svn/ver/3742/branches/ray/target/linux/ralink/patches-2.6.26/810-usb-storage-autosuspend.patch
+END
+101-drivers_char.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/patches-2.6.26/101-drivers_char.patch
+END
+808-driver_media_video_uvc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ezp/!svn/ver/3064/branches/ray/target/linux/ralink/patches-2.6.26/808-driver_media_video_uvc.patch
+END

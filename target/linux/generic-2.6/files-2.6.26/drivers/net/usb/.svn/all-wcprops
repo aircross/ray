@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/3538/branches/ray/target/linux/generic-2.6/files-2.6.26/drivers/net/usb
+END
+sierra_net.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ezp/!svn/ver/3110/branches/ray/target/linux/generic-2.6/files-2.6.26/drivers/net/usb/sierra_net.c
+END
+ipheth.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezp/!svn/ver/3538/branches/ray/target/linux/generic-2.6/files-2.6.26/drivers/net/usb/ipheth.c
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ezp/!svn/ver/2941/branches/ray/package/rtorrent/patches
+END
+002-scgi.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/2941/branches/ray/package/rtorrent/patches/002-scgi.patch
+END
+010-fix_exec_capture_leak.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2941/branches/ray/package/rtorrent/patches/010-fix_exec_capture_leak.patch
+END
+901-upstream_rt_triple.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2941/branches/ray/package/rtorrent/patches/901-upstream_rt_triple.patch
+END
+902-gcc_3.4.6_wstring_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2941/branches/ray/package/rtorrent/patches/902-gcc_3.4.6_wstring_fix.patch
+END

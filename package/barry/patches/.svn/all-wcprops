@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ezp/!svn/ver/2941/branches/ray/package/barry/patches
+END
+500-tools-Makefils-in.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/package/barry/patches/500-tools-Makefils-in.patch
+END
+300-root-Makefile-in.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/package/barry/patches/300-root-Makefile-in.patch
+END
+200-src-iconv.cc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/2941/branches/ray/package/barry/patches/200-src-iconv.cc.patch
+END
+100-src-iconv.h.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/2941/branches/ray/package/barry/patches/100-src-iconv.h.patch
+END
+400-tools-Makefile-am.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/package/barry/patches/400-tools-Makefile-am.patch
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ezp/!svn/ver/2941/branches/ray/package/udev/patches
+END
+001-no_debug.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/2941/branches/ray/package/udev/patches/001-no_debug.patch
+END
+003-portability.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/2941/branches/ray/package/udev/patches/003-portability.patch
+END
+002-udevtrigger_no_config.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/package/udev/patches/002-udevtrigger_no_config.patch
+END

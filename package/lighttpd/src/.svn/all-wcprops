@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ezp/!svn/ver/4545/branches/ray/package/lighttpd/src
+END
+fcgi_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/4545/branches/ray/package/lighttpd/src/fcgi_common.c
+END
+tag.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ezp/!svn/ver/4409/branches/ray/package/lighttpd/src/tag.h
+END
+fcgi_authLogin.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ezp/!svn/ver/4515/branches/ray/package/lighttpd/src/fcgi_authLogin.c
+END
+upload.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/4409/branches/ray/package/lighttpd/src/upload.c
+END
+fcgi_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/4515/branches/ray/package/lighttpd/src/fcgi_common.h
+END
+fcgi_memdbg.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/4516/branches/ray/package/lighttpd/src/fcgi_memdbg.h
+END
+upload.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/4409/branches/ray/package/lighttpd/src/upload.h
+END
+fcgi_cgi.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/4515/branches/ray/package/lighttpd/src/fcgi_cgi.c
+END
+fcgi_sysinfoReq.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ezp/!svn/ver/4515/branches/ray/package/lighttpd/src/fcgi_sysinfoReq.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/4515/branches/ray/package/lighttpd/src/Makefile
+END
+fcgi_qbox_op.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ezp/!svn/ver/4545/branches/ray/package/lighttpd/src/fcgi_qbox_op.c
+END
+fcgi_cgi.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/4515/branches/ray/package/lighttpd/src/fcgi_cgi.h
+END
+nas_cgiutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/4409/branches/ray/package/lighttpd/src/nas_cgiutil.c
+END
+fcgi_qbox_op.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ezp/!svn/ver/4515/branches/ray/package/lighttpd/src/fcgi_qbox_op.h
+END
+search.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/4409/branches/ray/package/lighttpd/src/search.c
+END
+nas_cgiutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/4409/branches/ray/package/lighttpd/src/nas_cgiutil.h
+END
+download.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/4515/branches/ray/package/lighttpd/src/download.c
+END
+fcgi_tag.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/4515/branches/ray/package/lighttpd/src/fcgi_tag.h
+END
+search.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/4409/branches/ray/package/lighttpd/src/search.h
+END
+fcgi_upload.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/4515/branches/ray/package/lighttpd/src/fcgi_upload.c
+END
+download.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/4409/branches/ray/package/lighttpd/src/download.h
+END
+file_op.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/4516/branches/ray/package/lighttpd/src/file_op.c
+END
+fcgi_upload.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/4515/branches/ray/package/lighttpd/src/fcgi_upload.h
+END
+file_op.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/4409/branches/ray/package/lighttpd/src/file_op.h
+END
+utilRequest.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/4409/branches/ray/package/lighttpd/src/utilRequest.c
+END
+common.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/4545/branches/ray/package/lighttpd/src/common.c
+END
+fcgi_nas_cgiutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/4515/branches/ray/package/lighttpd/src/fcgi_nas_cgiutil.c
+END
+authLogin.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/4515/branches/ray/package/lighttpd/src/authLogin.c
+END
+fcgi_search.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/4515/branches/ray/package/lighttpd/src/fcgi_search.c
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/4520/branches/ray/package/lighttpd/src/common.h
+END
+fcgi_nas_cgiutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/4515/branches/ray/package/lighttpd/src/fcgi_nas_cgiutil.h
+END
+fcgi_download.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ezp/!svn/ver/4515/branches/ray/package/lighttpd/src/fcgi_download.c
+END
+memdbg.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/4409/branches/ray/package/lighttpd/src/memdbg.h
+END
+fcgi_search.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/4515/branches/ray/package/lighttpd/src/fcgi_search.h
+END
+cgi.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ezp/!svn/ver/4409/branches/ray/package/lighttpd/src/cgi.c
+END
+sysinfoReq.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/4409/branches/ray/package/lighttpd/src/sysinfoReq.c
+END
+stdenv.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/4515/branches/ray/package/lighttpd/src/stdenv.c
+END
+fcgi_download.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ezp/!svn/ver/4515/branches/ray/package/lighttpd/src/fcgi_download.h
+END
+fcgi_file_op.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ezp/!svn/ver/4515/branches/ray/package/lighttpd/src/fcgi_file_op.c
+END
+cgi.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ezp/!svn/ver/4515/branches/ray/package/lighttpd/src/cgi.h
+END
+qbox_op.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/4545/branches/ray/package/lighttpd/src/qbox_op.c
+END
+fcgi_file_op.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ezp/!svn/ver/4515/branches/ray/package/lighttpd/src/fcgi_file_op.h
+END
+qbox_op.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/4409/branches/ray/package/lighttpd/src/qbox_op.h
+END
+fcgi_utilRequest.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/4515/branches/ray/package/lighttpd/src/fcgi_utilRequest.c
+END

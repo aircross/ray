@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/2941/branches/ray/package/iptables/patches/1.3.8
+END
+001-ipp2p_0.8.1rc1.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2941/branches/ray/package/iptables/patches/1.3.8/001-ipp2p_0.8.1rc1.patch
+END
+003-layer7_2.17_pktmatch.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ezp/!svn/ver/2941/branches/ray/package/iptables/patches/1.3.8/003-layer7_2.17_pktmatch.patch
+END
+004-drop_multiport_v0_support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ezp/!svn/ver/2941/branches/ray/package/iptables/patches/1.3.8/004-drop_multiport_v0_support.patch
+END
+002-layer7_2.17.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/package/iptables/patches/1.3.8/002-layer7_2.17.patch
+END
+005-imq1.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/2941/branches/ray/package/iptables/patches/1.3.8/005-imq1.patch
+END

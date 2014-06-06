@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/patches/0.9.28.2
+END
+402-avr32-string-ops.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/patches/0.9.28.2/402-avr32-string-ops.patch
+END
+302-fix-__libc_fcntl64-varargs-prototype.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/patches/0.9.28.2/302-fix-__libc_fcntl64-varargs-prototype.patch
+END
+407-ldso-avr32-2.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/patches/0.9.28.2/407-ldso-avr32-2.patch
+END
+150-portability.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/patches/0.9.28.2/150-portability.patch
+END
+230-cris-pagesize.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/patches/0.9.28.2/230-cris-pagesize.patch
+END
+400-avr32-arch-2.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/patches/0.9.28.2/400-avr32-arch-2.patch
+END
+190-uml_x86_64_hack.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/patches/0.9.28.2/190-uml_x86_64_hack.patch
+END
+240-cris-crt0.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/patches/0.9.28.2/240-cris-crt0.patch
+END
+301-fix-getrusage-argument-type.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/patches/0.9.28.2/301-fix-getrusage-argument-type.patch
+END
+409-ldso-avr32-startup-hack.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/patches/0.9.28.2/409-ldso-avr32-startup-hack.patch
+END
+410-ldd-avr32-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/patches/0.9.28.2/410-ldd-avr32-support.patch
+END
+100-revert_broken_stuff.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/patches/0.9.28.2/100-revert_broken_stuff.patch
+END
+411-libpthread-avr32.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/patches/0.9.28.2/411-libpthread-avr32.patch
+END
+300-let-optimized-stringops-override-default-ones.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/patches/0.9.28.2/300-let-optimized-stringops-override-default-ones.patch
+END
+303-fix-broken-__libc_open-declaration.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/patches/0.9.28.2/303-fix-broken-__libc_open-declaration.patch
+END
+160-move_stack_end.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/patches/0.9.28.2/160-move_stack_end.patch
+END
+250-cris-errno.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/patches/0.9.28.2/250-cris-errno.patch
+END
+120-more_standard_math.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/patches/0.9.28.2/120-more_standard_math.patch
+END
+403-no-create_module-on-avr32.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/patches/0.9.28.2/403-no-create_module-on-avr32.patch
+END
+401-avr32-linkrelax-option.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/patches/0.9.28.2/401-avr32-linkrelax-option.patch
+END
+200-cris-syscall6.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/patches/0.9.28.2/200-cris-syscall6.patch
+END
+412-sync-fcntl-h-with-linux-kernel.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/patches/0.9.28.2/412-sync-fcntl-h-with-linux-kernel.patch
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/include/hsl/phy
+END
+f1_phy.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/include/hsl/phy/f1_phy.h
+END
+f2_phy.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/include/hsl/phy/f2_phy.h
+END

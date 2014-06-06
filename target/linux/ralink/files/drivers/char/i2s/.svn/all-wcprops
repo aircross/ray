@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/char/i2s
+END
+wm8751.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/char/i2s/wm8751.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/char/i2s/Makefile
+END
+wm8751.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/char/i2s/wm8751.h
+END
+i2s_ctrl.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/char/i2s/i2s_ctrl.c
+END
+audiohw.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/char/i2s/audiohw.h
+END
+i2s_ctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/char/i2s/i2s_ctrl.h
+END

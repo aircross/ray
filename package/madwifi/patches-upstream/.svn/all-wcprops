@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches-upstream
+END
+104-autocreate_none.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches-upstream/104-autocreate_none.patch
+END
+111-minstrel_crash.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches-upstream/111-minstrel_crash.patch
+END

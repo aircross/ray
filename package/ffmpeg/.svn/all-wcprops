@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ezp/!svn/ver/4447/branches/ray/package/ffmpeg
+END
+Config.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ezp/!svn/ver/4447/branches/ray/package/ffmpeg/Config.in
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ezp/!svn/ver/4447/branches/ray/package/ffmpeg/Makefile
+END

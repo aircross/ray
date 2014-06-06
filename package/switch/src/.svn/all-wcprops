@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ezp/!svn/ver/2941/branches/ray/package/switch/src
+END
+gpio-bcm947xx.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/2941/branches/ray/package/switch/src/gpio-bcm947xx.h
+END
+switch-core.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/2941/branches/ray/package/switch/src/switch-core.c
+END
+etc53xx.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ezp/!svn/ver/2941/branches/ray/package/switch/src/etc53xx.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ezp/!svn/ver/2941/branches/ray/package/switch/src/Makefile
+END
+switch-core.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/2941/branches/ray/package/switch/src/switch-core.h
+END
+switch-adm.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/2941/branches/ray/package/switch/src/switch-adm.c
+END
+switch-robo.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/2941/branches/ray/package/switch/src/switch-robo.c
+END
+gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ezp/!svn/ver/2941/branches/ray/package/switch/src/gpio.h
+END

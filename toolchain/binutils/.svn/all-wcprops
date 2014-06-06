@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/binutils
+END
+Config.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/binutils/Config.in
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/binutils/Makefile
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ssdk_header/include/common
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ssdk_header/include/common/util.h
+END
+sw_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ssdk_header/include/common/sw_config.h
+END
+shared_func.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ssdk_header/include/common/shared_func.h
+END
+sw_error.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ssdk_header/include/common/sw_error.h
+END
+aos_head.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ssdk_header/include/common/aos_head.h
+END
+build_mode.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ssdk_header/include/common/build_mode.h
+END
+sw.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ssdk_header/include/common/sw.h
+END

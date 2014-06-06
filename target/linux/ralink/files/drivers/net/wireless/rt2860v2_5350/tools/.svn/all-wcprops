@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_5350/tools
+END
+bin2h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_5350/tools/bin2h
+END
+bin2h.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_5350/tools/bin2h.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_5350/tools/Makefile
+END

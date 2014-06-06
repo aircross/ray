@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.2.4
+END
+203-uclibc-locale-no__x.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.2.4/203-uclibc-locale-no__x.patch
+END
+800-arm-bigendian.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.2.4/800-arm-bigendian.patch
+END
+908-avr32_fix_invalid_assembler_code_on_64bit_hosts.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.2.4/908-avr32_fix_invalid_assembler_code_on_64bit_hosts.patch
+END
+910-mbsd_multi.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.2.4/910-mbsd_multi.patch
+END
+305-libmudflap-susv3-legacy.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.2.4/305-libmudflap-susv3-legacy.patch
+END
+302-c99-snprintf.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.2.4/302-c99-snprintf.patch
+END
+930-eabi_fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.2.4/930-eabi_fixes.patch
+END
+402-libbackend_dep_gcov-iov.h.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.2.4/402-libbackend_dep_gcov-iov.h.patch
+END
+903-avr32_fix_expanding_builtin_xchg.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.2.4/903-avr32_fix_expanding_builtin_xchg.patch
+END
+904-flatten-switch-stmt-00.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.2.4/904-flatten-switch-stmt-00.patch
+END
+204-uclibc-locale-wchar_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.2.4/204-uclibc-locale-wchar_fix.patch
+END
+306-libstdc++-namespace.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.2.4/306-libstdc++-namespace.patch
+END
+301-missing-execinfo_h.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.2.4/301-missing-execinfo_h.patch
+END
+103-uclibc-conf-noupstream.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.2.4/103-uclibc-conf-noupstream.patch
+END
+205-uclibc-locale-update.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.2.4/205-uclibc-locale-update.patch
+END
+100-uclibc-conf.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.2.4/100-uclibc-conf.patch
+END
+300-libstdc++-pic.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.2.4/300-libstdc++-pic.patch
+END
+910-soft-float.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.2.4/910-soft-float.patch
+END
+920-soft-float.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.2.4/920-soft-float.patch
+END
+951-bug_37014.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.2.4/951-bug_37014.patch
+END
+902-avr32_fix_pic_redefinition_warning.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.2.4/902-avr32_fix_pic_redefinition_warning.patch
+END
+307-locale_facets.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.2.4/307-locale_facets.patch
+END
+905-avr32_fix_folding_machine_reorg_optimizations.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.2.4/905-avr32_fix_folding_machine_reorg_optimizations.patch
+END
+906-avr32_use_rjmp_instead_of_got_when_jumping.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.2.4/906-avr32_use_rjmp_instead_of_got_when_jumping.patch
+END
+304-index_macro.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.2.4/304-index_macro.patch
+END
+200-uclibc-locale.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.2.4/200-uclibc-locale.patch
+END
+303-c99-complex-ugly-hack.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.2.4/303-c99-complex-ugly-hack.patch
+END
+901-avr32_add_mno-pic.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.2.4/901-avr32_add_mno-pic.patch
+END
+900-avr32_support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.2.4/900-avr32_support.patch
+END

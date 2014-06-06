@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ifxmips/files/drivers/char
+END
+ifxmips_eeprom.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ifxmips/files/drivers/char/ifxmips_eeprom.c
+END
+ifxmips_ssc.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ifxmips/files/drivers/char/ifxmips_ssc.c
+END
+ifxmips_mei_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ifxmips/files/drivers/char/ifxmips_mei_core.c
+END

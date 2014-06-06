@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/3728/branches/ray/target/linux/ralink/f16d64-2t2r-ar8316-spi-amit-cde570-prox
+END
+config-2.6.26
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ezp/!svn/ver/3728/branches/ray/target/linux/ralink/f16d64-2t2r-ar8316-spi-amit-cde570-prox/config-2.6.26
+END
+target.mk
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ezp/!svn/ver/3192/branches/ray/target/linux/ralink/f16d64-2t2r-ar8316-spi-amit-cde570-prox/target.mk
+END

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ezp/!svn/ver/4555/branches/ray/package/base-files/files/etc
+END
+preinit
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ezp/!svn/ver/4468/branches/ray/package/base-files/files/etc/preinit
+END
+crontabs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ezp/!svn/ver/2941/branches/ray/package/base-files/files/etc/crontabs
+END
+led_control.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/4216/branches/ray/package/base-files/files/etc/led_control.sh
+END
+diag.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ezp/!svn/ver/2941/branches/ray/package/base-files/files/etc/diag.sh
+END
+sysctl.conf.template
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/3696/branches/ray/package/base-files/files/etc/sysctl.conf.template
+END
+functions.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/4372/branches/ray/package/base-files/files/etc/functions.sh
+END
+hotplug2-common.rules
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/package/base-files/files/etc/hotplug2-common.rules
+END
+protocols
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ezp/!svn/ver/2941/branches/ray/package/base-files/files/etc/protocols
+END
+network.sh.debug
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/2941/branches/ray/package/base-files/files/etc/network.sh.debug
+END
+log.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ezp/!svn/ver/2941/branches/ray/package/base-files/files/etc/log.sh
+END
+inittab
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ezp/!svn/ver/2941/branches/ray/package/base-files/files/etc/inittab
+END
+ethers
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ezp/!svn/ver/2941/branches/ray/package/base-files/files/etc/ethers
+END
+shells
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ezp/!svn/ver/2941/branches/ray/package/base-files/files/etc/shells
+END
+rc.common
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ezp/!svn/ver/2941/branches/ray/package/base-files/files/etc/rc.common
+END
+group
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/3328/branches/ray/package/base-files/files/etc/group
+END
+TZ
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/2941/branches/ray/package/base-files/files/etc/TZ
+END
+hotplug2-init.rules
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/package/base-files/files/etc/hotplug2-init.rules
+END
+profile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ezp/!svn/ver/2941/branches/ray/package/base-files/files/etc/profile
+END
+hosts
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/2941/branches/ray/package/base-files/files/etc/hosts
+END
+passwd
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ezp/!svn/ver/3147/branches/ray/package/base-files/files/etc/passwd
+END
+network.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/4553/branches/ray/package/base-files/files/etc/network.sh
+END
+banner
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ezp/!svn/ver/2941/branches/ray/package/base-files/files/etc/banner
+END

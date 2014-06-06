@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ezp/!svn/ver/3207/branches/ray/package/openswan/patches
+END
+150-use-dev-urandom.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/package/openswan/patches/150-use-dev-urandom.patch
+END
+160-openswan-des-dh1.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/package/openswan/patches/160-openswan-des-dh1.patch
+END
+192-use-kernel-des-null.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2999/branches/ray/package/openswan/patches/192-use-kernel-des-null.patch
+END
+110-scripts.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/2999/branches/ray/package/openswan/patches/110-scripts.patch
+END
+120-myid-showhostkey.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/package/openswan/patches/120-myid-showhostkey.patch
+END
+120-no_manpages.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2999/branches/ray/package/openswan/patches/120-no_manpages.patch
+END
+194-_updown.klips.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/3144/branches/ray/package/openswan/patches/194-_updown.klips.patch
+END
+130-compat_net_dev_ops.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2999/branches/ray/package/openswan/patches/130-compat_net_dev_ops.patch
+END
+130-openswan-2.4.12-5vt.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/package/openswan/patches/130-openswan-2.4.12-5vt.patch
+END
+180-zywall_phase1_phase2_rekey.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ezp/!svn/ver/2941/branches/ray/package/openswan/patches/180-zywall_phase1_phase2_rekey.patch
+END
+300-ezp-IPSEC_NUM_IF.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/3207/branches/ray/package/openswan/patches/300-ezp-IPSEC_NUM_IF.patch
+END

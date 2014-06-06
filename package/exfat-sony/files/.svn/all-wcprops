@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ezp/!svn/ver/3654/branches/ray/package/exfat-sony/files
+END
+exfatfuse
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/3654/branches/ray/package/exfat-sony/files/exfatfuse
+END
+libfuse.so.2.8.3
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/3641/branches/ray/package/exfat-sony/files/libfuse.so.2.8.3
+END
+libl10n.so.7.0
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/3641/branches/ray/package/exfat-sony/files/libl10n.so.7.0
+END
+fusermount
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ezp/!svn/ver/3640/branches/ray/package/exfat-sony/files/fusermount
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ezp/!svn/ver/3754/branches/ray/toolchain/uClibc/patches
+END
+120-adjtimex.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/patches/120-adjtimex.patch
+END
+170-enable-getifaddrs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/3700/branches/ray/toolchain/uClibc/patches/170-enable-getifaddrs.patch
+END
+141-fix-daemon-to-support-pthread.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/3700/branches/ray/toolchain/uClibc/patches/141-fix-daemon-to-support-pthread.patch
+END
+180-uClibc-aio.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/3754/branches/ray/toolchain/uClibc/patches/180-uClibc-aio.patch
+END
+008-avr32_fix_sa_onstack.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/patches/008-avr32_fix_sa_onstack.patch
+END
+100-termios.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/patches/100-termios.patch
+END
+009-fix_getaddrinfo_infinite_loop.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/patches/009-fix_getaddrinfo_infinite_loop.patch
+END
+140-fix-endless-recursion-in-pthread.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/patches/140-fix-endless-recursion-in-pthread.patch
+END
+110-compat_macros.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/patches/110-compat_macros.patch
+END
+130-compile_fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/patches/130-compile_fixes.patch
+END
+006-rm_whitespace.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/patches/006-rm_whitespace.patch
+END
+001-fix_mmap.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/patches/001-fix_mmap.patch
+END
+130-sockets_throw.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/patches/130-sockets_throw.patch
+END
+004-fix_gethostent_r_failure_retval.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/patches/004-fix_gethostent_r_failure_retval.patch
+END
+007-avr32.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/patches/007-avr32.patch
+END
+005-fix_internal_function_definition.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/patches/005-fix_internal_function_definition.patch
+END
+002-conditional_sched_affinity.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/patches/002-conditional_sched_affinity.patch
+END
+150-fix-ldso-text-realloc-segfault.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/patches/150-fix-ldso-text-realloc-segfault.patch
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ezp/!svn/ver/4397/branches/ray/package/base-files/files/bin
+END
+login
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/2941/branches/ray/package/base-files/files/bin/login
+END
+firstboot
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ezp/!svn/ver/4397/branches/ray/package/base-files/files/bin/firstboot
+END
+ipcalc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ezp/!svn/ver/2941/branches/ray/package/base-files/files/bin/ipcalc
+END
+ipadd
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/2941/branches/ray/package/base-files/files/bin/ipadd
+END
+ipcalc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ezp/!svn/ver/2941/branches/ray/package/base-files/files/bin/ipcalc.sh
+END

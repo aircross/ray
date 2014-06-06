@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ezp/!svn/ver/2941/branches/ray/package/radvd/patches
+END
+001-fix_avr32_compile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/2941/branches/ray/package/radvd/patches/001-fix_avr32_compile
+END
+003-gateway-router.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/package/radvd/patches/003-gateway-router.patch
+END
+002-no_libfl.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/2941/branches/ray/package/radvd/patches/002-no_libfl.patch
+END

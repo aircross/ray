@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.1.2
+END
+304-index_macro.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.1.2/304-index_macro.patch
+END
+200-uclibc-locale.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.1.2/200-uclibc-locale.patch
+END
+303-c99-complex-ugly-hack.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.1.2/303-c99-complex-ugly-hack.patch
+END
+500-avr32.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.1.2/500-avr32.patch
+END
+800-arm-bigendian.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.1.2/800-arm-bigendian.patch
+END
+910-mbsd_multi.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.1.2/910-mbsd_multi.patch
+END
+302-c99-snprintf.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.1.2/302-c99-snprintf.patch
+END
+740-sh-pr24836.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.1.2/740-sh-pr24836.patch
+END
+900-c++_fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.1.2/900-c++_fixes.patch
+END
+850-unbreak-armv4t.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.1.2/850-unbreak-armv4t.patch
+END
+110-arm-eabi.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.1.2/110-arm-eabi.patch
+END
+301-missing-execinfo_h.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.1.2/301-missing-execinfo_h.patch
+END
+100-uclibc-conf.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.1.2/100-uclibc-conf.patch
+END
+300-libstdc++-pic.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.1.2/300-libstdc++-pic.patch
+END
+910-soft-float.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/4.1.2/910-soft-float.patch
+END

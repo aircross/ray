@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/patches-2.6.25
+END
+690-mips-allow-pciregister-after-boot.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/patches-2.6.25/690-mips-allow-pciregister-after-boot.patch
+END
+210-b44_phy_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/patches-2.6.25/210-b44_phy_fix.patch
+END
+620-ssb-modinit-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/patches-2.6.25/620-ssb-modinit-fix.patch
+END
+500-lzma_initramfs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/patches-2.6.25/500-lzma_initramfs.patch
+END
+100-board_support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/patches-2.6.25/100-board_support.patch
+END
+220-bcm5354.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/patches-2.6.25/220-bcm5354.patch
+END
+160-kmap_coherent.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/patches-2.6.25/160-kmap_coherent.patch
+END
+601-mips-remove-pci-collision-check.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/patches-2.6.25/601-mips-remove-pci-collision-check.patch
+END
+250-ohci-ssb-usb2.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/patches-2.6.25/250-ohci-ssb-usb2.patch
+END
+300-fork_cacheflush.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/patches-2.6.25/300-fork_cacheflush.patch
+END
+150-cpu_fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/patches-2.6.25/150-cpu_fixes.patch
+END
+110-flash_map.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/patches-2.6.25/110-flash_map.patch
+END
+680-ssb-support-8bit-writes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/patches-2.6.25/680-ssb-support-8bit-writes.patch
+END
+710-add-gpio-is-valid.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/patches-2.6.25/710-add-gpio-is-valid.patch
+END
+130-remove_scache.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/patches-2.6.25/130-remove_scache.patch
+END
+700-ssb-gigabit-ethernet-driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/patches-2.6.25/700-ssb-gigabit-ethernet-driver.patch
+END
+800-fix_cfe_detection.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/patches-2.6.25/800-fix_cfe_detection.patch
+END
+400-arch-bcm47xx.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/patches-2.6.25/400-arch-bcm47xx.patch
+END
+260-ohci-set-dma-mask.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/patches-2.6.25/260-ohci-set-dma-mask.patch
+END
+310-no_highpage.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/patches-2.6.25/310-no_highpage.patch
+END
+630-ssb-fix-irq-init.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/patches-2.6.25/630-ssb-fix-irq-init.patch
+END

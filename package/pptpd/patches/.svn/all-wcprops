@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ezp/!svn/ver/2941/branches/ray/package/pptpd/patches
+END
+002-pptpgre_use_debug_option.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2941/branches/ray/package/pptpd/patches/002-pptpgre_use_debug_option.patch
+END
+001-bad_pqueue_debug.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/package/pptpd/patches/001-bad_pqueue_debug.patch
+END
+003-opt_flags.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/2941/branches/ray/package/pptpd/patches/003-opt_flags.patch
+END
+004-pptpd-order.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/2941/branches/ray/package/pptpd/patches/004-pptpd-order.patch
+END
+005-pptpdef.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/2941/branches/ray/package/pptpd/patches/005-pptpdef.patch
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ezp/!svn/ver/2941/branches/ray/package/igmpproxy/files
+END
+igmpproxy-init
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ezp/!svn/ver/2941/branches/ray/package/igmpproxy/files/igmpproxy-init
+END
+igmpproxy.init
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ezp/!svn/ver/2941/branches/ray/package/igmpproxy/files/igmpproxy.init
+END
+igmpproxy.conf
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ezp/!svn/ver/2941/branches/ray/package/igmpproxy/files/igmpproxy.conf
+END

@@ -1,0 +1,515 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches
+END
+102-multicall_binary.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/102-multicall_binary.patch
+END
+349-reset.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/349-reset.patch
+END
+325-channel_spam.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/325-channel_spam.patch
+END
+354-ifxmips_eeprom.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/354-ifxmips_eeprom.patch
+END
+353-devid.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/353-devid.patch
+END
+317-bmask.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/317-bmask.patch
+END
+123-ccmp_checks.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/123-ccmp_checks.patch
+END
+309-micfail_detect.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/309-micfail_detect.patch
+END
+385-antenna_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/385-antenna_fix.patch
+END
+350-wisoc_softled.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/350-wisoc_softled.patch
+END
+367-roaming.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/367-roaming.patch
+END
+407-new_athinfo.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/407-new_athinfo.patch
+END
+408-changeset_r3337.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/408-changeset_r3337.patch
+END
+104-autocreate_none.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/104-autocreate_none.patch
+END
+106-get_arch.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/106-get_arch.patch
+END
+358-ignore_broken_bssid.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/358-ignore_broken_bssid.patch
+END
+352-ani_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/352-ani_fix.patch
+END
+324-alignment.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/324-alignment.patch
+END
+351-scanlist.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/351-scanlist.patch
+END
+331-memory_alloc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/331-memory_alloc.patch
+END
+379-invalid_rate_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/379-invalid_rate_fix.patch
+END
+356-hidden_ssid.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/356-hidden_ssid.patch
+END
+400-changeset_r3402.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/400-changeset_r3402.patch
+END
+368-sta_ie_preserve.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/368-sta_ie_preserve.patch
+END
+305-pureg_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/305-pureg_fix.patch
+END
+359-disable_reassoc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/359-disable_reassoc.patch
+END
+381-ibss_modes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/381-ibss_modes.patch
+END
+369-mlme_assoc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/369-mlme_assoc.patch
+END
+341-minrate.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/341-minrate.patch
+END
+403-changeset_r3605.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/403-changeset_r3605.patch
+END
+122-replayfail_workaround.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/122-replayfail_workaround.patch
+END
+310-noise_get.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/310-noise_get.patch
+END
+373-sanity_check.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/373-sanity_check.patch
+END
+347-tuning.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/347-tuning.patch
+END
+200-no_debug.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/200-no_debug.patch
+END
+378-adhoc_crash_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/378-adhoc_crash_fix.patch
+END
+450-new_hal.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/450-new_hal.patch
+END
+384-hwdetect.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/384-hwdetect.patch
+END
+375-atim_tsf_update.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/375-atim_tsf_update.patch
+END
+360-sta_nodes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/360-sta_nodes.patch
+END
+357-bgscan_thresh.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/357-bgscan_thresh.patch
+END
+355-eap_auth_disassoc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/355-eap_auth_disassoc.patch
+END
+406-monitor_r3711.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/406-monitor_r3711.patch
+END
+405-retransmit_check.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/405-retransmit_check.patch
+END
+201-debug_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/201-debug_fix.patch
+END
+364-memory_alloc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/364-memory_alloc.patch
+END
+327-queue.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/327-queue.patch
+END
+345-minstrel_sampling.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/345-minstrel_sampling.patch
+END
+372-queue_vif.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/372-queue_vif.patch
+END
+409-wext_compat.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/409-wext_compat.patch
+END
+113-no_ibss_pwrsave.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/113-no_ibss_pwrsave.patch
+END
+334-input.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/334-input.patch
+END
+342-performance.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/342-performance.patch
+END
+363-fix_turbo.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/363-fix_turbo.patch
+END
+124-linux24_compat.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/124-linux24_compat.patch
+END
+404-linux24_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/404-linux24_fix.patch
+END
+366-bstuck_thresh.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/366-bstuck_thresh.patch
+END
+323-dfs_optional.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/323-dfs_optional.patch
+END
+361-bmiss_handling.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/361-bmiss_handling.patch
+END
+374-nbtt_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/374-nbtt_fix.patch
+END
+383-ibss_hostap.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/383-ibss_hostap.patch
+END
+377-disable_vlan_code.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/377-disable_vlan_code.patch
+END
+312-erpupdate.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/312-erpupdate.patch
+END
+401-changeset_r3602.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/401-changeset_r3602.patch
+END
+371-wds_sta_separation.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/371-wds_sta_separation.patch
+END
+402-changeset_r3603.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/402-changeset_r3603.patch
+END
+382-relax_bintval.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/382-relax_bintval.patch
+END
+344-minstrel_failcnt.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/344-minstrel_failcnt.patch
+END
+126-rxerr_frames.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/126-rxerr_frames.patch
+END
+340-maxrate.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/340-maxrate.patch
+END
+362-rssithr.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/362-rssithr.patch
+END
+330-beaconcal.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/330-beaconcal.patch
+END
+370-wdsvap.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/370-wdsvap.patch
+END
+300-napi_polling.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/300-napi_polling.patch
+END
+111-minstrel_crash.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/111-minstrel_crash.patch
+END
+202-debug_variables.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/202-debug_variables.patch
+END
+333-apscan_mode.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/333-apscan_mode.patch
+END
+380-noderef_hack.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/380-noderef_hack.patch
+END
+311-bssid_alloc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/311-bssid_alloc.patch
+END
+332-reset_beacons.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/332-reset_beacons.patch
+END
+343-txqueue_races.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/343-txqueue_races.patch
+END
+365-turbo_channelsearch.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/365-turbo_channelsearch.patch
+END
+348-ackcts.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/348-ackcts.patch
+END
+105-ratectl_attach.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/105-ratectl_attach.patch
+END
+346-protmode_trig.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/patches/346-protmode_trig.patch
+END

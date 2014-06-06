@@ -1,0 +1,152 @@
+Welcome	歡迎
+Guest	訪客
+Admin	管理員
+Login	登錄
+Dashboard	主控台
+Setting	設定
+Internet	網際網路
+Home	首頁
+CPU	CPU
+Memory	記憶體
+Device(s)	連線裝置
+Time	時間
+mins	分鐘
+N/A	N/A
+Battery Status	電池狀況
+Power Level	剩餘電量
+Charge Status	充電狀況
+Charging	充電中
+Not Charging	未充電
+Unknown	不明
+Storage Status	儲存空間狀況
+Not Available	無法使用
+USB Disk	USB隨身碟
+SD Card	SD卡
+USB Used	USB已使用
+SD Used	SD已使用
+Link Status	網路連線
+Connection Type	連線類型
+Link State	連線狀況
+IP Address	外部IP位置
+Model Name	產品型號
+Firmware Version	系統軟體版本
+Current Time	現在時間
+Running Time	已開機時間
+Traffic	流量統計
+Device	裝置
+Device Name	裝置名稱
+DHCP	DHCP
+IP Address Pool	IP位置範圍
+LAN	內部網路
+Network Address	內部網路範圍
+Wireless Security	無線網路安全
+Security Type	加密類型
+Disable	已停用
+WEP	WEP
+WPA	WPA
+WPA2	WPA2
+It's recommended to use WPA2 for security.	建議使用WPA2加密
+Password	密碼
+Admin Password	管理員密碼
+Change Password	更改密碼
+Re-type Password	確認新密碼
+Please use the combination with only number and English alphabet with upper or lower case.	請使用英文大小寫與數字組合為密碼
+System	系統
+Default Configuration Restore	回復原廠設定值
+System Reboot	重新啟動
+Default	回復
+Reboot	重啟
+Firmware	系統軟體
+Version	版本
+Upgrade	更新
+Choose	選擇檔案
+Save	儲存
+Cancel	取消
+Wired Internet	有線網路
+Wireless Internet	無線網路
+For wireless and hotspots users.	連接到其他無線網路或熱點
+USB Internet	USB 網路
+If you have an exact username and password, choose this.	若您有撥接用的帳號密碼，請選擇此選項
+If you already have an IP adddress, choose this.	若您的擁有特定的IP位置，請選擇此選項
+If you have no any information from your network provider, choose this.	若您沒有上述資訊，請選擇此選項
+Unplugged	未連接纜線
+Plugged	已連接纜線
+Disconnect	中斷連線
+Connect	連線
+Connected	已經連線
+Connecting	連線中
+Connection Failed	連線失敗
+Search	搜尋
+Apple iPhone	蘋果iPhone
+Android phone	Android手機
+3G/4G Mobile Internet	3G/4G網路卡
+If you want internet tethering on iPhone, choose this.	若透過USB連接iPhone網路分享，請選擇此選項
+If you want internet tethering on Android phone, choose this.	若透過USB連接Android手機網路分享，請選擇此選項
+If you want internet tethering on 3G/4G dongle, choose this.	若透過3G/4G網路卡連接網路，請選擇此選項
+Refresh	重新整理
+PPPoE	PPPoE
+User Name	使用者名稱
+Static IP	固定IP
+External IP Address	外部IP位置
+Netmask	網路遮罩
+Gateway	預設閘道
+Static DNS 1	靜態DNS 1
+Static DNS 2	靜態DNS 2
+3G/4G dongle	3G/4G網路卡
+APN Type	連接點(APN)設定方式
+Auto	自動
+Manual	手動
+Access Point Name	連接點(APN)名稱
+APN	連接點(APN)
+PIN	PIN碼
+Dial Number	撥接號碼
+WISP	無線網路連線
+Key	無線網路密碼
+Re-type Key	重新輸入密碼
+The Key is an ASCII string of 8-63 digits	密碼為8-63位的半形英數字
+The Key must have value.	密碼不可為空白
+SSID	SSID			
+Signal	信號強度
+Action	動作
+Forget	忘記此連線
+Target SSID	目標SSID
+will reboot to connect to the selected network, please reconnect after rebooting.	將會重新啟動並連接到指定的網路，請在稍後重新連線
+Confirmed password did not match Entered Password.  Please re-enter password	兩次輸入的密碼不一致，請重新輸入密碼
+Password is not the same.	密碼不一致
+For ADSL, VDSL, Cable Modem, and Static IP users.	使用有線網路、ADSL、VDSL、或者Cable Modem的使用者
+For wireless and hotspots users.	無線網路與熱點的使用者
+For smart phone and 3G/4G modem users.	分享智慧型手機網路或3G/4G網路卡的使用者
+Copyright	版權所有
+QNAP Systems, Inc.	威聯通科技股份有限公司
+All rights reserved.	保留所有相關權利
+Upload	上傳
+Download	下載
+Logout	登出
+Device Information	裝置資訊
+USB Internet (Apple iPhone)	USB網際網路 (蘋果iPhone)
+Web Folder	檔案總管
+Read Only	唯讀
+Read/Write	可讀寫
+Re-type New Password	重新輸入密碼
+5 or 13 characters	5或13個字元
+8-63 characters	8-63個字元
+System update ".bin" file expected.	需要選擇 .bin 系統更新檔
+Are you sure to restore to the default configuration?	您確定要回復成原廠設定值？
+The firmware is upgraded successfully.	軔體更新成功。
+Rebooting... Please wait.	重新啟動中... 請稍候
+Are you sure to upgrade by using	請確認使用以下系統更新檔
+Are you sure to import configuration by using	請確認要匯入以下系統設定檔
+Firmware upgrading...	系統更新中 ...
+Confirm	確認
+Settings are saved successfully.	設定已被儲存，
+Settings take effect immediately.	並即將生效。
+No changes of the settings are made.	設定值並未被更動。
+The values you entered are invalid.	您所輸入的值無效，
+Please try again.	請重新輸入。
+Login Success	登錄成功
+System will reboot automatically after upgrade is completed.	更新成功後，系統將會自動重新開機。
+Cannot begin update. Recharge the battery until the battery level is at least 60%.	無法開始更新。將電池重新充電，直到電池電量至少達到60%。
+Battery level	電池電量
+Disconnected	連線中斷
+remaining	剩餘
+Guest Login	訪客登入

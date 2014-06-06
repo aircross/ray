@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/arch/mips/adm5120/edimax
+END
+br-6104k.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/arch/mips/adm5120/edimax/br-6104k.c
+END
+br-6104kp.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/arch/mips/adm5120/edimax/br-6104kp.c
+END
+br-61xx.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/arch/mips/adm5120/edimax/br-61xx.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/arch/mips/adm5120/edimax/Makefile
+END
+br-61xx.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/arch/mips/adm5120/edimax/br-61xx.h
+END
+br-61x4wg.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/arch/mips/adm5120/edimax/br-61x4wg.c
+END

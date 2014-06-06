@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ezp/!svn/ver/2941/branches/ray/package/dosfstools/patches
+END
+001-symbolic_links.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/package/dosfstools/patches/001-symbolic_links.patch
+END
+002-linux_26_headers.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2941/branches/ray/package/dosfstools/patches/002-linux_26_headers.patch
+END

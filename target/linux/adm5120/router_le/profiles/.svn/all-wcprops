@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/router_le/profiles
+END
+RB1xx.mk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/router_le/profiles/RB1xx.mk
+END
+Infineon.mk
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/router_le/profiles/Infineon.mk
+END
+Cellvision.mk
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/router_le/profiles/Cellvision.mk
+END
+Edimax.mk
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/router_le/profiles/Edimax.mk
+END
+010-Generic.mk
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/router_le/profiles/010-Generic.mk
+END
+Compex.mk
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/router_le/profiles/Compex.mk
+END
+Motorola.mk
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/router_le/profiles/Motorola.mk
+END

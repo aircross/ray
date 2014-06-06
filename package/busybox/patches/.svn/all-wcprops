@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ezp/!svn/ver/3137/branches/ray/package/busybox/patches
+END
+300-netmsg.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/2941/branches/ray/package/busybox/patches/300-netmsg.patch
+END
+110-wget_getopt_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/package/busybox/patches/110-wget_getopt_fix.patch
+END
+460-truncated_ping_results.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2941/branches/ray/package/busybox/patches/460-truncated_ping_results.patch
+END
+902-crontab_vi.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/2941/branches/ray/package/busybox/patches/902-crontab_vi.patch
+END
+002-darwin_compile_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/package/busybox/patches/002-darwin_compile_fix.patch
+END
+440-httpd_chdir.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/2941/branches/ray/package/busybox/patches/440-httpd_chdir.patch
+END
+410-httpd_cgi_headers.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/package/busybox/patches/410-httpd_cgi_headers.patch
+END
+242-udhcpc_msgs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/2941/branches/ray/package/busybox/patches/242-udhcpc_msgs.patch
+END
+903-ezp_logread.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/2941/branches/ray/package/busybox/patches/903-ezp_logread.patch
+END
+200-etc_crontabs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/package/busybox/patches/200-etc_crontabs.patch
+END
+240-udhcpc_retries.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/package/busybox/patches/240-udhcpc_retries.patch
+END
+250-ash_export-n.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/package/busybox/patches/250-ash_export-n.patch
+END
+000-autoconf.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/2941/branches/ray/package/busybox/patches/000-autoconf.patch
+END
+430-uniq_memleak.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/package/busybox/patches/430-uniq_memleak.patch
+END
+901-kbdmode.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/2941/branches/ray/package/busybox/patches/901-kbdmode.patch
+END
+350-httpd_redir.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/2941/branches/ray/package/busybox/patches/350-httpd_redir.patch
+END
+524-udhcpc_renew.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/package/busybox/patches/524-udhcpc_renew.patch
+END
+450-httpd_accept_header.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2941/branches/ray/package/busybox/patches/450-httpd_accept_header.patch
+END
+310-passwd_access.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/package/busybox/patches/310-passwd_access.patch
+END
+470-insmod_search.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/package/busybox/patches/470-insmod_search.patch
+END
+530-unsigned_bitwise_ops.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/package/busybox/patches/530-unsigned_bitwise_ops.patch
+END
+905-traceroute.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/3137/branches/ray/package/busybox/patches/905-traceroute.patch
+END
+340-lock_util.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/2941/branches/ray/package/busybox/patches/340-lock_util.patch
+END
+243-udhcpc_changed_ifindex.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2941/branches/ray/package/busybox/patches/243-udhcpc_changed_ifindex.patch
+END
+140-trylink_bash.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/package/busybox/patches/140-trylink_bash.patch
+END
+001-init_avoid_loop_opening_tty.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ezp/!svn/ver/2941/branches/ray/package/busybox/patches/001-init_avoid_loop_opening_tty.patch
+END
+904-dhcpc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/2941/branches/ray/package/busybox/patches/904-dhcpc.patch
+END
+241-udhcpc-oversized_packets.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/2941/branches/ray/package/busybox/patches/241-udhcpc-oversized_packets.patch
+END

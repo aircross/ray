@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/usb/dwc_otg/linux
+END
+dwc_otg_plat.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/usb/dwc_otg/linux/dwc_otg_plat.h
+END

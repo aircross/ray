@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/patches-2.6.23
+END
+130-vlynq.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/patches-2.6.23/130-vlynq.patch
+END
+110-flash.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/patches-2.6.23/110-flash.patch
+END
+500-serial_kludge.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/patches-2.6.23/500-serial_kludge.patch
+END
+210-phy_fixed.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/patches-2.6.23/210-phy_fixed.patch
+END
+100-board_support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/patches-2.6.23/100-board_support.patch
+END
+140-watchdog.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/patches-2.6.23/140-watchdog.patch
+END
+200-ethernet_driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/patches-2.6.23/200-ethernet_driver.patch
+END
+120-gpio_chrdev.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/patches-2.6.23/120-gpio_chrdev.patch
+END

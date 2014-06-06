@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/patches-2.6.25
+END
+170-cpmac_eth_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/patches-2.6.25/170-cpmac_eth_fix.patch
+END
+160-cpmac-rx-ring-use-eoq.diff
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/patches-2.6.25/160-cpmac-rx-ring-use-eoq.diff
+END
+100-board_support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/patches-2.6.25/100-board_support.patch
+END
+200-mtd_fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/patches-2.6.25/200-mtd_fixes.patch
+END
+150-cpmac_up_and_running.diff
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/patches-2.6.25/150-cpmac_up_and_running.diff
+END
+150-cpmac_not_broken.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/patches-2.6.25/150-cpmac_not_broken.patch
+END
+120-gpio_chrdev.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/patches-2.6.25/120-gpio_chrdev.patch
+END
+130-vlynq.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/patches-2.6.25/130-vlynq.patch
+END
+900-temporary_cpmac_hack.diff
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/patches-2.6.25/900-temporary_cpmac_hack.diff
+END
+140-cpmac_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/patches-2.6.25/140-cpmac_fix.patch
+END
+110-flash.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/patches-2.6.25/110-flash.patch
+END
+500-serial_kludge.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/patches-2.6.25/500-serial_kludge.patch
+END

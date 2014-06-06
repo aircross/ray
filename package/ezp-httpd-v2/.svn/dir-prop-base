@@ -1,0 +1,8 @@
+K 13
+svn:mergeinfo
+V 372
+/branches/ray/package/ezp-httpd:3831
+/branches/ray_ios7_tethering_porting/package/ezp-httpd-v2:4269-4293
+/branches/squirt/package/ezp-httpd-v2:3111,3114,3127,3131,3135,3138,3142,3145,3148,3151,3157,3160,3166,3169,3175,3178,3181,3184,3187,3190,3193,3196,3199,3202,3205,3209,3217,3220,3223,3226,3232,3235,3241,3244,3714
+/tags/ray/mosra_mp/package/ezp-httpd-v2:3740,3826,3830
+END

@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ezp/!svn/ver/2941/branches/ray/scripts/config
+END
+menu.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ezp/!svn/ver/2941/branches/ray/scripts/config/menu.c
+END
+symbol.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ezp/!svn/ver/2941/branches/ray/scripts/config/symbol.c
+END
+zconf.y
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ezp/!svn/ver/2941/branches/ray/scripts/config/zconf.y
+END
+lex.backup
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ezp/!svn/ver/2941/branches/ray/scripts/config/lex.backup
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ezp/!svn/ver/2941/branches/ray/scripts/config/README
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ezp/!svn/ver/2941/branches/ray/scripts/config/util.c
+END
+zconf.hash.c_shipped
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ezp/!svn/ver/2941/branches/ray/scripts/config/zconf.hash.c_shipped
+END
+lkc.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ezp/!svn/ver/2941/branches/ray/scripts/config/lkc.h
+END
+expr.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ezp/!svn/ver/2941/branches/ray/scripts/config/expr.c
+END
+kconfig_load.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/2941/branches/ray/scripts/config/kconfig_load.c
+END
+confdata.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ezp/!svn/ver/2941/branches/ray/scripts/config/confdata.c
+END
+lex.zconf.c_shipped
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/2941/branches/ray/scripts/config/lex.zconf.c_shipped
+END
+expr.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ezp/!svn/ver/2941/branches/ray/scripts/config/expr.h
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ezp/!svn/ver/2941/branches/ray/scripts/config/.gitignore
+END
+conf.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ezp/!svn/ver/2941/branches/ray/scripts/config/conf.c
+END
+zconf.l
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ezp/!svn/ver/2941/branches/ray/scripts/config/zconf.l
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ezp/!svn/ver/2941/branches/ray/scripts/config/Makefile
+END
+zconf.gperf
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ezp/!svn/ver/2941/branches/ray/scripts/config/zconf.gperf
+END
+zconf.tab.c_shipped
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/2941/branches/ray/scripts/config/zconf.tab.c_shipped
+END
+lkc_proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ezp/!svn/ver/2941/branches/ray/scripts/config/lkc_proto.h
+END
+mconf.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ezp/!svn/ver/2941/branches/ray/scripts/config/mconf.c
+END

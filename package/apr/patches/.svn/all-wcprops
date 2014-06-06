@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ezp/!svn/ver/4246/branches/ray/package/apr/patches
+END
+101-fix_apr_time_now.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/4246/branches/ray/package/apr/patches/101-fix_apr_time_now.patch
+END
+001-autoconf-compat.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/4246/branches/ray/package/apr/patches/001-autoconf-compat.patch
+END

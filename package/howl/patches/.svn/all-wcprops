@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ezp/!svn/ver/2941/branches/ray/package/howl/patches
+END
+003-proto_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/2941/branches/ray/package/howl/patches/003-proto_fix.patch
+END
+001-config.patch
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ezp/!svn/ver/2941/branches/ray/package/howl/patches/001-config.patch
+END
+004-linux_types.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/2941/branches/ray/package/howl/patches/004-linux_types.patch
+END
+002-debug_log.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/2941/branches/ray/package/howl/patches/002-debug_log.patch
+END

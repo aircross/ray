@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rb532/files-2.6.24/drivers/block/rb500
+END
+ata.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rb532/files-2.6.24/drivers/block/rb500/ata.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rb532/files-2.6.24/drivers/block/rb500/Makefile
+END
+bdev.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rb532/files-2.6.24/drivers/block/rb500/bdev.c
+END
+ata.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rb532/files-2.6.24/drivers/block/rb500/ata.c
+END

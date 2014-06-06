@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/3631/branches/ray/target/linux/generic-2.6/files-2.6.26/drivers/char/nvram_cfg
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files-2.6.26/drivers/char/nvram_cfg/Makefile
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files-2.6.26/drivers/char/nvram_cfg/Kconfig
+END
+ezutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files-2.6.26/drivers/char/nvram_cfg/ezutils.c
+END
+ez_osl.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files-2.6.26/drivers/char/nvram_cfg/ez_osl.h
+END
+linuxver.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files-2.6.26/drivers/char/nvram_cfg/linuxver.h
+END
+nvram_linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ezp/!svn/ver/3631/branches/ray/target/linux/generic-2.6/files-2.6.26/drivers/char/nvram_cfg/nvram_linux.c
+END
+osl.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files-2.6.26/drivers/char/nvram_cfg/osl.h
+END
+nvram.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files-2.6.26/drivers/char/nvram_cfg/nvram.c
+END
+bcmendian.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files-2.6.26/drivers/char/nvram_cfg/bcmendian.h
+END
+bcmutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files-2.6.26/drivers/char/nvram_cfg/bcmutils.h
+END
+typedefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files-2.6.26/drivers/char/nvram_cfg/typedefs.h
+END
+bcmnvram.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files-2.6.26/drivers/char/nvram_cfg/bcmnvram.h
+END
+ez_osl.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files-2.6.26/drivers/char/nvram_cfg/ez_osl.c
+END

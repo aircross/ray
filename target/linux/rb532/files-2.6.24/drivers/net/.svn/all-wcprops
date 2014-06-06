@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rb532/files-2.6.24/drivers/net
+END
+korina.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rb532/files-2.6.24/drivers/net/korina.c
+END
+rc32434_eth.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rb532/files-2.6.24/drivers/net/rc32434_eth.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/3966/branches/ray/package/mdnsresponder/patches
+END
+001-cross_compile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/3340/branches/ray/package/mdnsresponder/patches/001-cross_compile.patch
+END
+101-ezp-interface-timeout.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ezp/!svn/ver/3966/branches/ray/package/mdnsresponder/patches/101-ezp-interface-timeout.patch
+END
+002-uclibc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/3340/branches/ray/package/mdnsresponder/patches/002-uclibc.patch
+END

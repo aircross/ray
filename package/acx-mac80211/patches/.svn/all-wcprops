@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ezp/!svn/ver/2941/branches/ray/package/acx-mac80211/patches
+END
+002-rate_definitions.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2941/branches/ray/package/acx-mac80211/patches/002-rate_definitions.patch
+END
+001-build_module.diff
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/package/acx-mac80211/patches/001-build_module.diff
+END

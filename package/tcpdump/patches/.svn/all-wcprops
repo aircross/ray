@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ezp/!svn/ver/2941/branches/ray/package/tcpdump/patches
+END
+003-fix_ipv6_compile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/package/tcpdump/patches/003-fix_ipv6_compile.patch
+END
+001-remove_pcap_debug.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/package/tcpdump/patches/001-remove_pcap_debug.patch
+END
+100-tcpdump_mini.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/package/tcpdump/patches/100-tcpdump_mini.patch
+END
+004-fix_3g_iface.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/package/tcpdump/patches/004-fix_3g_iface.patch
+END
+002-remove_static_libpcap_check.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ezp/!svn/ver/2941/branches/ray/package/tcpdump/patches/002-remove_static_libpcap_check.patch
+END

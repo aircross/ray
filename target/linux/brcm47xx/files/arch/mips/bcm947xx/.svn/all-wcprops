@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/files/arch/mips/bcm947xx
+END
+setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/files/arch/mips/bcm947xx/setup.c
+END
+nvram.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/files/arch/mips/bcm947xx/nvram.c
+END
+cfe_env.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/files/arch/mips/bcm947xx/cfe_env.c
+END
+irq.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/files/arch/mips/bcm947xx/irq.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/files/arch/mips/bcm947xx/Makefile
+END
+prom.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/files/arch/mips/bcm947xx/prom.c
+END
+time.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/files/arch/mips/bcm947xx/time.c
+END

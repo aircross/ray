@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ezp/!svn/ver/2941/branches/ray/package/gettext/patches
+END
+140-libtool_specify_tag.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2941/branches/ray/package/gettext/patches/140-libtool_specify_tag.patch
+END
+110-no_relink_install.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/package/gettext/patches/110-no_relink_install.patch
+END
+120-uclibc-nolocale.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/package/gettext/patches/120-uclibc-nolocale.patch
+END
+130-wchar_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/2941/branches/ray/package/gettext/patches/130-wchar_fix.patch
+END
+150-disable_libxml_iconv.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/package/gettext/patches/150-disable_libxml_iconv.patch
+END
+001-no_examples_and_tests.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2941/branches/ray/package/gettext/patches/001-no_examples_and_tests.patch
+END
+100-error_progname.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/package/gettext/patches/100-error_progname.patch
+END

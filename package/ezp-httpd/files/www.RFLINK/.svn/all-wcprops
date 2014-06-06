@@ -1,0 +1,809 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/3638/branches/ray/package/ezp-httpd/files/www.RFLINK
+END
+common.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/3541/branches/ray/package/ezp-httpd/files/www.RFLINK/common.js
+END
+wan_dhcp.asp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/wan_dhcp.asp
+END
+ddns_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/ddns_setting.asp
+END
+csshover.htc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/csshover.htc
+END
+lb_basic.asp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/lb_basic.asp
+END
+bw_expert.asp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/bw_expert.asp
+END
+st_info.asp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/st_info.asp
+END
+bw_sm.asp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/bw_sm.asp
+END
+wan_directip.asp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/wan_directip.asp
+END
+wlv_apcli_sec_psk2.asp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/wlv_apcli_sec_psk2.asp
+END
+fr_upnp.asp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/fr_upnp.asp
+END
+drive.asp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/drive.asp
+END
+log.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/log.js
+END
+lan.asp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/lan.asp
+END
+x_011.gif
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/x_011.gif
+END
+wl_wps.asp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/wl_wps.asp
+END
+fw_basic.asp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/fw_basic.asp
+END
+wlv_sec_wep.asp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/wlv_sec_wep.asp
+END
+fr_dmz_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/fr_dmz_setting.asp
+END
+wlv_sec_psk.asp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/wlv_sec_psk.asp
+END
+music.asp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/3513/branches/ray/package/ezp-httpd/files/www.RFLINK/music.asp
+END
+green.gif
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/green.gif
+END
+wan_htc.asp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/wan_htc.asp
+END
+ddns.asp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/ddns.asp
+END
+wan_pppoe.asp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/wan_pppoe.asp
+END
+vs_basic.asp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/vs_basic.asp
+END
+wan_static.asp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/wan_static.asp
+END
+clone_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/clone_setting.asp
+END
+fr_nat_pass.asp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/fr_nat_pass.asp
+END
+togo_wan_proto.asp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/togo_wan_proto.asp
+END
+bw_auto.asp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/bw_auto.asp
+END
+resp_fail.asp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/resp_fail.asp
+END
+bw_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/bw_setting.asp
+END
+wlv_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/wlv_setting.asp
+END
+wan_detect_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/wan_detect_setting.asp
+END
+v_022.gif
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/v_022.gif
+END
+wan_vpnc.asp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/wan_vpnc.asp
+END
+resp_upgrade_fail.asp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/resp_upgrade_fail.asp
+END
+wf_basic.asp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/wf_basic.asp
+END
+st_lan_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/st_lan_setting.asp
+END
+st_user_dhcp.asp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/st_user_dhcp.asp
+END
+wan_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/wan_setting.asp
+END
+vpn_ipsec.asp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/vpn_ipsec.asp
+END
+st_basic.asp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/st_basic.asp
+END
+red.gif
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/red.gif
+END
+vlan.asp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/vlan.asp
+END
+clone.asp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/clone.asp
+END
+fl_basic.asp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/fl_basic.asp
+END
+opendns_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/opendns_setting.asp
+END
+factory.asp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/factory.asp
+END
+login.asp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/3473/branches/ray/package/ezp-httpd/files/www.RFLINK/login.asp
+END
+wl_adv_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/wl_adv_setting.asp
+END
+resp_nochange.asp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/resp_nochange.asp
+END
+wan_detect.asp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/wan_detect.asp
+END
+wan_barry.asp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/wan_barry.asp
+END
+ad_basic.asp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/3473/branches/ray/package/ezp-httpd/files/www.RFLINK/ad_basic.asp
+END
+wlv_apcli_sec_wep.asp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/wlv_apcli_sec_wep.asp
+END
+wan.asp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/3541/branches/ray/package/ezp-httpd/files/www.RFLINK/wan.asp
+END
+st_wl_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/st_wl_setting.asp
+END
+wan_iphone.asp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/wan_iphone.asp
+END
+wlv_apcli_sec_psk.asp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/wlv_apcli_sec_psk.asp
+END
+z83dk4.asp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/z83dk4.asp
+END
+camera.asp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/camera.asp
+END
+common_help.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/common_help.js
+END
+wlv_sec_wpa2.asp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/wlv_sec_wpa2.asp
+END
+wl_wds_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/wl_wds_setting.asp
+END
+turbonat.asp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/turbonat.asp
+END
+opendns.asp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/opendns.asp
+END
+wlv_sec_wpa.asp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/wlv_sec_wpa.asp
+END
+vpn_pptpd.asp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/vpn_pptpd.asp
+END
+st_wlv_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/st_wlv_setting.asp
+END
+wl_adv.asp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/wl_adv.asp
+END
+base64.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/base64.js
+END
+resp_restart.asp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/resp_restart.asp
+END
+license.asp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/license.asp
+END
+st_user_arp.asp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/st_user_arp.asp
+END
+st_wan_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/st_wan_setting.asp
+END
+ftp.asp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/ftp.asp
+END
+wan_wimax.asp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/wan_wimax.asp
+END
+fl_hwaddr.asp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/fl_hwaddr.asp
+END
+map
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ezp/!svn/ver/3513/branches/ray/package/ezp-httpd/files/www.RFLINK/map
+END
+bw_tos.asp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/bw_tos.asp
+END
+wl_wds.asp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/wl_wds.asp
+END
+ntp.asp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/ntp.asp
+END
+resp_upgrade_success.asp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/resp_upgrade_success.asp
+END
+bw_basic.asp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/bw_basic.asp
+END
+iscsi.asp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/iscsi.asp
+END
+x_012.gif
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/x_012.gif
+END
+dhcp_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/dhcp_setting.asp
+END
+st_lan_priv_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/st_lan_priv_setting.asp
+END
+svg-common.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/svg-common.js
+END
+guest_lan_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/guest_lan_setting.asp
+END
+wl_basic_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/3638/branches/ray/package/ezp-httpd/files/www.RFLINK/wl_basic_setting.asp
+END
+table.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/table.js
+END
+wl_apcli_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/wl_apcli_setting.asp
+END
+st_log.asp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/st_log.asp
+END
+wlv_wds_sec_wep.asp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/wlv_wds_sec_wep.asp
+END
+wlv_wds_sec_psk.asp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/wlv_wds_sec_psk.asp
+END
+togo_value.asp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/3532/branches/ray/package/ezp-httpd/files/www.RFLINK/togo_value.asp
+END
+ad_tools.asp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/ad_tools.asp
+END
+ad_storage.asp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/ad_storage.asp
+END
+v_021.gif
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/v_021.gif
+END
+snmp.asp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/snmp.asp
+END
+usbled.asp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/usbled.asp
+END
+dhcp.asp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/dhcp.asp
+END
+wan_wwan.asp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/wan_wwan.asp
+END
+wl_basic.asp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/wl_basic.asp
+END
+opmode.asp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/opmode.asp
+END
+st_wl_priv_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/st_wl_priv_setting.asp
+END
+st_wan_priv_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/st_wan_priv_setting.asp
+END
+wl_apcli.asp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/wl_apcli.asp
+END
+empty.asp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/empty.asp
+END
+wlv_sec_psk2.asp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/wlv_sec_psk2.asp
+END
+st_thp.asp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/st_thp.asp
+END
+verify.asp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/verify.asp
+END
+iepngfix.htc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/iepngfix.htc
+END
+itunes_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/itunes_setting.asp
+END
+bt.asp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/bt.asp
+END
+fr_basic.asp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/fr_basic.asp
+END
+fr_vnc.asp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/fr_vnc.asp
+END
+radial_b.gif
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/radial_b.gif
+END
+smb.asp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/smb.asp
+END
+wlv_apcli_basic.asp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/3507/branches/ray/package/ezp-httpd/files/www.RFLINK/wlv_apcli_basic.asp
+END
+wan_beceem.asp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/wan_beceem.asp
+END
+wlv_wds_basic.asp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/wlv_wds_basic.asp
+END
+lb_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/lb_setting.asp
+END
+power.asp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/power.asp
+END
+resp_success.asp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/resp_success.asp
+END
+lb_routing.asp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/lb_routing.asp
+END
+itunes.asp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/itunes.asp
+END
+resp_reboot_wait.asp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/resp_reboot_wait.asp
+END
+lan_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/lan_setting.asp
+END
+vpn_l2tpd.asp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/vpn_l2tpd.asp
+END
+st_ct.asp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/3462/branches/ray/package/ezp-httpd/files/www.RFLINK/st_ct.asp
+END

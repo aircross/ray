@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ifxmips/files/drivers/watchdog
+END
+ifxmips_wdt.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ifxmips/files/drivers/watchdog/ifxmips_wdt.c
+END

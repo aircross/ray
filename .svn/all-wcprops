@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/ezp/!svn/ver/4555/branches/ray
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/ezp/!svn/ver/2941/branches/ray/README
+END
+feeds.conf.default
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ezp/!svn/ver/2941/branches/ray/feeds.conf.default
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ezp/!svn/ver/2941/branches/ray/Makefile
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ezp/!svn/ver/4411/branches/ray/rules.mk
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/ezp/!svn/ver/2941/branches/ray/LICENSE
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/ezp/!svn/ver/2941/branches/ray/.gitignore
+END
+BSDmakefile
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/ezp/!svn/ver/2941/branches/ray/BSDmakefile
+END
+Config.in
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ezp/!svn/ver/4401/branches/ray/Config.in
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/files/arch/mips/cfe
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/files/arch/mips/cfe/Makefile
+END
+cfe_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/files/arch/mips/cfe/cfe_private.h
+END
+cfe.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm47xx/files/arch/mips/cfe/cfe.c
+END

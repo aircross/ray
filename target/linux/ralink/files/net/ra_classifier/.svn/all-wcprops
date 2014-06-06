@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/3728/branches/ray/target/linux/ralink/files/net/ra_classifier
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/3728/branches/ray/target/linux/ralink/files/net/ra_classifier/Makefile
+END
+cls_io.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/3728/branches/ray/target/linux/ralink/files/net/ra_classifier/cls_io.h
+END
+cls_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/3728/branches/ray/target/linux/ralink/files/net/ra_classifier/cls_util.c
+END
+libcls.obj
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/3728/branches/ray/target/linux/ralink/files/net/ra_classifier/libcls.obj
+END
+cls_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/3728/branches/ray/target/linux/ralink/files/net/ra_classifier/cls_util.h
+END
+cls_module.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/3728/branches/ray/target/linux/ralink/files/net/ra_classifier/cls_module.c
+END

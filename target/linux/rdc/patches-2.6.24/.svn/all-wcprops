@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rdc/patches-2.6.24
+END
+001-rdc3210_flash_map.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rdc/patches-2.6.24/001-rdc3210_flash_map.patch
+END
+004-rdc_fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rdc/patches-2.6.24/004-rdc_fixes.patch
+END
+002-r6040_ethernet.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rdc/patches-2.6.24/002-r6040_ethernet.patch
+END
+600-x86_lzma.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rdc/patches-2.6.24/600-x86_lzma.patch
+END
+001-x86_generic_gpio.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rdc/patches-2.6.24/001-x86_generic_gpio.patch
+END
+005-cmdline_setup.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rdc/patches-2.6.24/005-cmdline_setup.patch
+END
+006-pci_ids.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rdc/patches-2.6.24/006-pci_ids.patch
+END
+003-rootfstype.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rdc/patches-2.6.24/003-rootfstype.patch
+END

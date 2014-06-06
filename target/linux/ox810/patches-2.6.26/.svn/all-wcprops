@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/patches-2.6.26
+END
+104-driver_mtd.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/patches-2.6.26/104-driver_mtd.patch
+END
+105-driver_net.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/patches-2.6.26/105-driver_net.patch
+END
+203-init.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/patches-2.6.26/203-init.patch
+END
+106-driver_usb_host.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/patches-2.6.26/106-driver_usb_host.patch
+END
+103-driver_libata_sff.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/patches-2.6.26/103-driver_libata_sff.patch
+END
+200-fs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/patches-2.6.26/200-fs.patch
+END
+001-arch_arm.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/patches-2.6.26/001-arch_arm.patch
+END
+101-driver_dma.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/patches-2.6.26/101-driver_dma.patch
+END
+206-mm.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/patches-2.6.26/206-mm.patch
+END
+100-driver_ata.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/patches-2.6.26/100-driver_ata.patch
+END
+208-security.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/patches-2.6.26/208-security.patch
+END
+102-driver_libata_core.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/patches-2.6.26/102-driver_libata_core.patch
+END
+205-Makefile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/patches-2.6.26/205-Makefile.patch
+END
+202-crypto.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/patches-2.6.26/202-crypto.patch
+END
+204-kernel.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/patches-2.6.26/204-kernel.patch
+END
+109-drivers.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/patches-2.6.26/109-drivers.patch
+END
+201-block.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/patches-2.6.26/201-block.patch
+END
+209-include.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/patches-2.6.26/209-include.patch
+END
+207-net.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/patches-2.6.26/207-net.patch
+END
+801-driver_ata_oxnas.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/patches-2.6.26/801-driver_ata_oxnas.patch
+END
+802-oxnas.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/patches-2.6.26/802-oxnas.patch
+END

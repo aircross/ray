@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/Makefile
+END
+config-2.6.26
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/config-2.6.26
+END

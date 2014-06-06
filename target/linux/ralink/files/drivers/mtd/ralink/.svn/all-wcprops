@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/3728/branches/ray/target/linux/ralink/files/drivers/mtd/ralink
+END
+ralink_nand.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/mtd/ralink/ralink_nand.c
+END
+ralink_spi.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/mtd/ralink/ralink_spi.h
+END
+ralink_nand.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/mtd/ralink/ralink_nand.h
+END
+gdma.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/mtd/ralink/gdma.c
+END
+ralink_mtd.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/mtd/ralink/ralink_mtd.h
+END
+ralink_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/3728/branches/ray/target/linux/ralink/files/drivers/mtd/ralink/ralink_spi.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/mtd/ralink/Makefile
+END
+gdma.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/mtd/ralink/gdma.h
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/mtd/ralink/Kconfig
+END

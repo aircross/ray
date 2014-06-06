@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/include/api
+END
+sw_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/include/api/sw_api.h
+END
+sw_ioctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/include/api/sw_ioctl.h
+END
+api_desc.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/include/api/api_desc.h
+END
+api_access.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/include/api/api_access.h
+END

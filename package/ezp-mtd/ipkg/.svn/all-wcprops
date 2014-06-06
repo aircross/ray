@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezp-mtd/ipkg
+END
+mtd.control
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezp-mtd/ipkg/mtd.control
+END
+mtd-static.control
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezp-mtd/ipkg/mtd-static.control
+END

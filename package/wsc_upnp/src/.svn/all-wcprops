@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ezp/!svn/ver/2941/branches/ray/package/wsc_upnp/src
+END
+sample_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/2941/branches/ray/package/wsc_upnp/src/sample_util.h
+END
+wsc_netlink.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/2941/branches/ray/package/wsc_upnp/src/wsc_netlink.h
+END
+wsc_upnp_cp.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/2941/branches/ray/package/wsc_upnp/src/wsc_upnp_cp.h
+END
+wsc_ioctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/2941/branches/ray/package/wsc_upnp/src/wsc_ioctl.c
+END
+wsc_ioctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/2941/branches/ray/package/wsc_upnp/src/wsc_ioctl.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/2941/branches/ray/package/wsc_upnp/src/Makefile
+END
+wsc_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/2941/branches/ray/package/wsc_upnp/src/wsc_main.c
+END
+wsc_msg.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/2941/branches/ray/package/wsc_upnp/src/wsc_msg.c
+END
+wsc_upnp.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/2941/branches/ray/package/wsc_upnp/src/wsc_upnp.h
+END
+wsc_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/2941/branches/ray/package/wsc_upnp/src/wsc_common.c
+END
+Version
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ezp/!svn/ver/2941/branches/ray/package/wsc_upnp/src/Version
+END
+wsc_msg.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/2941/branches/ray/package/wsc_upnp/src/wsc_msg.h
+END
+wsc_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/2941/branches/ray/package/wsc_upnp/src/wsc_common.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ezp/!svn/ver/2941/branches/ray/package/wsc_upnp/src/README
+END
+wsc_upnp_device.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ezp/!svn/ver/2941/branches/ray/package/wsc_upnp/src/wsc_upnp_device.c
+END
+sample_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/2941/branches/ray/package/wsc_upnp/src/sample_util.c
+END
+wsc_netlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/2941/branches/ray/package/wsc_upnp/src/wsc_netlink.c
+END
+TODOList
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/2941/branches/ray/package/wsc_upnp/src/TODOList
+END
+wsc_upnp_cp.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/2941/branches/ray/package/wsc_upnp/src/wsc_upnp_cp.c
+END
+wsc_upnp_device.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ezp/!svn/ver/2941/branches/ray/package/wsc_upnp/src/wsc_upnp_device.h
+END

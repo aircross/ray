@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/patches-2.6.26
+END
+310-adm5120_wdt.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/patches-2.6.26/310-adm5120_wdt.patch
+END
+009-adm5120_leds_switch_trigger.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/patches-2.6.26/009-adm5120_leds_switch_trigger.patch
+END
+003-adm5120_switch.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/patches-2.6.26/003-adm5120_switch.patch
+END
+101-cfi_fixup_macronix_bootloc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/patches-2.6.26/101-cfi_fixup_macronix_bootloc.patch
+END
+103-mtd_trxsplit.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/patches-2.6.26/103-mtd_trxsplit.patch
+END
+203-gpio_leds_brightness.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/patches-2.6.26/203-gpio_leds_brightness.patch
+END
+140-cmdline_hack.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/patches-2.6.26/140-cmdline_hack.patch
+END
+202-pci_disable_common_quirks.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/patches-2.6.26/202-pci_disable_common_quirks.patch
+END
+001-adm5120.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/patches-2.6.26/001-adm5120.patch
+END
+007-adm5120_pci.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/patches-2.6.26/007-adm5120_pci.patch
+END
+120-rb153_cf_driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/patches-2.6.26/120-rb153_cf_driver.patch
+END
+201-amba_bus_hacks.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/patches-2.6.26/201-amba_bus_hacks.patch
+END
+100-mtd_myloder_partition_parser.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/patches-2.6.26/100-mtd_myloder_partition_parser.patch
+END
+200-amba_pl010_hacks.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/patches-2.6.26/200-amba_pl010_hacks.patch
+END
+102-jedec_pmc_39lvxxx_chips.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/patches-2.6.26/102-jedec_pmc_39lvxxx_chips.patch
+END
+005-adm5120_usb.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/patches-2.6.26/005-adm5120_usb.patch
+END
+002-adm5120_flash.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/patches-2.6.26/002-adm5120_flash.patch
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/files/drivers/vlynq
+END
+vlynq.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/files/drivers/vlynq/vlynq.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/files/drivers/vlynq/Makefile
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar7/files/drivers/vlynq/Kconfig
+END

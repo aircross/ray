@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/4413/branches/ray/package/nginx/patches-lua-nginx
+END
+300-ldl.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/4413/branches/ray/package/nginx/patches-lua-nginx/300-ldl.patch
+END

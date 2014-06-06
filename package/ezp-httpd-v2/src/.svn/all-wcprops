@@ -1,0 +1,395 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ezp/!svn/ver/4549/branches/ray/package/ezp-httpd-v2/src
+END
+wan_detect.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/wan_detect.c
+END
+vpn_wizard.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/vpn_wizard.c
+END
+ad.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/ad.c
+END
+rt.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/rt.c
+END
+common.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/common.c
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/common.h
+END
+ezp.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/4549/branches/ray/package/ezp-httpd-v2/src/ezp.c
+END
+ej.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/ej.c
+END
+turbonat.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/turbonat.c
+END
+clone.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/clone.c
+END
+cgi.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/cgi.c
+END
+ezp.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/4507/branches/ray/package/ezp-httpd-v2/src/ezp.h
+END
+lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/lib.c
+END
+itunes.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/itunes.c
+END
+wps.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/wps.c
+END
+drive.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/drive.c
+END
+lan.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/4277/branches/ray/package/ezp-httpd-v2/src/lan.c
+END
+snmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/snmp.c
+END
+sm.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/sm.c
+END
+smb.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/smb.c
+END
+log.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/log.c
+END
+widget.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/widget.c
+END
+wan.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/4515/branches/ray/package/ezp-httpd-v2/src/wan.c
+END
+upgrade.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/4529/branches/ray/package/ezp-httpd-v2/src/upgrade.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/3814/branches/ray/package/ezp-httpd-v2/src/Makefile
+END
+power.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/power.c
+END
+lb.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/lb.c
+END
+ipsec.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/ipsec.c
+END
+tos.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/tos.c
+END
+aximddns.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ezp/!svn/ver/3814/branches/ray/package/ezp-httpd-v2/src/aximddns.c
+END
+bw.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/bw.c
+END
+fw.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/fw.c
+END
+lang.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/4226/branches/ray/package/ezp-httpd-v2/src/lang.c
+END
+upnp.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/upnp.c
+END
+lang.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/4222/branches/ray/package/ezp-httpd-v2/src/lang.h
+END
+sched.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/sched.c
+END
+vnc.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/vnc.c
+END
+md5c.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/md5c.c
+END
+ddns.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/ddns.c
+END
+vs.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/vs.c
+END
+camera.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/camera.c
+END
+ftp.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/ftp.c
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/md5.h
+END
+wizard.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/wizard.c
+END
+cron.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/cron.c
+END
+ntp.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/ntp.c
+END
+diag.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/diag.c
+END
+storage.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/storage.c
+END
+nat_pass.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/nat_pass.c
+END
+iscsi.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/iscsi.c
+END
+wf.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/wf.c
+END
+dhcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/dhcp.c
+END
+music.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/music.c
+END
+wl.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/wl.c
+END
+httpd.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/4437/branches/ray/package/ezp-httpd-v2/src/httpd.c
+END
+l2tpd.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/l2tpd.c
+END
+st.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/4277/branches/ray/package/ezp-httpd-v2/src/st.c
+END
+pptpd.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/pptpd.c
+END
+httpd.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/4277/branches/ray/package/ezp-httpd-v2/src/httpd.h
+END
+stats.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/stats.c
+END
+vlan.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/vlan.c
+END
+fl.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/fl.c
+END
+bt.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/bt.c
+END
+opendns.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/opendns.c
+END
+fr.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/3805/branches/ray/package/ezp-httpd-v2/src/fr.c
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/files/drivers/usb/host
+END
+ehci-ar71xx.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/files/drivers/usb/host/ehci-ar71xx.c
+END
+ohci-ar71xx.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/files/drivers/usb/host/ohci-ar71xx.c
+END

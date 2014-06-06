@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/3755/branches/ray/target/linux/ralink/f8d32-2t2r-baudtec-RA300R4H-4l1w
+END
+target.mk
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/f8d32-2t2r-baudtec-RA300R4H-4l1w/target.mk
+END
+config-2.6.26
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ezp/!svn/ver/3755/branches/ray/target/linux/ralink/f8d32-2t2r-baudtec-RA300R4H-4l1w/config-2.6.26
+END

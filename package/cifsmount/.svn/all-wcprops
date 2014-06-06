@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ezp/!svn/ver/2941/branches/ray/package/cifsmount
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ezp/!svn/ver/2941/branches/ray/package/cifsmount/Makefile
+END
+mount.cifs.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/2941/branches/ray/package/cifsmount/mount.cifs.c
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ezp/!svn/ver/4553/branches/ray/package/ezp-usb-testrw/src
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ezp/!svn/ver/4421/branches/ray/package/ezp-usb-testrw/src/Makefile
+END
+usb_read_write_sleep.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/4553/branches/ray/package/ezp-usb-testrw/src/usb_read_write_sleep.c
+END

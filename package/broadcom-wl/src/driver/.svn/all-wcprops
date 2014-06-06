@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/2941/branches/ray/package/broadcom-wl/src/driver
+END
+hnddma.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/2941/branches/ray/package/broadcom-wl/src/driver/hnddma.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/2941/branches/ray/package/broadcom-wl/src/driver/Makefile
+END
+linux_osl.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/2941/branches/ray/package/broadcom-wl/src/driver/linux_osl.c
+END
+bcmip.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ezp/!svn/ver/2941/branches/ray/package/broadcom-wl/src/driver/bcmip.h
+END
+hnddma.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/2941/branches/ray/package/broadcom-wl/src/driver/hnddma.h
+END
+linux_osl.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/2941/branches/ray/package/broadcom-wl/src/driver/linux_osl.h
+END
+bcmutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/2941/branches/ray/package/broadcom-wl/src/driver/bcmutils.c
+END
+sbhnddma.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/2941/branches/ray/package/broadcom-wl/src/driver/sbhnddma.h
+END
+bcmutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/2941/branches/ray/package/broadcom-wl/src/driver/bcmutils.h
+END

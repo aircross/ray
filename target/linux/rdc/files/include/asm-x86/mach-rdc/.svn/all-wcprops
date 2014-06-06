@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rdc/files/include/asm-x86/mach-rdc
+END
+gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rdc/files/include/asm-x86/mach-rdc/gpio.h
+END
+rdc321x_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rdc/files/include/asm-x86/mach-rdc/rdc321x_defs.h
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/binutils/patches/2.17
+END
+501-avr32-fix-pool-alignment.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/binutils/patches/2.17/501-avr32-fix-pool-alignment.patch
+END
+610-cris_target.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/binutils/patches/2.17/610-cris_target.patch
+END
+001-fix_avr32_compile
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/binutils/patches/2.17/001-fix_avr32_compile
+END
+300-001_ld_makefile_patch.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/binutils/patches/2.17/300-001_ld_makefile_patch.patch
+END
+110-arm-eabi-conf.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/binutils/patches/2.17/110-arm-eabi-conf.patch
+END
+500-avr32.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/binutils/patches/2.17/500-avr32.patch
+END
+300-012_check_ldrunpath_length.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/binutils/patches/2.17/300-012_check_ldrunpath_length.patch
+END
+100-uclibc-conf.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/binutils/patches/2.17/100-uclibc-conf.patch
+END
+300-006_better_file_error.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/binutils/patches/2.17/300-006_better_file_error.patch
+END
+601-cris-errormsg.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/binutils/patches/2.17/601-cris-errormsg.patch
+END
+400-mips-ELF_MAXPAGESIZE-4k.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/binutils/patches/2.17/400-mips-ELF_MAXPAGESIZE-4k.patch
+END
+702-binutils-skip-comments.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/binutils/patches/2.17/702-binutils-skip-comments.patch
+END

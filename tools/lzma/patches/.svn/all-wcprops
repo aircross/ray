@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ezp/!svn/ver/2941/branches/ray/tools/lzma/patches
+END
+110-ranlib.patch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ezp/!svn/ver/2941/branches/ray/tools/lzma/patches/110-ranlib.patch
+END
+100-lzma_zlib.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ezp/!svn/ver/2941/branches/ray/tools/lzma/patches/100-lzma_zlib.patch
+END

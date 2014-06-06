@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/config/0.9.28.2
+END
+avr32
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/config/0.9.28.2/avr32
+END
+x86_64
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/config/0.9.28.2/x86_64
+END
+arm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/config/0.9.28.2/arm
+END
+powerpc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/config/0.9.28.2/powerpc
+END
+cris
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/config/0.9.28.2/cris
+END
+armeb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/config/0.9.28.2/armeb
+END
+mips
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/config/0.9.28.2/mips
+END
+i386
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/config/0.9.28.2/i386
+END
+mipsel
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/config/0.9.28.2/mipsel
+END

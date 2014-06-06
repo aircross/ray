@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ezp/!svn/ver/2941/branches/ray/package/wide-dhcpv6/patches
+END
+001-linux_old_compat.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/package/wide-dhcpv6/patches/001-linux_old_compat.patch
+END
+001-noifaddrs-uclibc29.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2941/branches/ray/package/wide-dhcpv6/patches/001-noifaddrs-uclibc29.patch
+END
+002-fix-implicit-function-declarations.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ezp/!svn/ver/2941/branches/ray/package/wide-dhcpv6/patches/002-fix-implicit-function-declarations.patch
+END
+000-cftoken-noyywrap.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/package/wide-dhcpv6/patches/000-cftoken-noyywrap.patch
+END
+003-add-ipaddress-script-var.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezp/!svn/ver/2941/branches/ray/package/wide-dhcpv6/patches/003-add-ipaddress-script-var.patch
+END

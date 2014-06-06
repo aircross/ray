@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/2941/branches/ray/package/goahead/files/web/lang/en
+END
+admin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/2941/branches/ray/package/goahead/files/web/lang/en/admin.xml
+END
+internet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/package/goahead/files/web/lang/en/internet.xml
+END
+wireless.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/package/goahead/files/web/lang/en/wireless.xml
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/2941/branches/ray/package/goahead/files/web/lang/en/main.xml
+END
+firewall.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/package/goahead/files/web/lang/en/firewall.xml
+END

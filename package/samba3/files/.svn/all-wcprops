@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ezp/!svn/ver/4507/branches/ray/package/samba3/files
+END
+samba.config
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/2941/branches/ray/package/samba3/files/samba.config
+END
+config-lfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/2941/branches/ray/package/samba3/files/config-lfs.h
+END
+smb.conf.template
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ezp/!svn/ver/3652/branches/ray/package/samba3/files/smb.conf.template
+END
+samba.init
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/4507/branches/ray/package/samba3/files/samba.init
+END

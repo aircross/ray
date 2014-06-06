@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ezp/!svn/ver/2941/branches/ray/package/dropbear/patches
+END
+150-dbconvert_standalone.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2941/branches/ray/package/dropbear/patches/150-dbconvert_standalone.patch
+END
+110-change_user.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/package/dropbear/patches/110-change_user.patch
+END
+130-ssh_ignore_o_and_x_args.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/2941/branches/ray/package/dropbear/patches/130-ssh_ignore_o_and_x_args.patch
+END
+100-pubkey_path.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/package/dropbear/patches/100-pubkey_path.patch
+END

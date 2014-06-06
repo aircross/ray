@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/files/include/asm-mips/mach-ar71xx
+END
+ar71xx.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/files/include/asm-mips/mach-ar71xx/ar71xx.h
+END
+irq.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/files/include/asm-mips/mach-ar71xx/irq.h
+END
+pci.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/files/include/asm-mips/mach-ar71xx/pci.h
+END
+gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/files/include/asm-mips/mach-ar71xx/gpio.h
+END
+cpu-feature-overrides.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/files/include/asm-mips/mach-ar71xx/cpu-feature-overrides.h
+END
+platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/files/include/asm-mips/mach-ar71xx/platform.h
+END
+mangle-port.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/files/include/asm-mips/mach-ar71xx/mangle-port.h
+END
+war.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/files/include/asm-mips/mach-ar71xx/war.h
+END

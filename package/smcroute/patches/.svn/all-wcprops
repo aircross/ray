@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ezp/!svn/ver/4053/branches/ray/package/smcroute/patches
+END
+001-socket_path.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/4053/branches/ray/package/smcroute/patches/001-socket_path.patch
+END
+002-optimize_size.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/4053/branches/ray/package/smcroute/patches/002-optimize_size.patch
+END

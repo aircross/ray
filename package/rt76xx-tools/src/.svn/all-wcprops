@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ezp/!svn/ver/4415/branches/ray/package/rt76xx-tools/src
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/4415/branches/ray/package/rt76xx-tools/src/Makefile
+END
+ra_ioctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ezp/!svn/ver/4415/branches/ray/package/rt76xx-tools/src/ra_ioctl.h
+END
+switch.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/4415/branches/ray/package/rt76xx-tools/src/switch.c
+END

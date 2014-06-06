@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files/drivers/ssb
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files/drivers/ssb/main.c
+END
+scan.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files/drivers/ssb/scan.c
+END
+ssb_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files/drivers/ssb/ssb_private.h
+END
+driver_chipcommon.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files/drivers/ssb/driver_chipcommon.c
+END
+pcihost_wrapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files/drivers/ssb/pcihost_wrapper.c
+END
+driver_extif.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files/drivers/ssb/driver_extif.c
+END
+pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files/drivers/ssb/pci.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files/drivers/ssb/Makefile
+END
+driver_mipscore.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files/drivers/ssb/driver_mipscore.c
+END
+pcmcia.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files/drivers/ssb/pcmcia.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files/drivers/ssb/Kconfig
+END
+b43_pci_bridge.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files/drivers/ssb/b43_pci_bridge.c
+END
+driver_pcicore.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files/drivers/ssb/driver_pcicore.c
+END

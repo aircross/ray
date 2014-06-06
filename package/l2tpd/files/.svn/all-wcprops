@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ezp/!svn/ver/2941/branches/ray/package/l2tpd/files
+END
+options.l2tpd.client
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/2941/branches/ray/package/l2tpd/files/options.l2tpd.client
+END
+options.l2tpd
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/2941/branches/ray/package/l2tpd/files/options.l2tpd
+END
+ifup.l2tp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/2941/branches/ray/package/l2tpd/files/ifup.l2tp
+END
+l2tpd.conf.client
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ezp/!svn/ver/2941/branches/ray/package/l2tpd/files/l2tpd.conf.client
+END
+l2tpd.init
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/2941/branches/ray/package/l2tpd/files/l2tpd.init
+END
+l2tpd.conf
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/2941/branches/ray/package/l2tpd/files/l2tpd.conf
+END

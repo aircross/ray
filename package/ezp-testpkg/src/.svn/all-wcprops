@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ezp/!svn/ver/4421/branches/ray/package/ezp-testpkg/src
+END
+netservlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ezp/!svn/ver/4421/branches/ray/package/ezp-testpkg/src/netservlib.h
+END
+commain.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/4421/branches/ray/package/ezp-testpkg/src/commain.c
+END
+termlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/4421/branches/ray/package/ezp-testpkg/src/termlib.h
+END
+comlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/4421/branches/ray/package/ezp-testpkg/src/comlib.c
+END
+netclilib.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ezp/!svn/ver/4421/branches/ray/package/ezp-testpkg/src/netclilib.c
+END
+cqueue.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/4421/branches/ray/package/ezp-testpkg/src/cqueue.c
+END
+optlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/4421/branches/ray/package/ezp-testpkg/src/optlib.c
+END
+comlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/4421/branches/ray/package/ezp-testpkg/src/comlib.h
+END
+comnetmain.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ezp/!svn/ver/4421/branches/ray/package/ezp-testpkg/src/comnetmain.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/4421/branches/ray/package/ezp-testpkg/src/Makefile
+END
+netservlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ezp/!svn/ver/4421/branches/ray/package/ezp-testpkg/src/netservlib.c
+END
+optlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/4421/branches/ray/package/ezp-testpkg/src/optlib.h
+END
+termlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/4421/branches/ray/package/ezp-testpkg/src/termlib.c
+END

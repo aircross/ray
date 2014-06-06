@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/include/hsl/athena
+END
+athena_mib.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/include/hsl/athena/athena_mib.h
+END
+athena_port_ctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/include/hsl/athena/athena_port_ctrl.h
+END
+athena_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/include/hsl/athena/athena_api.h
+END
+athena_fdb.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/include/hsl/athena/athena_fdb.h
+END
+athena_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/include/hsl/athena/athena_reg.h
+END
+athena_reg_access.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/include/hsl/athena/athena_reg_access.h
+END
+athena_vlan.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/include/hsl/athena/athena_vlan.h
+END
+athena_init.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/include/hsl/athena/athena_init.h
+END
+athena_portvlan.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/include/hsl/athena/athena_portvlan.h
+END

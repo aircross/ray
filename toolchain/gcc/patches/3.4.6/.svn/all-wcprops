@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/3.4.6
+END
+200-uclibc-locale.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/3.4.6/200-uclibc-locale.patch
+END
+700-pr15068-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/3.4.6/700-pr15068-fix.patch
+END
+601-gcc34-arm-ldm.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/3.4.6/601-gcc34-arm-ldm.patch
+END
+arm-softfloat.patch.conditional
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/3.4.6/arm-softfloat.patch.conditional
+END
+100-uclibc-conf.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/3.4.6/100-uclibc-conf.patch
+END
+602-sdk-libstdc++-includes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/3.4.6/602-sdk-libstdc++-includes.patch
+END
+800-arm-bigendian.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/3.4.6/800-arm-bigendian.patch
+END
+810-arm-bigendian-uclibc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/3.4.6/810-arm-bigendian-uclibc.patch
+END
+300-libstdc++-pic.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/3.4.6/300-libstdc++-pic.patch
+END
+910-mbsd_multi.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/patches/3.4.6/910-mbsd_multi.patch
+END

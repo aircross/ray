@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/configs
+END
+case_config_napt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/configs/case_config_napt
+END
+ap96_defconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/ap96/configs/ap96_defconfig
+END

@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ezp/!svn/ver/3747/branches/ray/package/shairport/src
+END
+Makefile.ao
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/3328/branches/ray/package/shairport/src/Makefile.ao
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/3747/branches/ray/package/shairport/src/Makefile
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/3328/branches/ray/package/shairport/src/common.h
+END
+alac.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ezp/!svn/ver/3282/branches/ray/package/shairport/src/alac.c
+END
+org.mafipulation.shairport.plist
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/3243/branches/ray/package/shairport/src/org.mafipulation.shairport.plist
+END
+audio_alsa.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/3747/branches/ray/package/shairport/src/audio_alsa.c
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/3243/branches/ray/package/shairport/src/LICENSE
+END
+hairtunes.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/3503/branches/ray/package/shairport/src/hairtunes.c
+END
+shairport.pl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/3282/branches/ray/package/shairport/src/shairport.pl
+END
+alac.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ezp/!svn/ver/3243/branches/ray/package/shairport/src/alac.h
+END
+audio.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/3328/branches/ray/package/shairport/src/audio.h
+END
+hairtunes.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/3445/branches/ray/package/shairport/src/hairtunes.h
+END
+shairport.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/3555/branches/ray/package/shairport/src/shairport.c
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/3243/branches/ray/package/shairport/src/README.md
+END
+Makefile.alsa
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ezp/!svn/ver/3328/branches/ray/package/shairport/src/Makefile.alsa
+END
+shairport.init.sample
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/3282/branches/ray/package/shairport/src/shairport.init.sample
+END
+socketlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/3282/branches/ray/package/shairport/src/socketlib.c
+END
+audio_ao.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/3328/branches/ray/package/shairport/src/audio_ao.c
+END
+shairport.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/3445/branches/ray/package/shairport/src/shairport.h
+END
+INSTALL.md
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/3282/branches/ray/package/shairport/src/INSTALL.md
+END
+socketlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/3282/branches/ray/package/shairport/src/socketlib.h
+END

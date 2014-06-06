@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/files/include/asm-mips/fw/myloader
+END
+myloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/files/include/asm-mips/fw/myloader/myloader.h
+END

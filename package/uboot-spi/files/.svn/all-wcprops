@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ezp/!svn/ver/4510/branches/ray/package/uboot-spi/files
+END
+uboot-spi-cd570-2wan-partition.img
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-spi/files/uboot-spi-cd570-2wan-partition.img
+END
+uboot-spi.img
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-spi/files/uboot-spi.img
+END
+uboot-spi-ar8316.img
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-spi/files/uboot-spi-ar8316.img
+END

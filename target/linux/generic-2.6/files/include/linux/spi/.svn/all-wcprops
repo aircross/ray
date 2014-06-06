@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files/include/linux/spi
+END
+spi_gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files/include/linux/spi/spi_gpio.h
+END

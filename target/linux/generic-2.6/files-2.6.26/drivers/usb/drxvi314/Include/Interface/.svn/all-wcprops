@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files-2.6.26/drivers/usb/drxvi314/Include/Interface
+END
+InterfaceIdleMode.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files-2.6.26/drivers/usb/drxvi314/Include/Interface/InterfaceIdleMode.h
+END
+InterfaceInit.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files-2.6.26/drivers/usb/drxvi314/Include/Interface/InterfaceInit.h
+END

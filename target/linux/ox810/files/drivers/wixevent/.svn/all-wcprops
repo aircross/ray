@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/drivers/wixevent
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/drivers/wixevent/Kconfig
+END
+wixevent.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/drivers/wixevent/wixevent.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/drivers/wixevent/Makefile
+END
+wix.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/drivers/wixevent/wix.h
+END
+wixevent.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/drivers/wixevent/wixevent.h
+END

@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ezp/!svn/ver/4540/branches/ray/package/lighttpd/patches
+END
+092-cgi-streaming-url.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/4409/branches/ray/package/lighttpd/patches/092-cgi-streaming-url.patch
+END
+070-copy-cancel.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/3657/branches/ray/package/lighttpd/patches/070-copy-cancel.patch
+END
+103-fastcgi-support-206-partial-content.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ezp/!svn/ver/4515/branches/ray/package/lighttpd/patches/103-fastcgi-support-206-partial-content.patch
+END
+102-cgi-upload-without-move-fix-file-size.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ezp/!svn/ver/4515/branches/ray/package/lighttpd/patches/102-cgi-upload-without-move-fix-file-size.patch
+END
+030-ezp-rename.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/3558/branches/ray/package/lighttpd/patches/030-ezp-rename.patch
+END
+093-tmp-cgi-upload-folder.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/4409/branches/ray/package/lighttpd/patches/093-tmp-cgi-upload-folder.patch
+END
+098-cgi-chunked-upload-offset.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/4409/branches/ray/package/lighttpd/patches/098-cgi-chunked-upload-offset.patch
+END
+097-cgi-upload-without-move.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/4409/branches/ray/package/lighttpd/patches/097-cgi-upload-without-move.patch
+END
+080-fast-listing.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/3695/branches/ray/package/lighttpd/patches/080-fast-listing.patch
+END
+100-cgi-fix-non-standard-http-header-response.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ezp/!svn/ver/4515/branches/ray/package/lighttpd/patches/100-cgi-fix-non-standard-http-header-response.patch
+END
+010-ezp-configure.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/3363/branches/ray/package/lighttpd/patches/010-ezp-configure.patch
+END
+090-fast-list-add-prop-for-android-jackrabbit.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ezp/!svn/ver/4183/branches/ray/package/lighttpd/patches/090-fast-list-add-prop-for-android-jackrabbit.patch
+END
+001-network_backends.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/3340/branches/ray/package/lighttpd/patches/001-network_backends.patch
+END
+096-cgi-streaming-playback-range.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ezp/!svn/ver/4409/branches/ray/package/lighttpd/patches/096-cgi-streaming-playback-range.patch
+END
+060-ezp-file-list.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/3598/branches/ray/package/lighttpd/patches/060-ezp-file-list.patch
+END
+091-tmp-cgi-upload.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/4409/branches/ray/package/lighttpd/patches/091-tmp-cgi-upload.patch
+END
+040-ezp-native-copy.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/3564/branches/ray/package/lighttpd/patches/040-ezp-native-copy.patch
+END
+020-ezp-recursive.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/3491/branches/ray/package/lighttpd/patches/020-ezp-recursive.patch
+END
+089-fast-prop-check-file-existance.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ezp/!svn/ver/4153/branches/ray/package/lighttpd/patches/089-fast-prop-check-file-existance.patch
+END
+080-dont-limit-data-size.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/3825/branches/ray/package/lighttpd/patches/080-dont-limit-data-size.patch
+END
+101-fastcgi-nonhttp-header-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ezp/!svn/ver/4515/branches/ray/package/lighttpd/patches/101-fastcgi-nonhttp-header-support.patch
+END
+099-cgi-android-upload-issue.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/4409/branches/ray/package/lighttpd/patches/099-cgi-android-upload-issue.patch
+END
+094-cgi-internal-connection-error.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/4409/branches/ray/package/lighttpd/patches/094-cgi-internal-connection-error.patch
+END
+086-treat-8-3-dosfs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/4031/branches/ray/package/lighttpd/patches/086-treat-8-3-dosfs.patch
+END
+086-sync_af_file_operation.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/4023/branches/ray/package/lighttpd/patches/086-sync_af_file_operation.patch
+END
+088-sync-after-file-copy.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/4061/branches/ray/package/lighttpd/patches/088-sync-after-file-copy.patch
+END
+085-sync_af_delete.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/4022/branches/ray/package/lighttpd/patches/085-sync_af_delete.patch
+END
+095-cgi-download-streaming-memory.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/4409/branches/ray/package/lighttpd/patches/095-cgi-download-streaming-memory.patch
+END
+091-change-upload-file-permission.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/4367/branches/ray/package/lighttpd/patches/091-change-upload-file-permission.patch
+END
+050-ezp-upload.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/4130/branches/ray/package/lighttpd/patches/050-ezp-upload.patch
+END
+104-chunked-upload-file-size-less-than-64k.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ezp/!svn/ver/4540/branches/ray/package/lighttpd/patches/104-chunked-upload-file-size-less-than-64k.patch
+END
+081-fast-listing-fix_for_exfat.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ezp/!svn/ver/3918/branches/ray/package/lighttpd/patches/081-fast-listing-fix_for_exfat.patch
+END
+090-add-AXA-feature-to-M2E.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/4409/branches/ray/package/lighttpd/patches/090-add-AXA-feature-to-M2E.patch
+END

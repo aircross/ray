@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/magicbox/files/arch/ppc/platforms/4xx
+END
+magicbox.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/magicbox/files/arch/ppc/platforms/4xx/magicbox.c
+END
+magicbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/magicbox/files/arch/ppc/platforms/4xx/magicbox.h
+END

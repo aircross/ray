@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/os/linux
+END
+Makefile.clean
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/os/linux/Makefile.clean
+END
+pci_main_dev.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/os/linux/pci_main_dev.c
+END
+rbus_main_dev.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/os/linux/rbus_main_dev.c
+END
+rt_symb.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/os/linux/rt_symb.c
+END
+sta_ioctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/os/linux/sta_ioctl.c
+END
+Makefile.2880.sta
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/os/linux/Makefile.2880.sta
+END
+br_ftph.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/os/linux/br_ftph.c
+END
+Makefile.libwapi.4
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/os/linux/Makefile.libwapi.4
+END
+Makefile.libwapi.6
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/os/linux/Makefile.libwapi.6
+END
+rt_rbus_pci_drv.c
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/os/linux/rt_rbus_pci_drv.c
+END
+rt_main_dev.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/os/linux/rt_main_dev.c
+END
+ap_ioctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/os/linux/ap_ioctl.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/os/linux/config.mk
+END
+cfg80211.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/os/linux/cfg80211.c
+END
+Makefile.2880.ap
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/os/linux/Makefile.2880.ap
+END
+Makefile.4
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/os/linux/Makefile.4
+END
+rt_linux_symb.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/os/linux/rt_linux_symb.c
+END
+Makefile.6
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/os/linux/Makefile.6
+END
+ap_diversity.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/os/linux/ap_diversity.c
+END
+Makefile.4.netif
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/os/linux/Makefile.4.netif
+END
+Makefile.6.netif
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/os/linux/Makefile.6.netif
+END
+rt_linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/os/linux/rt_linux.c
+END
+rt_profile.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/os/linux/rt_profile.c
+END
+Makefile.libautoprovision.6
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/os/linux/Makefile.libautoprovision.6
+END
+cfg80211drv.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/os/linux/cfg80211drv.c
+END
+rt_proc.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/os/linux/rt_proc.c
+END
+rt_rbus_pci_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/os/linux/rt_rbus_pci_util.c
+END
+Makefile.4.util
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/os/linux/Makefile.4.util
+END
+rt_pci_rbus.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/os/linux/rt_pci_rbus.c
+END
+Makefile.6.util
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_3352/os/linux/Makefile.6.util
+END

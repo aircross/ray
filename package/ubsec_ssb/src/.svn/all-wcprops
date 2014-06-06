@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ezp/!svn/ver/2941/branches/ray/package/ubsec_ssb/src
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ezp/!svn/ver/2941/branches/ray/package/ubsec_ssb/src/md5.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/2941/branches/ray/package/ubsec_ssb/src/Makefile
+END
+sha1.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ezp/!svn/ver/2941/branches/ray/package/ubsec_ssb/src/sha1.c
+END
+ocf-compat.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/2941/branches/ray/package/ubsec_ssb/src/ocf-compat.h
+END
+ubsecvar.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/2941/branches/ray/package/ubsec_ssb/src/ubsecvar.h
+END
+sha1.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ezp/!svn/ver/2941/branches/ray/package/ubsec_ssb/src/sha1.h
+END
+uio.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ezp/!svn/ver/2941/branches/ray/package/ubsec_ssb/src/uio.h
+END
+bsdqueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/2941/branches/ray/package/ubsec_ssb/src/bsdqueue.h
+END
+cryptodev.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/2941/branches/ray/package/ubsec_ssb/src/cryptodev.h
+END
+hmachack.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/2941/branches/ray/package/ubsec_ssb/src/hmachack.h
+END
+ubsecreg.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/2941/branches/ray/package/ubsec_ssb/src/ubsecreg.h
+END
+md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ezp/!svn/ver/2941/branches/ray/package/ubsec_ssb/src/md5.c
+END
+ubsec_ssb.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/2941/branches/ray/package/ubsec_ssb/src/ubsec_ssb.c
+END

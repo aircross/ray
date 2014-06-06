@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ezp/!svn/ver/3651/branches/ray/package/iperf/patches
+END
+001-set-report-next-time-in-single-thread-mode.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ezp/!svn/ver/3651/branches/ray/package/iperf/patches/001-set-report-next-time-in-single-thread-mode.patch
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ezp/!svn/ver/3754/branches/ray/toolchain/uClibc
+END
+Config.version
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/Config.version
+END
+Config.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/Config.in
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/uClibc/Makefile
+END

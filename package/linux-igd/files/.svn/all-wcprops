@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ezp/!svn/ver/2941/branches/ray/package/linux-igd/files
+END
+dummy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/2941/branches/ray/package/linux-igd/files/dummy.xml
+END
+upnpd.conf
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/2941/branches/ray/package/linux-igd/files/upnpd.conf
+END
+upnp_xml.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ezp/!svn/ver/2941/branches/ray/package/linux-igd/files/upnp_xml.sh
+END
+upnpd.rc.conf
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ezp/!svn/ver/2941/branches/ray/package/linux-igd/files/upnpd.rc.conf
+END
+gatedesc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ezp/!svn/ver/2941/branches/ray/package/linux-igd/files/gatedesc.xml
+END
+restart_upnp.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/2941/branches/ray/package/linux-igd/files/restart_upnp.sh
+END
+re_upnp.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/2941/branches/ray/package/linux-igd/files/re_upnp.sh
+END
+gateicfgSCPD.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/2941/branches/ray/package/linux-igd/files/gateicfgSCPD.xml
+END
+ligd.gif
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/2941/branches/ray/package/linux-igd/files/ligd.gif
+END
+gateconnSCPD.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/2941/branches/ray/package/linux-igd/files/gateconnSCPD.xml
+END
+l3fwdSCPD.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ezp/!svn/ver/2941/branches/ray/package/linux-igd/files/l3fwdSCPD.xml
+END
+upnpd.init
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/2941/branches/ray/package/linux-igd/files/upnpd.init
+END
+upnpd.rc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/2941/branches/ray/package/linux-igd/files/upnpd.rc
+END

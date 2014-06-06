@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ezp/!svn/ver/3425/branches/ray/package/watchdog/files
+END
+watchdog.conf
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ezp/!svn/ver/3391/branches/ray/package/watchdog/files/watchdog.conf
+END
+watchdog.upgrade
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/3425/branches/ray/package/watchdog/files/watchdog.upgrade
+END

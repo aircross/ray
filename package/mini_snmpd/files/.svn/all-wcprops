@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ezp/!svn/ver/3106/branches/ray/package/mini_snmpd/files
+END
+mini_snmpd.init
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/3106/branches/ray/package/mini_snmpd/files/mini_snmpd.init
+END
+mini_snmpd.config
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/2941/branches/ray/package/mini_snmpd/files/mini_snmpd.config
+END

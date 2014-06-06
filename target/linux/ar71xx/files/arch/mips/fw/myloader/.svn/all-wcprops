@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/files/arch/mips/fw/myloader
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/files/arch/mips/fw/myloader/Makefile
+END
+myloader.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/files/arch/mips/fw/myloader/myloader.c
+END

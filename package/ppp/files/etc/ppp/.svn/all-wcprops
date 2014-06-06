@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ezp/!svn/ver/4372/branches/ray/package/ppp/files/etc/ppp
+END
+ip-down
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/2941/branches/ray/package/ppp/files/etc/ppp/ip-down
+END
+ip-term
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/4372/branches/ray/package/ppp/files/etc/ppp/ip-term
+END
+ip-demand
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ezp/!svn/ver/2941/branches/ray/package/ppp/files/etc/ppp/ip-demand
+END
+chap-secrets
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ezp/!svn/ver/2941/branches/ray/package/ppp/files/etc/ppp/chap-secrets
+END
+filter
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/2941/branches/ray/package/ppp/files/etc/ppp/filter
+END
+ipv6-up
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/2941/branches/ray/package/ppp/files/etc/ppp/ipv6-up
+END
+ipv6-down
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ezp/!svn/ver/2941/branches/ray/package/ppp/files/etc/ppp/ipv6-down
+END
+ip-up
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/3941/branches/ray/package/ppp/files/etc/ppp/ip-up
+END
+options
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/2941/branches/ray/package/ppp/files/etc/ppp/options
+END
+radius.conf
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ezp/!svn/ver/2941/branches/ray/package/ppp/files/etc/ppp/radius.conf
+END

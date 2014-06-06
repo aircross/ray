@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ezp/!svn/ver/3966/branches/ray/package/mdnsresponder/files
+END
+mDNSResponder.init
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/3340/branches/ray/package/mdnsresponder/files/mDNSResponder.init
+END
+mDNSResponder.conf
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/3340/branches/ray/package/mdnsresponder/files/mDNSResponder.conf
+END
+mdnsd.init
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ezp/!svn/ver/3340/branches/ray/package/mdnsresponder/files/mdnsd.init
+END
+mDNSResponder-ezp.init
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/3966/branches/ray/package/mdnsresponder/files/mDNSResponder-ezp.init
+END

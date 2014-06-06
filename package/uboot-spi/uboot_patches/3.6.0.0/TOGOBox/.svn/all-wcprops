@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/3663/branches/ray/package/uboot-spi/uboot_patches/3.6.0.0/TOGOBox
+END
+0002-add-release-version-definition.patch
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/ezp/!svn/ver/3663/branches/ray/package/uboot-spi/uboot_patches/3.6.0.0/TOGOBox/0002-add-release-version-definition.patch
+END
+0001-fix-static-declaration-for-gcc424.patch
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/ezp/!svn/ver/3663/branches/ray/package/uboot-spi/uboot_patches/3.6.0.0/TOGOBox/0001-fix-static-declaration-for-gcc424.patch
+END
+0003-add-buildroot-cflags.patch
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ezp/!svn/ver/3663/branches/ray/package/uboot-spi/uboot_patches/3.6.0.0/TOGOBox/0003-add-buildroot-cflags.patch
+END

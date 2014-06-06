@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rdc/patches-2.6.25
+END
+003-rootfstype.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rdc/patches-2.6.25/003-rootfstype.patch
+END
+001-rdc3210_flash_map.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rdc/patches-2.6.25/001-rdc3210_flash_map.patch
+END
+600-x86_lzma.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rdc/patches-2.6.25/600-x86_lzma.patch
+END

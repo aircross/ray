@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-ifxmips/files/include/configs
+END
+ifx_cfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-ifxmips/files/include/configs/ifx_cfg.h
+END
+danube.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-ifxmips/files/include/configs/danube.h
+END
+ifx_extra_env.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-ifxmips/files/include/configs/ifx_extra_env.h
+END

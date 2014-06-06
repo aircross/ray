@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ezp/!svn/ver/2941/branches/ray/tools/ipkg-utils/patches
+END
+100-build_clean.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/tools/ipkg-utils/patches/100-build_clean.patch
+END
+111-buildpackage_conffiles.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2941/branches/ray/tools/ipkg-utils/patches/111-buildpackage_conffiles.patch
+END
+130-tar_wildcards.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/tools/ipkg-utils/patches/130-tar_wildcards.patch
+END
+140-portability.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/tools/ipkg-utils/patches/140-portability.patch
+END
+160-find.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/2941/branches/ray/tools/ipkg-utils/patches/160-find.patch
+END
+120-build_tar.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/2941/branches/ray/tools/ipkg-utils/patches/120-build_tar.patch
+END
+110-buildpackage.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/tools/ipkg-utils/patches/110-buildpackage.patch
+END
+150-uppercase_letters.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/tools/ipkg-utils/patches/150-uppercase_letters.patch
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ifxmips/files/arch/mips/ifxmips
+END
+board.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ifxmips/files/arch/mips/ifxmips/board.c
+END
+dma-core.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ifxmips/files/arch/mips/ifxmips/dma-core.c
+END
+clock.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ifxmips/files/arch/mips/ifxmips/clock.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ifxmips/files/arch/mips/ifxmips/Makefile
+END
+interrupt.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ifxmips/files/arch/mips/ifxmips/interrupt.c
+END
+prom.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ifxmips/files/arch/mips/ifxmips/prom.c
+END
+gpio.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ifxmips/files/arch/mips/ifxmips/gpio.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ifxmips/files/arch/mips/ifxmips/Kconfig
+END
+setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ifxmips/files/arch/mips/ifxmips/setup.c
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ifxmips/files/arch/mips/ifxmips/timer.c
+END
+pmu.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ifxmips/files/arch/mips/ifxmips/pmu.c
+END
+reset.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ifxmips/files/arch/mips/ifxmips/reset.c
+END

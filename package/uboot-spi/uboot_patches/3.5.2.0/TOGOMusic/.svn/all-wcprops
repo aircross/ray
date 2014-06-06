@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/3759/branches/ray/package/uboot-spi/uboot_patches/3.5.2.0/TOGOMusic
+END
+0002-add-release-version-definition.patch
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/ezp/!svn/ver/3668/branches/ray/package/uboot-spi/uboot_patches/3.5.2.0/TOGOMusic/0002-add-release-version-definition.patch
+END
+0006-version-setting.patch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ezp/!svn/ver/3685/branches/ray/package/uboot-spi/uboot_patches/3.5.2.0/TOGOMusic/0006-version-setting.patch
+END
+0001-fix-static-declaration-for-gcc424.patch
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/ezp/!svn/ver/3668/branches/ray/package/uboot-spi/uboot_patches/3.5.2.0/TOGOMusic/0001-fix-static-declaration-for-gcc424.patch
+END
+0003-add-buildroot-cflags.patch
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ezp/!svn/ver/3668/branches/ray/package/uboot-spi/uboot_patches/3.5.2.0/TOGOMusic/0003-add-buildroot-cflags.patch
+END
+0005-5350-gpio-default-value.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ezp/!svn/ver/3685/branches/ray/package/uboot-spi/uboot_patches/3.5.2.0/TOGOMusic/0005-5350-gpio-default-value.patch
+END
+0004-ignore-load-fs-and-checksum.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ezp/!svn/ver/3668/branches/ray/package/uboot-spi/uboot_patches/3.5.2.0/TOGOMusic/0004-ignore-load-fs-and-checksum.patch
+END
+0005-remove-spi-write-check.patch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ezp/!svn/ver/3759/branches/ray/package/uboot-spi/uboot_patches/3.5.2.0/TOGOMusic/0005-remove-spi-write-check.patch
+END

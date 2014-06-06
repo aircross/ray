@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/atheros/files/include/asm-mips/mach-atheros
+END
+reset.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/atheros/files/include/asm-mips/mach-atheros/reset.h
+END
+ar531x.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/atheros/files/include/asm-mips/mach-atheros/ar531x.h
+END
+ar531x_platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/atheros/files/include/asm-mips/mach-atheros/ar531x_platform.h
+END
+war.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/atheros/files/include/asm-mips/mach-atheros/war.h
+END
+dma-coherence.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/atheros/files/include/asm-mips/mach-atheros/dma-coherence.h
+END
+gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/atheros/files/include/asm-mips/mach-atheros/gpio.h
+END
+cpu-feature-overrides.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/atheros/files/include/asm-mips/mach-atheros/cpu-feature-overrides.h
+END

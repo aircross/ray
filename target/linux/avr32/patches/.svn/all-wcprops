@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/avr32/patches
+END
+110-openwrt_flashmap.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/avr32/patches/110-openwrt_flashmap.patch
+END
+100-git_sync.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/avr32/patches/100-git_sync.patch
+END

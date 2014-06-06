@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ezp/!svn/ver/3829/branches/ray/target/linux/ralink/files/drivers/net
+END
+big_sur_ge.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/big_sur_ge.c
+END
+titan_mdio.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/titan_mdio.c
+END
+big_sur_ge.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/big_sur_ge.h
+END
+titan_ge.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/titan_ge.c
+END
+gt64240eth.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/gt64240eth.c
+END
+titan_mdio.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/titan_mdio.h
+END
+titan_ge.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/titan_ge.h
+END
+gt64240eth.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/gt64240eth.h
+END

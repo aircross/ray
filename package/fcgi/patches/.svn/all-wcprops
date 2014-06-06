@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ezp/!svn/ver/4492/branches/ray/package/fcgi/patches
+END
+110-no_examples.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/4492/branches/ray/package/fcgi/patches/110-no_examples.patch
+END
+111-configure-support-o-lo.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/4492/branches/ray/package/fcgi/patches/111-configure-support-o-lo.patch
+END

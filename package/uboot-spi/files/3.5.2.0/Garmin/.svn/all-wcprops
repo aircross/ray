@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ezp/!svn/ver/4070/branches/ray/package/uboot-spi/files/3.5.2.0/Garmin
+END
+autoconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/4070/branches/ray/package/uboot-spi/files/3.5.2.0/Garmin/autoconf.h
+END
+config
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/4070/branches/ray/package/uboot-spi/files/3.5.2.0/Garmin/config
+END
+System.map
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/3668/branches/ray/package/uboot-spi/files/3.5.2.0/Garmin/System.map
+END

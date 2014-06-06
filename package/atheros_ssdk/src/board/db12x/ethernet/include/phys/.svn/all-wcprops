@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/db12x/ethernet/include/phys
+END
+athrs16_phy.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/db12x/ethernet/include/phys/athrs16_phy.h
+END
+ar7240_s26_phy.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/db12x/ethernet/include/phys/ar7240_s26_phy.h
+END
+athrs17_phy.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/db12x/ethernet/include/phys/athrs17_phy.h
+END
+athrs27_phy.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/db12x/ethernet/include/phys/athrs27_phy.h
+END
+athrs_swregs.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/db12x/ethernet/include/phys/athrs_swregs.h
+END
+ar8021_phy.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/db12x/ethernet/include/phys/ar8021_phy.h
+END
+athrs_vir_phy.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/db12x/ethernet/include/phys/athrs_vir_phy.h
+END
+athrf1_phy.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/board/db12x/ethernet/include/phys/athrf1_phy.h
+END

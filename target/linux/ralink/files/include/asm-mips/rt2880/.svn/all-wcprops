@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/include/asm-mips/rt2880
+END
+eureka_ep430.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/include/asm-mips/rt2880/eureka_ep430.h
+END
+surfboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/include/asm-mips/rt2880/surfboard.h
+END
+lm.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/include/asm-mips/rt2880/lm.h
+END
+war.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/include/asm-mips/rt2880/war.h
+END
+generic.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/include/asm-mips/rt2880/generic.h
+END
+prom.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/include/asm-mips/rt2880/prom.h
+END
+sizes.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/include/asm-mips/rt2880/sizes.h
+END
+rt_mmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/include/asm-mips/rt2880/rt_mmap.h
+END
+surfboardint.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/include/asm-mips/rt2880/surfboardint.h
+END

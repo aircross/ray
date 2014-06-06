@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/3892/branches/ray/target/linux/ralink/rt5350-f8d32-1t1r-1l1w-m1
+END
+target.mk
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/3298/branches/ray/target/linux/ralink/rt5350-f8d32-1t1r-1l1w-m1/target.mk
+END
+config-2.6.26
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/3892/branches/ray/target/linux/ralink/rt5350-f8d32-1t1r-1l1w-m1/config-2.6.26
+END

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/char/pcm
+END
+gr909.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/char/pcm/gr909.c
+END
+countries.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/char/pcm/countries.c
+END
+registers.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/char/pcm/registers.h
+END
+gr909.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/char/pcm/gr909.h
+END
+g711.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/char/pcm/g711.c
+END
+phoneFSM.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/char/pcm/phoneFSM.c
+END
+dual_io.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/char/pcm/dual_io.h
+END
+slic_data.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/char/pcm/slic_data.c
+END
+g711.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/char/pcm/g711.h
+END
+dualdemo.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/char/pcm/dualdemo.c
+END
+dual.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/char/pcm/dual.h
+END
+slic.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/char/pcm/slic.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/char/pcm/Makefile
+END
+isr.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/char/pcm/isr.c
+END
+dual_i2o.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/char/pcm/dual_i2o.c
+END
+slic.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/char/pcm/slic.h
+END
+isr.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/char/pcm/isr.h
+END
+caller.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/char/pcm/caller.c
+END
+pcm_ctrl.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/char/pcm/pcm_ctrl.c
+END
+sram.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/char/pcm/sram.h
+END
+pcm_ctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/char/pcm/pcm_ctrl.h
+END
+data.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/char/pcm/data.c
+END

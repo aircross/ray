@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ezp/!svn/ver/4428/branches/ray/package/openvpn
+END
+Config-nossl.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/4428/branches/ray/package/openvpn/Config-nossl.in
+END
+Config-polarssl.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/4428/branches/ray/package/openvpn/Config-polarssl.in
+END
+Config-openssl.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/4428/branches/ray/package/openvpn/Config-openssl.in
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ezp/!svn/ver/4428/branches/ray/package/openvpn/Makefile
+END

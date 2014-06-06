@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ezp/!svn/ver/2941/branches/ray/package/libgcrypt/patches
+END
+001-mips-h-constraint.patch
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2941/branches/ray/package/libgcrypt/patches/001-mips-h-constraint.patch
+END
+002-no_docs_tests.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/package/libgcrypt/patches/002-no_docs_tests.patch
+END

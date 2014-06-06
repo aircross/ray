@@ -1,0 +1,815 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/4551/branches/ray/package/ezp-httpd/files/www.ALLIS
+END
+st_basic.asp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/st_basic.asp
+END
+st_wan_priv_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/st_wan_priv_setting.asp
+END
+empty.asp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/empty.asp
+END
+vlan.asp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/vlan.asp
+END
+fl_basic.asp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/fl_basic.asp
+END
+wl_adv_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/wl_adv_setting.asp
+END
+wan_detect.asp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/wan_detect.asp
+END
+smb.asp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/smb.asp
+END
+wlv_apcli_basic.asp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/wlv_apcli_basic.asp
+END
+ad_basic.asp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/ad_basic.asp
+END
+wlv_wds_basic.asp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/4505/branches/ray/package/ezp-httpd/files/www.ALLIS/wlv_wds_basic.asp
+END
+wan_iphone.asp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/wan_iphone.asp
+END
+z83dk4.asp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/z83dk4.asp
+END
+camera.asp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/camera.asp
+END
+common_help.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/common_help.js
+END
+wlv_sec_wpa2.asp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/wlv_sec_wpa2.asp
+END
+wl_wds_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/wl_wds_setting.asp
+END
+power.asp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/power.asp
+END
+turbonat.asp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/turbonat.asp
+END
+lan_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/lan_setting.asp
+END
+vpn_l2tpd.asp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/vpn_l2tpd.asp
+END
+st_wlv_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/st_wlv_setting.asp
+END
+wl_adv.asp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/wl_adv.asp
+END
+st_ct.asp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/st_ct.asp
+END
+resp_restart.asp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/resp_restart.asp
+END
+common.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/common.js
+END
+st_wan_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/st_wan_setting.asp
+END
+bw_tos.asp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/bw_tos.asp
+END
+wl_wds.asp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/4505/branches/ray/package/ezp-httpd/files/www.ALLIS/wl_wds.asp
+END
+bw_expert.asp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/bw_expert.asp
+END
+st_info.asp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/st_info.asp
+END
+bw_sm.asp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/bw_sm.asp
+END
+resp_upgrade_success.asp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/resp_upgrade_success.asp
+END
+fr_upnp.asp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/fr_upnp.asp
+END
+drive.asp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/drive.asp
+END
+bw_basic.asp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/bw_basic.asp
+END
+lan.asp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/lan.asp
+END
+x_011.gif
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/x_011.gif
+END
+dhcp_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/dhcp_setting.asp
+END
+wlv_sec_wep.asp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/wlv_sec_wep.asp
+END
+wlv_sec_psk.asp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/wlv_sec_psk.asp
+END
+wl_basic_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/wl_basic_setting.asp
+END
+table.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/table.js
+END
+music.asp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/music.asp
+END
+green.gif
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/green.gif
+END
+wan_htc.asp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/wan_htc.asp
+END
+wl_apcli_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/wl_apcli_setting.asp
+END
+st_log.asp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/st_log.asp
+END
+wan_pppoe.asp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/wan_pppoe.asp
+END
+clone_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/clone_setting.asp
+END
+fr_nat_pass.asp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/fr_nat_pass.asp
+END
+bw_auto.asp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/bw_auto.asp
+END
+togo_value.asp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/togo_value.asp
+END
+ad_tools.asp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/ad_tools.asp
+END
+resp_fail.asp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/resp_fail.asp
+END
+wlv_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/wlv_setting.asp
+END
+ad_storage.asp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/ad_storage.asp
+END
+v_022.gif
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/v_022.gif
+END
+resp_upgrade_fail.asp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/resp_upgrade_fail.asp
+END
+snmp.asp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/snmp.asp
+END
+usbled.asp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/usbled.asp
+END
+dhcp.asp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/dhcp.asp
+END
+wan_wwan.asp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/wan_wwan.asp
+END
+wan_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/wan_setting.asp
+END
+wl_basic.asp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/wl_basic.asp
+END
+opmode.asp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/opmode.asp
+END
+st_wl_priv_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/st_wl_priv_setting.asp
+END
+vpn_ipsec.asp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/vpn_ipsec.asp
+END
+wl_apcli.asp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/wl_apcli.asp
+END
+red.gif
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/red.gif
+END
+clone.asp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/clone.asp
+END
+st_thp.asp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/st_thp.asp
+END
+wlv_sec_psk2.asp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/wlv_sec_psk2.asp
+END
+opendns_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/opendns_setting.asp
+END
+verify.asp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/verify.asp
+END
+iepngfix.htc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/iepngfix.htc
+END
+itunes_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/itunes_setting.asp
+END
+bt.asp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/bt.asp
+END
+factory.asp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/factory.asp
+END
+fr_basic.asp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/fr_basic.asp
+END
+login.asp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/login.asp
+END
+resp_nochange.asp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/resp_nochange.asp
+END
+fr_vnc.asp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/fr_vnc.asp
+END
+radial_b.gif
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/radial_b.gif
+END
+wan_barry.asp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/wan_barry.asp
+END
+wlv_apcli_sec_wep.asp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/wlv_apcli_sec_wep.asp
+END
+wan_beceem.asp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/wan_beceem.asp
+END
+wan.asp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/wan.asp
+END
+st_wl_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/st_wl_setting.asp
+END
+wlv_apcli_sec_psk.asp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/wlv_apcli_sec_psk.asp
+END
+lb_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/lb_setting.asp
+END
+resp_success.asp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/resp_success.asp
+END
+exp_wan.asp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/exp_wan.asp
+END
+lb_routing.asp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/lb_routing.asp
+END
+opendns.asp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/opendns.asp
+END
+itunes.asp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/itunes.asp
+END
+resp_reboot_wait.asp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/resp_reboot_wait.asp
+END
+wlv_sec_wpa.asp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/wlv_sec_wpa.asp
+END
+vpn_pptpd.asp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/vpn_pptpd.asp
+END
+base64.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/base64.js
+END
+license.asp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/license.asp
+END
+wan_dhcp.asp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/wan_dhcp.asp
+END
+ddns_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/ddns_setting.asp
+END
+st_user_arp.asp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/st_user_arp.asp
+END
+csshover.htc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/csshover.htc
+END
+ftp.asp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/ftp.asp
+END
+wan_wimax.asp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/wan_wimax.asp
+END
+fl_hwaddr.asp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/fl_hwaddr.asp
+END
+map
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/map
+END
+lb_basic.asp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/lb_basic.asp
+END
+ntp.asp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/ntp.asp
+END
+wan_directip.asp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/wan_directip.asp
+END
+wlv_apcli_sec_psk2.asp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/wlv_apcli_sec_psk2.asp
+END
+iscsi.asp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/iscsi.asp
+END
+log.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/log.js
+END
+wl_wps.asp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/wl_wps.asp
+END
+x_012.gif
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/x_012.gif
+END
+st_lan_priv_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/st_lan_priv_setting.asp
+END
+fw_basic.asp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/fw_basic.asp
+END
+svg-common.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/svg-common.js
+END
+fr_dmz_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/fr_dmz_setting.asp
+END
+guest_lan_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/guest_lan_setting.asp
+END
+ddns.asp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/ddns.asp
+END
+vs_basic.asp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/vs_basic.asp
+END
+wlv_wds_sec_wep.asp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/wlv_wds_sec_wep.asp
+END
+wan_static.asp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/wan_static.asp
+END
+wlv_wds_sec_psk.asp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/wlv_wds_sec_psk.asp
+END
+togo_wan_proto.asp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/togo_wan_proto.asp
+END
+bw_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/bw_setting.asp
+END
+v_021.gif
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/v_021.gif
+END
+wan_detect_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/wan_detect_setting.asp
+END
+wan_vpnc.asp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/wan_vpnc.asp
+END
+wf_basic.asp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/wf_basic.asp
+END
+st_lan_setting.asp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/st_lan_setting.asp
+END
+st_user_dhcp.asp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/4452/branches/ray/package/ezp-httpd/files/www.ALLIS/st_user_dhcp.asp
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ezp/!svn/ver/2941/branches/ray/package/l2tpd/patches
+END
+001-debian-2.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/2941/branches/ray/package/l2tpd/patches/001-debian-2.patch
+END
+004-gcc4.patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ezp/!svn/ver/2941/branches/ray/package/l2tpd/patches/004-gcc4.patch
+END
+007-sess.patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ezp/!svn/ver/2941/branches/ray/package/l2tpd/patches/007-sess.patch
+END
+002-debian-2-pty-rev.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/package/l2tpd/patches/002-debian-2-pty-rev.patch
+END
+004-nonblock.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/2941/branches/ray/package/l2tpd/patches/004-nonblock.patch
+END
+003-jacco-pty.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/2941/branches/ray/package/l2tpd/patches/003-jacco-pty.patch
+END
+006-ezp-l2tpd-max-session-and-mod-iface.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ezp/!svn/ver/2941/branches/ray/package/l2tpd/patches/006-ezp-l2tpd-max-session-and-mod-iface.patch
+END
+005-df-disable.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/2941/branches/ray/package/l2tpd/patches/005-df-disable.patch
+END

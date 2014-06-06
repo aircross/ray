@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ezp/!svn/ver/4413/branches/ray/package/nginx/patches
+END
+101-feature_test_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/4413/branches/ray/package/nginx/patches/101-feature_test_fix.patch
+END
+102-sizeof_test_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/4413/branches/ray/package/nginx/patches/102-sizeof_test_fix.patch
+END
+200-config.patch
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ezp/!svn/ver/4413/branches/ray/package/nginx/patches/200-config.patch
+END
+300-crosscompile_ccflags.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/4413/branches/ray/package/nginx/patches/300-crosscompile_ccflags.patch
+END
+103-sys_nerr.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/4413/branches/ray/package/nginx/patches/103-sys_nerr.patch
+END

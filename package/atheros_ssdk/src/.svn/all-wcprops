@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ezp/!svn/ver/3972/branches/ray/package/atheros_ssdk/src
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/ChangeLog
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/Makefile
+END
+config
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/3972/branches/ray/package/atheros_ssdk/src/config
+END

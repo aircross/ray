@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ezp/!svn/ver/2941/branches/ray/package/linux-igd/patches
+END
+003-xbox-upnp-port.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/package/linux-igd/patches/003-xbox-upnp-port.patch
+END
+002-get-packet-dev-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/package/linux-igd/patches/002-get-packet-dev-fix.patch
+END
+001-AboQoS-config.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/package/linux-igd/patches/001-AboQoS-config.patch
+END
+004-ezp-portconfig.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/package/linux-igd/patches/004-ezp-portconfig.patch
+END

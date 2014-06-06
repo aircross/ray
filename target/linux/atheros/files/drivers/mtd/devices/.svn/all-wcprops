@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/atheros/files/drivers/mtd/devices
+END
+spiflash.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/atheros/files/drivers/mtd/devices/spiflash.c
+END
+spiflash.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/atheros/files/drivers/mtd/devices/spiflash.h
+END

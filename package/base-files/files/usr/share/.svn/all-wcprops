@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/4286/branches/ray/package/base-files/files/usr/share
+END
+cron_upgrade
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/3575/branches/ray/package/base-files/files/usr/share/cron_upgrade
+END
+service_list.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/4286/branches/ray/package/base-files/files/usr/share/service_list.txt
+END

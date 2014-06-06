@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ezp/!svn/ver/3391/branches/ray/package/watchdog/src
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/3391/branches/ray/package/watchdog/src/Makefile
+END
+create_tarball.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ezp/!svn/ver/3391/branches/ray/package/watchdog/src/create_tarball.sh
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/3391/branches/ray/package/watchdog/src/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/3391/branches/ray/package/watchdog/src/install-sh
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/3391/branches/ray/package/watchdog/src/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/3391/branches/ray/package/watchdog/src/Makefile.in
+END
+watchdog.conf
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/3391/branches/ray/package/watchdog/src/watchdog.conf
+END
+config.log
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/3391/branches/ray/package/watchdog/src/config.log
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ezp/!svn/ver/3391/branches/ray/package/watchdog/src/AUTHORS
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/3391/branches/ray/package/watchdog/src/configure.in
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/3391/branches/ray/package/watchdog/src/ChangeLog
+END
+config.status
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/3391/branches/ray/package/watchdog/src/config.status
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ezp/!svn/ver/3391/branches/ray/package/watchdog/src/depcomp
+END
+watchdog.conf.5
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ezp/!svn/ver/3391/branches/ray/package/watchdog/src/watchdog.conf.5
+END
+IAFA-PACKAGE
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/3391/branches/ray/package/watchdog/src/IAFA-PACKAGE
+END
+README.watchdog.ipmi
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/3391/branches/ray/package/watchdog/src/README.watchdog.ipmi
+END
+wdg.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ezp/!svn/ver/3391/branches/ray/package/watchdog/src/wdg.sh
+END
+watchdog.lsm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/3391/branches/ray/package/watchdog/src/watchdog.lsm
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ezp/!svn/ver/3391/branches/ray/package/watchdog/src/README
+END
+tags
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ezp/!svn/ver/3391/branches/ray/package/watchdog/src/tags
+END
+watchdog.sysconfig
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/3391/branches/ray/package/watchdog/src/watchdog.sysconfig
+END
+wd_keepalive.8
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ezp/!svn/ver/3391/branches/ray/package/watchdog/src/wd_keepalive.8
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ezp/!svn/ver/3391/branches/ray/package/watchdog/src/TODO
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ezp/!svn/ver/3391/branches/ray/package/watchdog/src/INSTALL
+END
+watchdog.8
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/3391/branches/ray/package/watchdog/src/watchdog.8
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ezp/!svn/ver/3391/branches/ray/package/watchdog/src/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/3391/branches/ray/package/watchdog/src/Makefile.am
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ezp/!svn/ver/3391/branches/ray/package/watchdog/src/missing
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ezp/!svn/ver/3391/branches/ray/package/watchdog/src/NEWS
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm-2.4/patches
+END
+009-wrt54g3g_pcmcia.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm-2.4/patches/009-wrt54g3g_pcmcia.patch
+END
+015-sierra_kconfig.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm-2.4/patches/015-sierra_kconfig.patch
+END
+001-bcm47xx.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm-2.4/patches/001-bcm47xx.patch
+END
+013-wl_hdd_pdc202xx.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm-2.4/patches/013-wl_hdd_pdc202xx.patch
+END
+003-bcm47xx_cache_fixes.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm-2.4/patches/003-bcm47xx_cache_fixes.patch
+END
+011-wl_qdisc_war.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm-2.4/patches/011-wl_qdisc_war.patch
+END
+004-flash.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm-2.4/patches/004-flash.patch
+END
+005-bluetooth_sco_buffer_align.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm-2.4/patches/005-bluetooth_sco_buffer_align.patch
+END
+006-ide_workaround.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm-2.4/patches/006-ide_workaround.patch
+END
+012-aec62xx.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm-2.4/patches/012-aec62xx.patch
+END
+014-sierra_support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm-2.4/patches/014-sierra_support.patch
+END
+010-bcm47xx-cam_absent.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm-2.4/patches/010-bcm47xx-cam_absent.patch
+END
+008-b44_bcm47xx_support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm-2.4/patches/008-b44_bcm47xx_support.patch
+END

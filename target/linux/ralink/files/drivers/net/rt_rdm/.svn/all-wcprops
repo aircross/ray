@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/3377/branches/ray/target/linux/ralink/files/drivers/net/rt_rdm
+END
+rdm.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/3377/branches/ray/target/linux/ralink/files/drivers/net/rt_rdm/rdm.c
+END
+rdm.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/3377/branches/ray/target/linux/ralink/files/drivers/net/rt_rdm/rdm.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/rt_rdm/Makefile
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/rt_rdm/Kconfig
+END

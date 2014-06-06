@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ezp/!svn/ver/4430/branches/ray/package/libdaq/patches
+END
+001-cross-compile-test.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/4430/branches/ray/package/libdaq/patches/001-cross-compile-test.patch
+END

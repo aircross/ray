@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ezp/!svn/ver/2941/branches/ray/package/broadcom-wl/src/include/proto
+END
+wpa.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/2941/branches/ray/package/broadcom-wl/src/include/proto/wpa.h
+END
+802.11.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/package/broadcom-wl/src/include/proto/802.11.h
+END
+ethernet.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/package/broadcom-wl/src/include/proto/ethernet.h
+END
+bcmeth.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/package/broadcom-wl/src/include/proto/bcmeth.h
+END
+bcmevent.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/package/broadcom-wl/src/include/proto/bcmevent.h
+END

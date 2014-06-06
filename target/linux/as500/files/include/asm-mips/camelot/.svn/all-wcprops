@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/as500/files/include/asm-mips/camelot
+END
+war.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/as500/files/include/asm-mips/camelot/war.h
+END
+cml_eth.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/as500/files/include/asm-mips/camelot/cml_eth.h
+END
+irq.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/as500/files/include/asm-mips/camelot/irq.h
+END
+generic.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/as500/files/include/asm-mips/camelot/generic.h
+END
+prom.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/as500/files/include/asm-mips/camelot/prom.h
+END
+gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/as500/files/include/asm-mips/camelot/gpio.h
+END
+cpu-feature-overrides.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/as500/files/include/asm-mips/camelot/cpu-feature-overrides.h
+END
+camelot.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/as500/files/include/asm-mips/camelot/camelot.h
+END
+cml_hnat.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/as500/files/include/asm-mips/camelot/cml_hnat.h
+END

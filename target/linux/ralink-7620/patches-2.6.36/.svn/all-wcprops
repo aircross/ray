@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/4553/branches/ray/target/linux/ralink-7620/patches-2.6.36
+END
+0024-ralink-option.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/4449/branches/ray/target/linux/ralink-7620/patches-2.6.36/0024-ralink-option.patch
+END
+0011-gpio-sdcard.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezp/!svn/ver/4382/branches/ray/target/linux/ralink-7620/patches-2.6.36/0011-gpio-sdcard.patch
+END
+0023-add-rw-paration.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ezp/!svn/ver/4442/branches/ray/target/linux/ralink-7620/patches-2.6.36/0023-add-rw-paration.patch
+END
+0007-uboot.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/4382/branches/ray/target/linux/ralink-7620/patches-2.6.36/0007-uboot.patch
+END
+0019-usbhub_error_retry.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ezp/!svn/ver/4382/branches/ray/target/linux/ralink-7620/patches-2.6.36/0019-usbhub_error_retry.patch
+END
+0023-add-als-board-config.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ezp/!svn/ver/4446/branches/ray/target/linux/ralink-7620/patches-2.6.36/0023-add-als-board-config.patch
+END
+0013-mini-fo-statfs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ezp/!svn/ver/4382/branches/ray/target/linux/ralink-7620/patches-2.6.36/0013-mini-fo-statfs.patch
+END
+0006-ezp_machine_id.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ezp/!svn/ver/4382/branches/ray/target/linux/ralink-7620/patches-2.6.36/0006-ezp_machine_id.patch
+END
+0003-ezp_nvram.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/4382/branches/ray/target/linux/ralink-7620/patches-2.6.36/0003-ezp_nvram.patch
+END
+0024-netfilter_imq.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/4456/branches/ray/target/linux/ralink-7620/patches-2.6.36/0024-netfilter_imq.patch
+END
+0004-mtd_map_root_mount.patch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ezp/!svn/ver/4382/branches/ray/target/linux/ralink-7620/patches-2.6.36/0004-mtd_map_root_mount.patch
+END
+0018-usb-autosuspend.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ezp/!svn/ver/4382/branches/ray/target/linux/ralink-7620/patches-2.6.36/0018-usb-autosuspend.patch
+END
+0008-wireless-BIN.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ezp/!svn/ver/4382/branches/ray/target/linux/ralink-7620/patches-2.6.36/0008-wireless-BIN.patch
+END
+0010-ralink-gpio.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezp/!svn/ver/4382/branches/ray/target/linux/ralink-7620/patches-2.6.36/0010-ralink-gpio.patch
+END
+0005-ioctl.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/4382/branches/ray/target/linux/ralink-7620/patches-2.6.36/0005-ioctl.patch
+END
+0027-add-showoled-gpio.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ezp/!svn/ver/4553/branches/ray/target/linux/ralink-7620/patches-2.6.36/0027-add-showoled-gpio.patch
+END
+0021-ezp-site_survey.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ezp/!svn/ver/4411/branches/ray/target/linux/ralink-7620/patches-2.6.36/0021-ezp-site_survey.patch
+END
+0002-mini_fo.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/4382/branches/ray/target/linux/ralink-7620/patches-2.6.36/0002-mini_fo.patch
+END
+0022-reset-sd_card.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/4440/branches/ray/target/linux/ralink-7620/patches-2.6.36/0022-reset-sd_card.patch
+END
+0017-ralink-gpio.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezp/!svn/ver/4382/branches/ray/target/linux/ralink-7620/patches-2.6.36/0017-ralink-gpio.patch
+END
+0020-rdm.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/4400/branches/ray/target/linux/ralink-7620/patches-2.6.36/0020-rdm.patch
+END
+0015-add-board-config.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ezp/!svn/ver/4382/branches/ray/target/linux/ralink-7620/patches-2.6.36/0015-add-board-config.patch
+END
+0029-mac-sense.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/4501/branches/ray/target/linux/ralink-7620/patches-2.6.36/0029-mac-sense.patch
+END
+0012-gpio-wps-reset.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ezp/!svn/ver/4382/branches/ray/target/linux/ralink-7620/patches-2.6.36/0012-gpio-wps-reset.patch
+END
+0014-ralink-i2c-driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ezp/!svn/ver/4382/branches/ray/target/linux/ralink-7620/patches-2.6.36/0014-ralink-i2c-driver.patch
+END
+0009-16M_FLASH.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/4382/branches/ray/target/linux/ralink-7620/patches-2.6.36/0009-16M_FLASH.patch
+END
+0026-fixed-mcu-busy-return-a5.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ezp/!svn/ver/4457/branches/ray/target/linux/ralink-7620/patches-2.6.36/0026-fixed-mcu-busy-return-a5.patch
+END
+0016-fixed-gpio-32-to-72.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ezp/!svn/ver/4382/branches/ray/target/linux/ralink-7620/patches-2.6.36/0016-fixed-gpio-32-to-72.patch
+END
+0025-fixed-gpio-32-to-72.patch
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ezp/!svn/ver/4449/branches/ray/target/linux/ralink-7620/patches-2.6.36/0025-fixed-gpio-32-to-72.patch
+END
+0001-convert-ralink-openwrt.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ezp/!svn/ver/4382/branches/ray/target/linux/ralink-7620/patches-2.6.36/0001-convert-ralink-openwrt.patch
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ezp/!svn/ver/4555/branches/ray/package/base-files/files/etc/init.d
+END
+usb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/2941/branches/ray/package/base-files/files/etc/init.d/usb
+END
+switchfs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/2941/branches/ray/package/base-files/files/etc/init.d/switchfs
+END
+kmod
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/2941/branches/ray/package/base-files/files/etc/init.d/kmod
+END
+wang
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/2941/branches/ray/package/base-files/files/etc/init.d/wang
+END
+turbonat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/2941/branches/ray/package/base-files/files/etc/init.d/turbonat
+END
+network-lan
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/3728/branches/ray/package/base-files/files/etc/init.d/network-lan
+END
+boot
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/4468/branches/ray/package/base-files/files/etc/init.d/boot
+END
+lkey
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/4455/branches/ray/package/base-files/files/etc/init.d/lkey
+END
+opendns
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/2941/branches/ray/package/base-files/files/etc/init.d/opendns
+END
+turbolink
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/3144/branches/ray/package/base-files/files/etc/init.d/turbolink
+END
+network-wan
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/4397/branches/ray/package/base-files/files/etc/init.d/network-wan
+END
+hotplug
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/3009/branches/ray/package/base-files/files/etc/init.d/hotplug
+END
+session
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/2941/branches/ray/package/base-files/files/etc/init.d/session
+END
+smbc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/2941/branches/ray/package/base-files/files/etc/init.d/smbc
+END
+done
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/4555/branches/ray/package/base-files/files/etc/init.d/done
+END
+network-acl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2968/branches/ray/package/base-files/files/etc/init.d/network-acl
+END
+umount
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/2941/branches/ray/package/base-files/files/etc/init.d/umount
+END
+rcS
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/4397/branches/ray/package/base-files/files/etc/init.d/rcS
+END

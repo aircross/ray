@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/3391/branches/ray/package/watchdog/src/examples
+END
+another-chance.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/3391/branches/ray/package/watchdog/src/examples/another-chance.sh
+END
+repair.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/3391/branches/ray/package/watchdog/src/examples/repair.sh
+END
+systemcheck.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/3391/branches/ray/package/watchdog/src/examples/systemcheck.sh
+END
+dbcheck.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/3391/branches/ray/package/watchdog/src/examples/dbcheck.sh
+END
+uptime.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/3391/branches/ray/package/watchdog/src/examples/uptime.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ezp/!svn/ver/3391/branches/ray/package/watchdog/src/examples/README
+END

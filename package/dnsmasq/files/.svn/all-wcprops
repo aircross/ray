@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ezp/!svn/ver/4444/branches/ray/package/dnsmasq/files
+END
+dhcp.conf
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/2941/branches/ray/package/dnsmasq/files/dhcp.conf
+END
+dnsmasq.init.garmin
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/4098/branches/ray/package/dnsmasq/files/dnsmasq.init.garmin
+END
+dhcp_users.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ezp/!svn/ver/4444/branches/ray/package/dnsmasq/files/dhcp_users.sh
+END
+dnsmasq.init
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/4444/branches/ray/package/dnsmasq/files/dnsmasq.init
+END

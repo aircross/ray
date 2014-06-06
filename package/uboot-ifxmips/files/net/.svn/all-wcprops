@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-ifxmips/files/net
+END
+net_danube.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-ifxmips/files/net/net_danube.c
+END
+nfs_danube.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-ifxmips/files/net/nfs_danube.c
+END
+ifx_eth.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-ifxmips/files/net/ifx_eth.c
+END
+tftp_danube.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-ifxmips/files/net/tftp_danube.c
+END

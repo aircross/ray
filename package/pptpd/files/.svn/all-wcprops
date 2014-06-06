@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ezp/!svn/ver/3338/branches/ray/package/pptpd/files
+END
+options.pptpd
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/2941/branches/ray/package/pptpd/files/options.pptpd
+END
+pptpd.init
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/3338/branches/ray/package/pptpd/files/pptpd.init
+END
+pptpd.conf
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/2941/branches/ray/package/pptpd/files/pptpd.conf
+END

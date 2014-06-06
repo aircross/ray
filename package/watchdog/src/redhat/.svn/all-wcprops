@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ezp/!svn/ver/3391/branches/ray/package/watchdog/src/redhat
+END
+watchdog.init
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/3391/branches/ray/package/watchdog/src/redhat/watchdog.init
+END
+watchdog.spec
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/3391/branches/ray/package/watchdog/src/redhat/watchdog.spec
+END
+sysconf.redhat
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/3391/branches/ray/package/watchdog/src/redhat/sysconf.redhat
+END
+README.Fedora
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/3391/branches/ray/package/watchdog/src/redhat/README.Fedora
+END

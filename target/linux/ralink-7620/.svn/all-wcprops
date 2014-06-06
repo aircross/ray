@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ezp/!svn/ver/4553/branches/ray/target/linux/ralink-7620
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/4474/branches/ray/target/linux/ralink-7620/Makefile
+END
+modules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ezp/!svn/ver/4382/branches/ray/target/linux/ralink-7620/modules.mk
+END
+config-2.6.36
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ezp/!svn/ver/4543/branches/ray/target/linux/ralink-7620/config-2.6.36
+END

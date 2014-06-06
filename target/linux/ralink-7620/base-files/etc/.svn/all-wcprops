@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/4382/branches/ray/target/linux/ralink-7620/base-files/etc
+END
+arch.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/4382/branches/ray/target/linux/ralink-7620/base-files/etc/arch.sh
+END
+inittab
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/4382/branches/ray/target/linux/ralink-7620/base-files/etc/inittab
+END

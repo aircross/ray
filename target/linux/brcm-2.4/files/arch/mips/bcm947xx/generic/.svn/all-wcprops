@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm-2.4/files/arch/mips/bcm947xx/generic
+END
+irq.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm-2.4/files/arch/mips/bcm947xx/generic/irq.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm-2.4/files/arch/mips/bcm947xx/generic/Makefile
+END
+int-handler.S
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/brcm-2.4/files/arch/mips/bcm947xx/generic/int-handler.S
+END

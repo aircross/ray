@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rb532/files-2.6.23/arch/mips/pci
+END
+fixup-rb500.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rb532/files-2.6.23/arch/mips/pci/fixup-rb500.c
+END
+ops-rc32434.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rb532/files-2.6.23/arch/mips/pci/ops-rc32434.c
+END
+pci-rc32434.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rb532/files-2.6.23/arch/mips/pci/pci-rc32434.c
+END

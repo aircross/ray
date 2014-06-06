@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/include/hsl
+END
+hsl_port_prop.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/include/hsl/hsl_port_prop.h
+END
+hsl_lock.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/include/hsl/hsl_lock.h
+END
+hsl_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/include/hsl/hsl_api.h
+END
+hsl_dev.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/include/hsl/hsl_dev.h
+END
+hsl_acl.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/include/hsl/hsl_acl.h
+END
+hsl.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/3971/branches/ray/package/atheros_ssdk/src/include/hsl/hsl.h
+END

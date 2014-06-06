@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/4286/branches/ray/package/tuxera-file-systems/files
+END
+thfsplus.ko
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/4286/branches/ray/package/tuxera-file-systems/files/thfsplus.ko
+END
+texfat.ko
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/4040/branches/ray/package/tuxera-file-systems/files/texfat.ko
+END
+tntfs.ko
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/4040/branches/ray/package/tuxera-file-systems/files/tntfs.ko
+END

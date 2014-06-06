@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ppc40x/patches
+END
+001-kilauea_openwrt_flashmap.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ppc40x/patches/001-kilauea_openwrt_flashmap.patch
+END
+002-disable_emac_loopback_mode.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ppc40x/patches/002-disable_emac_loopback_mode.patch
+END

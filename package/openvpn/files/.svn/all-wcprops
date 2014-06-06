@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ezp/!svn/ver/4428/branches/ray/package/openvpn/files
+END
+openvpn.init
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/4428/branches/ray/package/openvpn/files/openvpn.init
+END
+openvpn.config
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ezp/!svn/ver/4428/branches/ray/package/openvpn/files/openvpn.config
+END
+openvpn.upgrade
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ezp/!svn/ver/4428/branches/ray/package/openvpn/files/openvpn.upgrade
+END

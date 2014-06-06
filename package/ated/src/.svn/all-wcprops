@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ezp/!svn/ver/3502/branches/ray/package/ated/src
+END
+ated.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ezp/!svn/ver/2941/branches/ray/package/ated/src/ated.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ezp/!svn/ver/2941/branches/ray/package/ated/src/Makefile
+END
+ated.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ezp/!svn/ver/3502/branches/ray/package/ated/src/ated.c
+END

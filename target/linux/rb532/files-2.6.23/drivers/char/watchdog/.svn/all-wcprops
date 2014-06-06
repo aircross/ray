@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rb532/files-2.6.23/drivers/char/watchdog
+END
+rc32434_wdt.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/rb532/files-2.6.23/drivers/char/watchdog/rc32434_wdt.c
+END

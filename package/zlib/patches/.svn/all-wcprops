@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ezp/!svn/ver/4408/branches/ray/package/zlib/patches
+END
+101-makefile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/4408/branches/ray/package/zlib/patches/101-makefile.patch
+END
+100-cross_compile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/2941/branches/ray/package/zlib/patches/100-cross_compile.patch
+END

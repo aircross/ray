@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/as500/patches-2.6.26
+END
+100-as500_driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/as500/patches-2.6.26/100-as500_driver.patch
+END
+100-as500_include_asm_mips.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/as500/patches-2.6.26/100-as500_include_asm_mips.patch
+END
+001-as500_arch_mips.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/as500/patches-2.6.26/001-as500_arch_mips.patch
+END
+200-as500_include_net_netfilter.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/as500/patches-2.6.26/200-as500_include_net_netfilter.patch
+END
+105-as500_net_netfilter.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/as500/patches-2.6.26/105-as500_net_netfilter.patch
+END

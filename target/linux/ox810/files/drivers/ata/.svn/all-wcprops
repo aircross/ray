@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/drivers/ata
+END
+ox800sata.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/drivers/ata/ox800sata.c
+END
+ox810sata.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/drivers/ata/ox810sata.c
+END

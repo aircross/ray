@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/2941/branches/ray/package/wpa_supplicant/patches
+END
+120-ssid_scan.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/package/wpa_supplicant/patches/120-ssid_scan.patch
+END
+140-quality.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/package/wpa_supplicant/patches/140-quality.patch
+END
+110-roaming.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/package/wpa_supplicant/patches/110-roaming.patch
+END
+100-timestamp_check.patch
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2941/branches/ray/package/wpa_supplicant/patches/100-timestamp_check.patch
+END
+130-scanning.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/package/wpa_supplicant/patches/130-scanning.patch
+END

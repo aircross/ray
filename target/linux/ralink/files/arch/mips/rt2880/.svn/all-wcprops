@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/3682/branches/ray/target/linux/ralink/files/arch/mips/rt2880
+END
+printf.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/arch/mips/rt2880/printf.c
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/arch/mips/rt2880/init.c
+END
+rt_timer.mod.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/arch/mips/rt2880/rt_timer.mod.c
+END
+mipsIRQ.S
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/arch/mips/rt2880/mipsIRQ.S
+END
+power-button.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/arch/mips/rt2880/power-button.c
+END
+display.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/arch/mips/rt2880/display.c
+END
+memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/arch/mips/rt2880/memory.c
+END
+lm.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/arch/mips/rt2880/lm.c
+END
+ehci_ohci.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/arch/mips/rt2880/ehci_ohci.c
+END
+pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/arch/mips/rt2880/pci.c
+END
+cmdline.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/arch/mips/rt2880/cmdline.c
+END
+serial_rt2880.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/arch/mips/rt2880/serial_rt2880.h
+END
+udc.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/arch/mips/rt2880/udc.c
+END
+gdb_hook.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/arch/mips/rt2880/gdb_hook.c
+END
+mem_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/arch/mips/rt2880/mem_map.h
+END
+reset.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/arch/mips/rt2880/reset.c
+END
+nvram.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/arch/mips/rt2880/nvram.c
+END
+rt_timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/arch/mips/rt2880/rt_timer.c
+END
+timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/arch/mips/rt2880/timer.h
+END
+nvram.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/arch/mips/rt2880/nvram.h
+END
+rt_timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/arch/mips/rt2880/rt_timer.h
+END
+irq.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/arch/mips/rt2880/irq.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/arch/mips/rt2880/Makefile
+END
+ralink_wdt.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/arch/mips/rt2880/ralink_wdt.c
+END
+time.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/arch/mips/rt2880/time.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/3682/branches/ray/target/linux/ralink/files/arch/mips/rt2880/Kconfig
+END
+setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/arch/mips/rt2880/setup.c
+END

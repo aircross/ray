@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ezp/!svn/ver/4408/branches/ray/package/bcclient/src
+END
+makelog
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ezp/!svn/ver/3542/branches/ray/package/bcclient/src/makelog
+END
+router.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/4408/branches/ray/package/bcclient/src/router.c
+END
+dbg.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ezp/!svn/ver/3542/branches/ray/package/bcclient/src/dbg.h
+END
+bcclient.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ezp/!svn/ver/4128/branches/ray/package/bcclient/src/bcclient.c
+END
+aximcom_rt5350.mk
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ezp/!svn/ver/3542/branches/ray/package/bcclient/src/aximcom_rt5350.mk
+END
+encrypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/4062/branches/ray/package/bcclient/src/encrypt.c
+END
+protocols.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/3542/branches/ray/package/bcclient/src/protocols.c
+END
+router.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/4408/branches/ray/package/bcclient/src/router.h
+END
+encrypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ezp/!svn/ver/4062/branches/ray/package/bcclient/src/encrypt.h
+END
+protocols.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/4155/branches/ray/package/bcclient/src/protocols.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/4057/branches/ray/package/bcclient/src/Makefile
+END
+dbg.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ezp/!svn/ver/3542/branches/ray/package/bcclient/src/dbg.c
+END
+finder.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/3542/branches/ray/package/bcclient/src/finder.h
+END

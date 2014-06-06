@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ezp/!svn/ver/2941/branches/ray/package/ar7-atm/patches
+END
+130-powercutback.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/package/ar7-atm/patches/130-powercutback.patch
+END
+160-module-params.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/package/ar7-atm/patches/160-module-params.patch
+END
+100-compile_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/2941/branches/ray/package/ar7-atm/patches/100-compile_fix.patch
+END
+140-debug_mode.patch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/2941/branches/ray/package/ar7-atm/patches/140-debug_mode.patch
+END
+150-tasklet_mode.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/package/ar7-atm/patches/150-tasklet_mode.patch
+END
+110-interrupt_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/package/ar7-atm/patches/110-interrupt_fix.patch
+END
+120-no_dumb_inline.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/package/ar7-atm/patches/120-no_dumb_inline.patch
+END

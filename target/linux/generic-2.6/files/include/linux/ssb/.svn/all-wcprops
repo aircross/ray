@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files/include/linux/ssb
+END
+ssb.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files/include/linux/ssb/ssb.h
+END
+ssb_regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files/include/linux/ssb/ssb_regs.h
+END
+ssb_driver_mips.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files/include/linux/ssb/ssb_driver_mips.h
+END
+ssb_driver_pci.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files/include/linux/ssb/ssb_driver_pci.h
+END
+ssb_driver_chipcommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files/include/linux/ssb/ssb_driver_chipcommon.h
+END
+ssb_driver_extif.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/files/include/linux/ssb/ssb_driver_extif.h
+END

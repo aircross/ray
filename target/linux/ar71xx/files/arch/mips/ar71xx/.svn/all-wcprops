@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/files/arch/mips/ar71xx
+END
+ar71xx.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/files/arch/mips/ar71xx/ar71xx.c
+END
+mach-rb-4xx.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/files/arch/mips/ar71xx/mach-rb-4xx.c
+END
+irq.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/files/arch/mips/ar71xx/irq.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/files/arch/mips/ar71xx/Makefile
+END
+prom.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/files/arch/mips/ar71xx/prom.c
+END
+gpio.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/files/arch/mips/ar71xx/gpio.c
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/files/arch/mips/ar71xx/Kconfig
+END
+setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/files/arch/mips/ar71xx/setup.c
+END
+mach-generic.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/files/arch/mips/ar71xx/mach-generic.c
+END
+platform.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/files/arch/mips/ar71xx/platform.c
+END
+mach-wp543.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ar71xx/files/arch/mips/ar71xx/mach-wp543.c
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/include/asm-mips/mach-adm5120/prom
+END
+admboot.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/include/asm-mips/mach-adm5120/prom/admboot.h
+END
+generic.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/include/asm-mips/mach-adm5120/prom/generic.h
+END
+myloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/include/asm-mips/mach-adm5120/prom/myloader.h
+END
+cfe.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/include/asm-mips/mach-adm5120/prom/cfe.h
+END
+zynos.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/include/asm-mips/mach-adm5120/prom/zynos.h
+END
+routerboot.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/include/asm-mips/mach-adm5120/prom/routerboot.h
+END

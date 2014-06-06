@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-ifxmips/files/include/asm-mips
+END
+ifx_asc.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-ifxmips/files/include/asm-mips/ifx_asc.h
+END
+danube.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-ifxmips/files/include/asm-mips/danube.h
+END
+pinstrap.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-ifxmips/files/include/asm-mips/pinstrap.h
+END
+inca-ip2.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-ifxmips/files/include/asm-mips/inca-ip2.h
+END
+romconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-ifxmips/files/include/asm-mips/romconfig.h
+END
+errno.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/package/uboot-ifxmips/files/include/asm-mips/errno.h
+END

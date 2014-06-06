@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/4545/branches/ray/package/base-files/files/sbin
+END
+server-detect
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/4468/branches/ray/package/base-files/files/sbin/server-detect
+END
+garmin-fixedip.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/4098/branches/ray/package/base-files/files/sbin/garmin-fixedip.sh
+END
+led.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ezp/!svn/ver/2941/branches/ray/package/base-files/files/sbin/led.sh
+END
+wandetect
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/3782/branches/ray/package/base-files/files/sbin/wandetect
+END
+ifupv6
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ezp/!svn/ver/2941/branches/ray/package/base-files/files/sbin/ifupv6
+END
+start_delayed_action
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/4139/branches/ray/package/base-files/files/sbin/start_delayed_action
+END
+ifup.debug
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/2941/branches/ray/package/base-files/files/sbin/ifup.debug
+END
+format
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ezp/!svn/ver/2941/branches/ray/package/base-files/files/sbin/format
+END
+wanupnp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ezp/!svn/ver/2941/branches/ray/package/base-files/files/sbin/wanupnp
+END
+getsysinfo
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/4509/branches/ray/package/base-files/files/sbin/getsysinfo
+END
+usb-storage
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/2941/branches/ray/package/base-files/files/sbin/usb-storage
+END
+ezp-vlan
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ezp/!svn/ver/4455/branches/ray/package/base-files/files/sbin/ezp-vlan
+END
+mt7620-config-wan.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/4397/branches/ray/package/base-files/files/sbin/mt7620-config-wan.sh
+END
+ddns-detect
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/4372/branches/ray/package/base-files/files/sbin/ddns-detect
+END
+ezp-iptables
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/4397/branches/ray/package/base-files/files/sbin/ezp-iptables
+END
+ifcontrol
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/4542/branches/ray/package/base-files/files/sbin/ifcontrol
+END
+stop_services.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/4529/branches/ray/package/base-files/files/sbin/stop_services.sh
+END
+reserve_link.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/4044/branches/ray/package/base-files/files/sbin/reserve_link.sh
+END
+ifdownv6
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ezp/!svn/ver/2941/branches/ray/package/base-files/files/sbin/ifdownv6
+END
+ezp-tc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ezp/!svn/ver/2941/branches/ray/package/base-files/files/sbin/ezp-tc
+END
+ifup
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/4397/branches/ray/package/base-files/files/sbin/ifup
+END
+mount_root
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/2941/branches/ray/package/base-files/files/sbin/mount_root
+END
+ifupv6.tunnel6
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/2941/branches/ray/package/base-files/files/sbin/ifupv6.tunnel6
+END
+garmin_iptables.sh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/4131/branches/ray/package/base-files/files/sbin/garmin_iptables.sh
+END
+ezp-iptables.garmin
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/4080/branches/ray/package/base-files/files/sbin/ezp-iptables.garmin
+END
+ezp-wifionoff
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/2941/branches/ray/package/base-files/files/sbin/ezp-wifionoff
+END
+mt7620-config-lan.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/4397/branches/ray/package/base-files/files/sbin/mt7620-config-lan.sh
+END
+usb-remove
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/3082/branches/ray/package/base-files/files/sbin/usb-remove
+END
+sysupgrade
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/2941/branches/ray/package/base-files/files/sbin/sysupgrade
+END
+ifdown
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ezp/!svn/ver/4372/branches/ray/package/base-files/files/sbin/ifdown
+END
+ifdetect
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ezp/!svn/ver/2941/branches/ray/package/base-files/files/sbin/ifdetect
+END
+ezp-gpio
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ezp/!svn/ver/4545/branches/ray/package/base-files/files/sbin/ezp-gpio
+END
+hotplug-call
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/2941/branches/ray/package/base-files/files/sbin/hotplug-call
+END
+wifi
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ezp/!svn/ver/2941/branches/ray/package/base-files/files/sbin/wifi
+END
+check_wanportal
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/3680/branches/ray/package/base-files/files/sbin/check_wanportal
+END
+ifup.directip
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/4397/branches/ray/package/base-files/files/sbin/ifup.directip
+END
+garmin_vlan.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/4095/branches/ray/package/base-files/files/sbin/garmin_vlan.sh
+END

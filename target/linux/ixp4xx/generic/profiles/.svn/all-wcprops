@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ixp4xx/generic/profiles
+END
+400-DSMG600RevA.mk
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ixp4xx/generic/profiles/400-DSMG600RevA.mk
+END
+100-Default.mk
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ixp4xx/generic/profiles/100-Default.mk
+END
+105-Atheros-ath5k.mk
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ixp4xx/generic/profiles/105-Atheros-ath5k.mk
+END
+200-NSLU2.mk
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ixp4xx/generic/profiles/200-NSLU2.mk
+END
+300-NAS100d.mk
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ixp4xx/generic/profiles/300-NAS100d.mk
+END

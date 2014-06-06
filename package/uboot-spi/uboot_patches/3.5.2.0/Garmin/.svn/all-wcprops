@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/3759/branches/ray/package/uboot-spi/uboot_patches/3.5.2.0/Garmin
+END
+0003-add-buildroot-cflags.patch
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ezp/!svn/ver/3668/branches/ray/package/uboot-spi/uboot_patches/3.5.2.0/Garmin/0003-add-buildroot-cflags.patch
+END
+0004-ignore-load-fs-and-checksum.patch
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ezp/!svn/ver/3668/branches/ray/package/uboot-spi/uboot_patches/3.5.2.0/Garmin/0004-ignore-load-fs-and-checksum.patch
+END
+0005-remove-spi-write-check.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ezp/!svn/ver/3759/branches/ray/package/uboot-spi/uboot_patches/3.5.2.0/Garmin/0005-remove-spi-write-check.patch
+END
+0002-add-release-version-definition.patch
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/ezp/!svn/ver/3668/branches/ray/package/uboot-spi/uboot_patches/3.5.2.0/Garmin/0002-add-release-version-definition.patch
+END
+0001-fix-static-declaration-for-gcc424.patch
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/ezp/!svn/ver/3668/branches/ray/package/uboot-spi/uboot_patches/3.5.2.0/Garmin/0001-fix-static-declaration-for-gcc424.patch
+END

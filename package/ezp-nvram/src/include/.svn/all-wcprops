@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezp-nvram/src/include
+END
+shutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezp-nvram/src/include/shutils.h
+END
+bcmutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezp-nvram/src/include/bcmutils.h
+END
+typedefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezp-nvram/src/include/typedefs.h
+END
+wlutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezp-nvram/src/include/wlutils.h
+END
+bcmnvram.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezp-nvram/src/include/bcmnvram.h
+END

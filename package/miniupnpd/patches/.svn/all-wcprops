@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ezp/!svn/ver/3481/branches/ray/package/miniupnpd/patches
+END
+100-ezp-sony-product.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/3481/branches/ray/package/miniupnpd/patches/100-ezp-sony-product.patch
+END
+003-ssdp-sdreuse.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ezp/!svn/ver/2941/branches/ray/package/miniupnpd/patches/003-ssdp-sdreuse.patch
+END
+001-miniupnpd_make.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/package/miniupnpd/patches/001-miniupnpd_make.patch
+END
+002-miniupnpd-desc.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/package/miniupnpd/patches/002-miniupnpd-desc.patch
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/include/asm-arm/arch-oxnas
+END
+hardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/include/asm-arm/arch-oxnas/hardware.h
+END
+vmalloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/include/asm-arm/arch-oxnas/vmalloc.h
+END
+irqs.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/include/asm-arm/arch-oxnas/irqs.h
+END
+uncompress.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/include/asm-arm/arch-oxnas/uncompress.h
+END
+dma.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/include/asm-arm/arch-oxnas/dma.h
+END
+system.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/include/asm-arm/arch-oxnas/system.h
+END
+timex.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/include/asm-arm/arch-oxnas/timex.h
+END
+io.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/include/asm-arm/arch-oxnas/io.h
+END
+memory.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/include/asm-arm/arch-oxnas/memory.h
+END
+ox810sata.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/include/asm-arm/arch-oxnas/ox810sata.h
+END
+sata.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/include/asm-arm/arch-oxnas/sata.h
+END
+entry-macro.S
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/ox810/files/include/asm-arm/arch-oxnas/entry-macro.S
+END

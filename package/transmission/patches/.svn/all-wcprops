@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ezp/!svn/ver/3706/branches/ray/package/transmission/patches
+END
+002-peercontrol.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/package/transmission/patches/002-peercontrol.patch
+END
+004-completedremove.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/package/transmission/patches/004-completedremove.patch
+END
+001-dumpinfo.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/package/transmission/patches/001-dumpinfo.patch
+END
+003-daemoncommand.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/package/transmission/patches/003-daemoncommand.patch
+END
+005-filename.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/3706/branches/ray/package/transmission/patches/005-filename.patch
+END
+006-lightweight.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/3704/branches/ray/package/transmission/patches/006-lightweight.patch
+END

@@ -1,0 +1,58 @@
+#!/bin/sh /etc/rc.common
+CONF_FILE="/etc/lighttpd/lighttpd.conf.$$"
+R_CONF_FILE="/etc/lighttpd/lighttpd.conf"
+USBSTORAGE=96
+log_msg="Drive"
+start() {
+    [ -n "$(pidof lighttpd)" ] && exit
+    [ "$(nvram show drive_rule 0 enable)" = "1" -a \
+      -n "$(mount | grep /tmp/mnt)" ] || exit
+	local path=$(nvram show smbd_rule 0 share_path)
+    cp /etc/lighttpd/lighttpd.conf.template $CONF_FILE
+    echo "server.tag = \"$(nvram get hostname)\"" >> $CONF_FILE
+
+    [ "$(nvram show drive_rule 0 guest)" = "0" ] && {
+        NAME="$(nvram show drive_rule 0 name)"
+        PASSWD="$(nvram show drive_rule 0 password)"
+        echo "$NAME:$PASSWD" > "/tmp/lighttpd.user"
+        echo "guest:guest" >> "/tmp/lighttpd.user"
+        echo "auth.backend = \"plain\"" >> $CONF_FILE
+        echo "auth.backend.plain.userfile = \"/tmp/lighttpd.user\"" >> $CONF_FILE
+        echo "auth.require = (" >> $CONF_FILE
+        echo " \"/Public/\"  => (" >> $CONF_FILE
+        echo "  \"method\"  => \"digest\"," >> $CONF_FILE
+        echo "  \"realm\"   => \"Public\"," >> $CONF_FILE
+        echo "  \"require\" => \"valid-user\"" >> $CONF_FILE
+        echo " )," >> $CONF_FILE
+        echo " \"\"  => (" >> $CONF_FILE
+        echo "  \"method\"  => \"digest\"," >> $CONF_FILE
+        echo "  \"realm\"   => \"Drive\"," >> $CONF_FILE
+        echo "  \"require\" => \"user=$NAME\"" >> $CONF_FILE
+        echo " )" >> $CONF_FILE
+        echo ")" >> $CONF_FILE
+    }
+    PORT=$(nvram show drive_rule 0 port)
+    echo "server.port = $PORT" >> $CONF_FILE
+    [ "$(nvram show drive_rule 0 ext_access)" = "0" ] && {
+        echo "server.bind = \"$(nvram get lan0_ipaddr)\"" >> $CONF_FILE
+    }
+    mv $CONF_FILE $R_CONF_FILE
+    lighttpd -f $R_CONF_FILE
+    [ "$?" != "0" ] && {
+        start #Start again if start fail.
+        exit
+    }
+    usblabel=""
+    [ -x "/usr/sbin/blkid" ] && usblabel=$(blkid | awk 'FS="="{print $4}')
+    [ -z "$usblabel" ] && usblabel="USB"
+    usblabel=$(echo $usblabel | tr -d '"')
+    togo_add "$usblabel" "_drive._tcp." "$(nvram get lan0_ipaddr)" "$PORT" "$(nvram get lan_hwaddr_rule_default)" $(nvram show drive_rule 0 config)
+    sh /etc/rc.common /etc/init.d/mDNSResponder restart
+}
+
+stop() {
+    kill -9 $(pidof lighttpd)
+    togo_del "$(nvram get lan_hwaddr_rule_default)" "_drive._tcp."
+    sh /etc/rc.common /etc/init.d/mDNSResponder restart
+}
+

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi
+END
+Config.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/Config.in
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/Makefile
+END
+ath_hal-20081002.tgz
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ezp/!svn/ver/2941/branches/ray/package/madwifi/ath_hal-20081002.tgz
+END

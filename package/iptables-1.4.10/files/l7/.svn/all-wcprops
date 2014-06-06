@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ezp/!svn/ver/4421/branches/ray/package/iptables-1.4.10/files/l7
+END
+pop3.pat
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/4421/branches/ray/package/iptables-1.4.10/files/l7/pop3.pat
+END
+fasttrack.pat
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/4421/branches/ray/package/iptables-1.4.10/files/l7/fasttrack.pat
+END
+smtp.pat
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/4421/branches/ray/package/iptables-1.4.10/files/l7/smtp.pat
+END
+jabber.pat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/4421/branches/ray/package/iptables-1.4.10/files/l7/jabber.pat
+END
+vnc.pat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/4421/branches/ray/package/iptables-1.4.10/files/l7/vnc.pat
+END
+ftp.pat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/4421/branches/ray/package/iptables-1.4.10/files/l7/ftp.pat
+END
+bittorrent.pat
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/4421/branches/ray/package/iptables-1.4.10/files/l7/bittorrent.pat
+END
+edonkey.pat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ezp/!svn/ver/4421/branches/ray/package/iptables-1.4.10/files/l7/edonkey.pat
+END
+ssl.pat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/4421/branches/ray/package/iptables-1.4.10/files/l7/ssl.pat
+END
+ntp.pat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/4421/branches/ray/package/iptables-1.4.10/files/l7/ntp.pat
+END
+ident.pat
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ezp/!svn/ver/4421/branches/ray/package/iptables-1.4.10/files/l7/ident.pat
+END
+msnmessenger.pat
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ezp/!svn/ver/4421/branches/ray/package/iptables-1.4.10/files/l7/msnmessenger.pat
+END
+aim.pat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/4421/branches/ray/package/iptables-1.4.10/files/l7/aim.pat
+END
+gnutella.pat
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/4421/branches/ray/package/iptables-1.4.10/files/l7/gnutella.pat
+END
+irc.pat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/4421/branches/ray/package/iptables-1.4.10/files/l7/irc.pat
+END
+http.pat
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/4421/branches/ray/package/iptables-1.4.10/files/l7/http.pat
+END

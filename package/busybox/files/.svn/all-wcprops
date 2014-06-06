@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ezp/!svn/ver/3912/branches/ray/package/busybox/files
+END
+telnet
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ezp/!svn/ver/2941/branches/ray/package/busybox/files/telnet
+END
+cron
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ezp/!svn/ver/3912/branches/ray/package/busybox/files/cron
+END
+httpd
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ezp/!svn/ver/2941/branches/ray/package/busybox/files/httpd
+END
+telnetd-cli
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ezp/!svn/ver/3655/branches/ray/package/busybox/files/telnetd-cli
+END

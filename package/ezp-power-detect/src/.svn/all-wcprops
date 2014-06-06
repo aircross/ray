@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ezp/!svn/ver/3037/branches/ray/package/ezp-power-detect/src
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezp-power-detect/src/Makefile
+END
+power-detect.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/3037/branches/ray/package/ezp-power-detect/src/power-detect.c
+END

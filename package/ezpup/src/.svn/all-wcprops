@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/Makefile
+END
+ezpenc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/ezpenc.sh
+END
+ezpup.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/ezpup.c
+END
+encrypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ezp/!svn/ver/2941/branches/ray/package/ezpup/src/encrypt.c
+END

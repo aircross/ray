@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/arch/mips/adm5120/compex
+END
+compex.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/arch/mips/adm5120/compex/compex.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/arch/mips/adm5120/compex/Makefile
+END
+np27g.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/arch/mips/adm5120/compex/np27g.c
+END
+np28g.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/arch/mips/adm5120/compex/np28g.c
+END
+wp54.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/arch/mips/adm5120/compex/wp54.c
+END
+compex.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/arch/mips/adm5120/compex/compex.h
+END

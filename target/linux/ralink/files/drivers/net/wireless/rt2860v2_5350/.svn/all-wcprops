@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/3829/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_5350
+END
+README_STA_pci
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_5350/README_STA_pci
+END
+iwpriv_usage.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_5350/iwpriv_usage.txt
+END
+sta_ate_iwpriv_usage.txt
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_5350/sta_ate_iwpriv_usage.txt
+END
+RT2860STA.dat
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_5350/RT2860STA.dat
+END
+RT2860APCard.dat
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_5350/RT2860APCard.dat
+END
+wps_iwpriv_usage.txt
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_5350/wps_iwpriv_usage.txt
+END
+RT2860AP.dat
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_5350/RT2860AP.dat
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_5350/Makefile
+END
+RT2860STACard.dat
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ezp/!svn/ver/2989/branches/ray/target/linux/ralink/files/drivers/net/wireless/rt2860v2_5350/RT2860STACard.dat
+END

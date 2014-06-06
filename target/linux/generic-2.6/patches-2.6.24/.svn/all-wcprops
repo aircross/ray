@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24
+END
+190-netfilter_rtsp.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/190-netfilter_rtsp.patch
+END
+070-redboot_space.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/070-redboot_space.patch
+END
+207-powerpc_asm_segment_h.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/207-powerpc_asm_segment_h.patch
+END
+410-gpio_buttons.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/410-gpio_buttons.patch
+END
+930-ppc_big_endian_io_memory_accessors.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/930-ppc_big_endian_io_memory_accessors.patch
+END
+922-w1_gpio_driver_backport.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/922-w1_gpio_driver_backport.patch
+END
+202-mips-freestanding.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/202-mips-freestanding.patch
+END
+003-squashfs_lzma.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/003-squashfs_lzma.patch
+END
+012-mips_cpu_tlb.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/012-mips_cpu_tlb.patch
+END
+950-mtd_cfi_intel_p33_compatbility.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/950-mtd_cfi_intel_p33_compatbility.patch
+END
+403-ds1672_detect.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/403-ds1672_detect.patch
+END
+401-led_alix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/401-led_alix.patch
+END
+850-jffs2_erase_progress_indicator.patch
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/850-jffs2_erase_progress_indicator.patch
+END
+905-i386_build.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/905-i386_build.patch
+END
+100-netfilter_layer7_2.17.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/100-netfilter_layer7_2.17.patch
+END
+903-stddef_include.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/903-stddef_include.patch
+END
+904-ls_time_locale.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/904-ls_time_locale.patch
+END
+002-lzma_decompress.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/002-lzma_decompress.patch
+END
+801-usb_serial_endpoint_size.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/801-usb_serial_endpoint_size.patch
+END
+011-mips_boot.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/011-mips_boot.patch
+END
+001-squashfs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/001-squashfs.patch
+END
+170-netfilter_chaostables_0.8.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/170-netfilter_chaostables_0.8.patch
+END
+065-rootfs_split.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/065-rootfs_split.patch
+END
+600-phy_extension.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/600-phy_extension.patch
+END
+903-hostap_txpower.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/903-hostap_txpower.patch
+END
+400-ledtrig_morse.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/400-ledtrig_morse.patch
+END
+150-netfilter_imq.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/150-netfilter_imq.patch
+END
+902-darwin_scripts_include.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/902-darwin_scripts_include.patch
+END
+060-block2mtd_init.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/060-block2mtd_init.patch
+END
+510-yaffs_support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/510-yaffs_support.patch
+END
+140-netfilter_time.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/140-netfilter_time.patch
+END
+208-rtl8110sb_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/208-rtl8110sb_fix.patch
+END
+013-mips_gdb_stub.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/013-mips_gdb_stub.patch
+END
+900-headers_type_and_time.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/900-headers_type_and_time.patch
+END
+110-ipp2p_0.8.1rc1.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/110-ipp2p_0.8.1rc1.patch
+END
+840-unable_to_open_console.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/840-unable_to_open_console.patch
+END
+171-netfilter_tarpit.patch
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/171-netfilter_tarpit.patch
+END
+700-powerpc_git.patch
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/700-powerpc_git.patch
+END
+006-gcc4_inline_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/006-gcc4_inline_fix.patch
+END
+080-mtd_plat_nand_chip_fixup.patch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/080-mtd_plat_nand_chip_fixup.patch
+END
+209-mini_fo.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/209-mini_fo.patch
+END
+220-sound_kconfig.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/220-sound_kconfig.patch
+END
+004-extra_optimization.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/004-extra_optimization.patch
+END
+402-ledtrig_default_on.patch
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/402-ledtrig_default_on.patch
+END
+921-gpio_spi_driver.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/921-gpio_spi_driver.patch
+END
+007-samsung_flash.patch
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/007-samsung_flash.patch
+END
+204-jffs2_eofdetect.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/204-jffs2_eofdetect.patch
+END
+420-gpiodev.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/420-gpiodev.patch
+END
+130-netfilter_ipset.patch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/130-netfilter_ipset.patch
+END
+200-sched_esfq.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/200-sched_esfq.patch
+END
+180-netfilter_depends.patch
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/180-netfilter_depends.patch
+END
+005-squashfs_fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/005-squashfs_fix.patch
+END
+010-disable_old_squashfs_compatibility.patch
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/010-disable_old_squashfs_compatibility.patch
+END
+601-br2684-routed-support.patch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/601-br2684-routed-support.patch
+END
+940-arm_mach_types.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/940-arm_mach_types.patch
+END
+009-revert_intel_flash_breakage.patch
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/009-revert_intel_flash_breakage.patch
+END
+101-netfilter_layer7_pktmatch.patch
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/101-netfilter_layer7_pktmatch.patch
+END
+213-kobject_uevent.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/generic-2.6/patches-2.6.24/213-kobject_uevent.patch
+END

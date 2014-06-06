@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/au1000/patches
+END
+001-au1000_gpio_kconfig.patch
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/au1000/patches/001-au1000_gpio_kconfig.patch
+END
+014-au1000_eth_ioctl.patch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/au1000/patches/014-au1000_eth_ioctl.patch
+END
+015-pci-resource.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/au1000/patches/015-pci-resource.patch
+END
+016-net-irq.patch
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/au1000/patches/016-net-irq.patch
+END
+012-mtx1_cmdline.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/au1000/patches/012-mtx1_cmdline.patch
+END
+013-openwrt_rootfs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/au1000/patches/013-openwrt_rootfs.patch
+END
+002-sys_btn_gpio.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/au1000/patches/002-sys_btn_gpio.patch
+END
+017-gpio-dir.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/au1000/patches/017-gpio-dir.patch
+END
+005-au1000_eth_link_beat.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/au1000/patches/005-au1000_eth_link_beat.patch
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/drivers/usb/host
+END
+adm5120.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/drivers/usb/host/adm5120.h
+END
+adm5120-drv.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/drivers/usb/host/adm5120-drv.c
+END
+adm5120-dbg.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/drivers/usb/host/adm5120-dbg.c
+END
+adm5120-pm.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/drivers/usb/host/adm5120-pm.c
+END
+adm5120-hcd.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/drivers/usb/host/adm5120-hcd.c
+END
+adm5120-hub.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/drivers/usb/host/adm5120-hub.c
+END
+adm5120-mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/drivers/usb/host/adm5120-mem.c
+END
+adm5120-q.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ezp/!svn/ver/2941/branches/ray/target/linux/adm5120/files-2.6.26/drivers/usb/host/adm5120-q.c
+END

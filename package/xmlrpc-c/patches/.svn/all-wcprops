@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ezp/!svn/ver/2941/branches/ray/package/xmlrpc-c/patches
+END
+001-config.mk.in.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/2941/branches/ray/package/xmlrpc-c/patches/001-config.mk.in.patch
+END
+005-curl_transport_Makefile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ezp/!svn/ver/2941/branches/ray/package/xmlrpc-c/patches/005-curl_transport_Makefile.patch
+END
+006-string.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/2941/branches/ray/package/xmlrpc-c/patches/006-string.patch
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc
+END
+Config.version
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/Config.version
+END
+Config.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/Config.in
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ezp/!svn/ver/2941/branches/ray/toolchain/gcc/Makefile
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ezp/!svn/ver/4430/branches/ray/package/snort/patches
+END
+101-PCAP.patch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ezp/!svn/ver/4430/branches/ray/package/snort/patches/101-PCAP.patch
+END
+220-configure.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/4430/branches/ray/package/snort/patches/220-configure.patch
+END
+160-mysql_cross_compiling_checks.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/4430/branches/ray/package/snort/patches/160-mysql_cross_compiling_checks.patch
+END
+001-automake-compat.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/4430/branches/ray/package/snort/patches/001-automake-compat.patch
+END
+200-snortsam.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ezp/!svn/ver/4430/branches/ray/package/snort/patches/200-snortsam.patch
+END
+240-src_outpur_Makefile.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ezp/!svn/ver/4430/branches/ray/package/snort/patches/240-src_outpur_Makefile.patch
+END
+230-src_Makefile_in.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ezp/!svn/ver/4430/branches/ray/package/snort/patches/230-src_Makefile_in.patch
+END
+100-INADDR_NONE.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ezp/!svn/ver/4430/branches/ray/package/snort/patches/100-INADDR_NONE.patch
+END
+150-config-preprocessors-disable.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ezp/!svn/ver/4430/branches/ray/package/snort/patches/150-config-preprocessors-disable.patch
+END
+210-configure.patch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ezp/!svn/ver/4430/branches/ray/package/snort/patches/210-configure.patch
+END
